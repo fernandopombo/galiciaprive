@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notoSansSC, notoSerifSC } from "@/lib/fonts";
+import { fraunces, notoSansSC, notoSerifSC } from "@/lib/fonts";
 import "../globals.css";
 
 export const metadata: Metadata = {
@@ -12,7 +12,7 @@ export default function CnLayout({ children }: { children: React.ReactNode }) {
   return (
     <html
       lang="zh-Hans"
-      className={`${notoSansSC.variable} ${notoSerifSC.variable} h-full antialiased`}
+      className={`${notoSansSC.variable} ${notoSerifSC.variable} ${fraunces.variable} h-full antialiased`}
     >
       <body
         className="min-h-full flex flex-col bg-sand-50 text-sea-900"

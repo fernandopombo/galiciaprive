@@ -4,6 +4,7 @@ import { prisma } from "@/lib/prisma";
 import { ROUTE_LABELS } from "@/lib/labels";
 import { formatCurrency } from "@/lib/format";
 import { Logo } from "@/components/logo";
+import { VideoHero } from "@/components/video-hero";
 
 export default async function HomePage() {
   await connection();
@@ -15,58 +16,58 @@ export default async function HomePage() {
 
   return (
     <main className="flex-1">
-      <header className="border-b border-sand-200 bg-sand-50/90 backdrop-blur-sm">
-        <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
-          <Logo tagline="Camino de Santiago" />
-          <div className="flex items-center gap-6">
-            <Link
-              href="/us"
-              className="hidden text-xs uppercase tracking-[0.2em] text-sea-700/60 transition hover:text-sea-700 sm:block"
-            >
-              EN
-            </Link>
-            <Link
-              href="/cn"
-              className="hidden text-xs tracking-[0.2em] text-sea-700/60 transition hover:text-sea-700 sm:block"
-            >
-              中文
-            </Link>
-            <Link
-              href="/reservar"
-              className="rounded-full bg-sea-700 px-6 py-2.5 text-sm text-white transition hover:bg-sea-900"
-            >
-              Solicitar reserva
-            </Link>
+      <VideoHero>
+        <header className="relative z-10">
+          <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-8">
+            <Logo tagline="Camino de Santiago" tone="light" />
+            <div className="flex items-center gap-7">
+              <Link
+                href="/us"
+                className="hidden text-xs uppercase tracking-[0.2em] text-sand-50/70 transition hover:text-sand-50 sm:block"
+              >
+                EN
+              </Link>
+              <Link
+                href="/cn"
+                className="hidden text-xs tracking-[0.2em] text-sand-50/70 transition hover:text-sand-50 sm:block"
+              >
+                中文
+              </Link>
+              <Link
+                href="/reservar"
+                className="rounded-full border border-sand-50/40 px-6 py-2.5 text-sm text-sand-50 transition hover:bg-sand-50 hover:text-sea-900"
+              >
+                Solicitar reserva
+              </Link>
+            </div>
           </div>
-        </div>
-      </header>
+        </header>
 
-      <section className="relative overflow-hidden grain">
-        <div className="mx-auto max-w-5xl px-6 pt-24 pb-20 sm:pt-32">
-          <p className="text-[0.7rem] uppercase tracking-[0.32em] text-field-700">
+        <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-1 flex-col justify-end px-6 pb-20">
+          <p className="text-[0.7rem] uppercase tracking-[0.32em] text-sand-50/70">
             Galicia · Camino de Santiago
           </p>
-          <h1 className="mt-7 max-w-3xl font-serif text-[2.75rem] leading-[1.08] text-sea-900 sm:text-6xl">
+          <h1 className="mt-7 max-w-3xl font-serif text-[2.75rem] leading-[1.05] text-sand-50 sm:text-[4.25rem]">
             El Camino esencial, sin renunciar a nada.
           </h1>
-          <p className="mt-8 max-w-xl text-lg leading-relaxed text-sea-900/70">
+          <p className="mt-8 max-w-xl text-lg leading-relaxed text-sand-50/80">
             Peregrinaciones privadas con guía-concierge dedicado, alojamiento en
             paradores y pazos históricos y gastronomía de autor. Grupos reducidos
             o experiencia enteramente privada.
           </p>
-          <div className="mt-10 flex flex-wrap items-center gap-5">
+          <div className="mt-10 flex flex-wrap items-center gap-6">
             <Link
               href="/reservar"
-              className="rounded-full bg-sea-700 px-8 py-3.5 text-sm text-white transition hover:bg-sea-900"
+              className="rounded-full bg-sand-50 px-8 py-3.5 text-sm text-sea-900 transition hover:bg-white"
             >
               Solicitar reserva
             </Link>
-            <span className="text-sm text-sea-900/50">
+            <span className="text-sm text-sand-50/60">
               5 a 7 días · De 2 a 8 caminantes · Un guía que no le deja
             </span>
           </div>
         </div>
-      </section>
+      </VideoHero>
 
       <div className="border-y border-sand-200 bg-sand-100">
         <section className="mx-auto max-w-5xl px-6 py-20">

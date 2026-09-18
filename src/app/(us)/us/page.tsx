@@ -2,6 +2,7 @@ import { connection } from "next/server";
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 import { Logo } from "@/components/logo";
+import { VideoHero } from "@/components/video-hero";
 
 const ROUTE_LABELS_EN: Record<string, string> = {
   FRANCES: "The French Way",
@@ -62,54 +63,54 @@ export default async function UsHomePage() {
 
   return (
     <main className="flex-1">
-      <header className="border-b border-sand-200 bg-sand-50/90 backdrop-blur-sm">
-        <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
-          <Logo tagline="Camino de Santiago" />
-          <div className="flex items-center gap-6">
-            <Link
-              href="/cn"
-              className="hidden text-xs uppercase tracking-[0.2em] text-sea-700/60 transition hover:text-sea-700 sm:block"
-            >
-              中文
-            </Link>
-            <Link
-              href="/us/book"
-              className="rounded-full bg-sea-700 px-6 py-2.5 text-sm text-white transition hover:bg-sea-900"
-            >
-              Begin a conversation
-            </Link>
+      {/* Hero a pantalla completa: tiempo, presencia y ausencia de fricción —
+          el lenguaje que resuena en el comprador de lujo americano. */}
+      <VideoHero>
+        <header className="relative z-10">
+          <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-8">
+            <Logo tagline="Camino de Santiago" tone="light" />
+            <div className="flex items-center gap-7">
+              <Link
+                href="/cn"
+                className="hidden text-xs uppercase tracking-[0.2em] text-sand-50/70 transition hover:text-sand-50 sm:block"
+              >
+                中文
+              </Link>
+              <Link
+                href="/us/book"
+                className="rounded-full border border-sand-50/40 px-6 py-2.5 text-sm text-sand-50 transition hover:bg-sand-50 hover:text-sea-900"
+              >
+                Begin a conversation
+              </Link>
+            </div>
           </div>
-        </div>
-      </header>
+        </header>
 
-      {/* Hero: tiempo, presencia y ausencia de fricción — el lenguaje que
-          resuena en el comprador de lujo americano (mindful luxury). */}
-      <section className="relative overflow-hidden grain">
-        <div className="mx-auto max-w-5xl px-6 pt-24 pb-20 sm:pt-32">
-          <p className="text-[0.7rem] uppercase tracking-[0.32em] text-field-700">
+        <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-1 flex-col justify-end px-6 pb-20">
+          <p className="text-[0.7rem] uppercase tracking-[0.32em] text-sand-50/70">
             Galicia · Northern Spain
           </p>
-          <h1 className="mt-7 max-w-3xl font-serif text-[2.75rem] leading-[1.08] text-sea-900 sm:text-6xl">
+          <h1 className="mt-7 max-w-3xl font-serif text-[2.75rem] leading-[1.05] text-sand-50 sm:text-[4.25rem]">
             A thousand-year-old road, and nothing in the way of walking it.
           </h1>
-          <p className="mt-8 max-w-xl text-lg leading-relaxed text-sea-900/70">
+          <p className="mt-8 max-w-xl text-lg leading-relaxed text-sand-50/80">
             You walk every kilometer. We take care of everything that isn&apos;t
             walking — the beds, the bags, the table, the language, the timing of
             the day. What&apos;s left is the part you came for.
           </p>
-          <div className="mt-10 flex flex-wrap items-center gap-5">
+          <div className="mt-10 flex flex-wrap items-center gap-6">
             <Link
               href="/us/book"
-              className="rounded-full bg-sea-700 px-8 py-3.5 text-sm text-white transition hover:bg-sea-900"
+              className="rounded-full bg-sand-50 px-8 py-3.5 text-sm text-sea-900 transition hover:bg-white"
             >
               Begin a conversation
             </Link>
-            <span className="text-sm text-sea-900/50">
+            <span className="text-sm text-sand-50/60">
               Five to seven days · Two to eight walkers · A guide who stays with you
             </span>
           </div>
         </div>
-      </section>
+      </VideoHero>
 
       {/* Miedo nº1 documentado en foros americanos: la masificación. */}
       <div className="border-y border-sand-200 bg-sand-100">

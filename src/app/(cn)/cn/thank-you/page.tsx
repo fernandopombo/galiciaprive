@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { LogoMark } from "@/components/logo";
+import { Logo } from "@/components/logo";
 
 const serif = { fontFamily: "var(--font-noto-serif-sc), serif" } as const;
 
@@ -7,7 +7,7 @@ export default function CnThankYouPage() {
   return (
     <main className="flex flex-1 items-center justify-center px-6 py-28">
       <div className="max-w-lg text-center">
-        <LogoMark className="mx-auto h-10 w-10" />
+        <Logo className="items-center" tagline="圣地亚哥朝圣之路" />
         <h1 style={serif} className="mt-10 text-3xl leading-[1.4] text-sea-900">
           已经收到了
         </h1>

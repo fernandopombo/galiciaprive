@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 import { BookingForm, type BookingCopy } from "@/components/booking-form";
-import { LogoMark } from "@/components/logo";
+import { Logo } from "@/components/logo";
 
 const serif = { fontFamily: "var(--font-noto-serif-sc), serif" } as const;
 
@@ -57,11 +57,8 @@ export default async function CnBookPage({
     <main className="flex-1">
       <header className="border-b border-sand-200 bg-sand-50">
         <div className="mx-auto flex max-w-3xl items-center justify-between px-6 py-5">
-          <Link href="/cn" className="inline-flex items-center gap-3">
-            <LogoMark className="h-8 w-8" />
-            <span style={serif} className="tracking-[0.18em] text-sea-700">
-              GALICIA PRIVÉ
-            </span>
+          <Link href="/cn">
+            <Logo tagline="圣地亚哥朝圣之路" />
           </Link>
         </div>
       </header>

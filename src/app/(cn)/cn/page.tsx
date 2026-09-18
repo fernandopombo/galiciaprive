@@ -1,7 +1,8 @@
 import { connection } from "next/server";
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
-import { LogoMark } from "@/components/logo";
+import { Logo } from "@/components/logo";
+import { VideoHero } from "@/components/video-hero";
 
 const ROUTE_LABELS_CN: Record<string, string> = {
   FRANCES: "法国之路",
@@ -65,71 +66,58 @@ export default async function CnHomePage() {
 
   return (
     <main className="flex-1">
-      <header className="border-b border-sand-200 bg-sand-50/90 backdrop-blur-sm">
-        <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
-          <span className="inline-flex items-center gap-3">
-            <LogoMark className="h-8 w-8" />
-            <span className="flex flex-col leading-none">
-              <span
-                style={serif}
-                className="text-[0.95rem] tracking-[0.18em] text-sea-700"
-              >
-                GALICIA PRIVÉ
-              </span>
-              <span className="mt-1.5 text-[0.65rem] tracking-[0.25em] text-field-700">
-                圣地亚哥朝圣之路
-              </span>
-            </span>
-          </span>
-          <div className="flex items-center gap-6">
-            <Link
-              href="/us"
-              className="hidden text-xs tracking-[0.2em] text-sea-700/60 transition hover:text-sea-700 sm:block"
-            >
-              EN
-            </Link>
-            <Link
-              href="/cn/book"
-              className="rounded-full bg-sea-700 px-6 py-2.5 text-sm text-white transition hover:bg-sea-900"
-            >
-              预约咨询
-            </Link>
-          </div>
-        </div>
-      </header>
-
       {/* 治愈 / 与自我对话：中文市场已验证的叙事框架，而非宗教框架。 */}
-      <section className="relative overflow-hidden grain">
-        <div className="mx-auto max-w-5xl px-6 pt-24 pb-20">
-          <p className="text-[0.7rem] tracking-[0.3em] text-field-700">
+      <VideoHero>
+        <header className="relative z-10">
+          <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-8">
+            <Logo tagline="圣地亚哥朝圣之路" tone="light" />
+            <div className="flex items-center gap-7">
+              <Link
+                href="/us"
+                className="hidden text-xs tracking-[0.2em] text-sand-50/70 transition hover:text-sand-50 sm:block"
+              >
+                EN
+              </Link>
+              <Link
+                href="/cn/book"
+                className="rounded-full border border-sand-50/40 px-6 py-2.5 text-sm text-sand-50 transition hover:bg-sand-50 hover:text-sea-900"
+              >
+                预约咨询
+              </Link>
+            </div>
+          </div>
+        </header>
+
+        <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-1 flex-col justify-end px-6 pb-20">
+          <p className="text-[0.7rem] tracking-[0.3em] text-sand-50/70">
             西班牙 · 加利西亚
           </p>
           <h1
             style={serif}
-            className="mt-7 max-w-3xl text-[2.5rem] leading-[1.3] text-sea-900 sm:text-[3.5rem]"
+            className="mt-7 max-w-3xl text-[2.5rem] leading-[1.35] text-sand-50 sm:text-[3.75rem]"
           >
             用一百公里，
             <br />
             和自己好好说一次话。
           </h1>
-          <p className="mt-8 max-w-xl text-[1.05rem] leading-[1.9] text-sea-900/70">
+          <p className="mt-8 max-w-xl text-[1.05rem] leading-[1.9] text-sand-50/80">
             没有赶路，没有打卡清单，没有需要你操心的任何事。
             中文向导全程陪同，行李有人搬，餐厅有人订，语言有人讲——
             你只需要走路、看海、把这段时间还给自己。
           </p>
-          <div className="mt-10 flex flex-wrap items-center gap-5">
+          <div className="mt-10 flex flex-wrap items-center gap-6">
             <Link
               href="/cn/book"
-              className="rounded-full bg-sea-700 px-8 py-3.5 text-sm text-white transition hover:bg-sea-900"
+              className="rounded-full bg-sand-50 px-8 py-3.5 text-sm text-sea-900 transition hover:bg-white"
             >
               预约咨询
             </Link>
-            <span className="text-sm text-sea-900/50">
+            <span className="text-sm text-sand-50/60">
               5–7 天 · 2–8 人小团或私人定制 · 全程中文
             </span>
           </div>
         </div>
-      </section>
+      </VideoHero>
 
       {/* 安全感：中文市场最大的实际顾虑，必须正面回应。 */}
       <div className="border-y border-sand-200 bg-sand-100">
@@ -359,12 +347,7 @@ export default async function CnHomePage() {
 
       <footer className="border-t border-sand-200 bg-sand-100">
         <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-4 px-6 py-8 text-sm text-sea-900/50">
-          <span className="inline-flex items-center gap-3">
-            <LogoMark className="h-7 w-7" />
-            <span style={serif} className="tracking-[0.18em] text-sea-700">
-              GALICIA PRIVÉ
-            </span>
-          </span>
+          <Logo size="sm" />
           <div className="flex gap-6">
             <Link href="/us" className="transition hover:text-sea-700">
               English
