@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ULTRAVIP — Camino de Santiago",
+  title: "Galicia Privé — Camino de Santiago",
   description:
     "Peregrinaciones exclusivas por el Camino de Santiago: Camino Francés, Camino Portugués y Camino Portugués da Costa.",
 };

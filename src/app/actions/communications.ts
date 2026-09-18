@@ -49,7 +49,7 @@ export async function logCommunication(
   if (shouldSend) {
     const result = await sendEmail({
       to: customer.email,
-      subject: data.subject || "ULTRAVIP",
+      subject: data.subject || "Galicia Privé",
       body: data.body,
     });
     notice = result.sent

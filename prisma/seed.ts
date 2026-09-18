@@ -7,7 +7,7 @@ const adapter = new PrismaPg({ connectionString: process.env.DATABASE_URL });
 const prisma = new PrismaClient({ adapter });
 
 async function main() {
-  const adminEmail = process.env.SEED_ADMIN_EMAIL ?? "admin@ultravip.example";
+  const adminEmail = process.env.SEED_ADMIN_EMAIL ?? "admin@galiciaprive.com";
   const adminPassword = process.env.SEED_ADMIN_PASSWORD ?? "CambiaEstaClave123!";
 
   const passwordHash = await bcrypt.hash(adminPassword, 10);
@@ -16,7 +16,7 @@ async function main() {
     where: { email: adminEmail },
     update: {},
     create: {
-      name: "Administrador ULTRAVIP",
+      name: "Administrador Galicia Privé",
       email: adminEmail,
       passwordHash,
       role: "ADMIN",
@@ -27,7 +27,7 @@ async function main() {
 
   const packages = [
     {
-      name: "Camino Francés VIP — Sarria a Santiago",
+      name: "Camino Francés Privé — Sarria a Santiago",
       route: "FRANCES" as const,
       description:
         "Los últimos 100 km del Camino Francés en formato ultra-exclusivo: paradores, pazos y hoteles 5 estrellas, guía-concierge dedicado y gastronomía de autor.",
@@ -35,7 +35,7 @@ async function main() {
       basePricePerson: 4500,
     },
     {
-      name: "Camino Portugués VIP — Tui a Santiago",
+      name: "Camino Portugués Privé — Tui a Santiago",
       route: "PORTUGUES" as const,
       description:
         "El Camino Portugués central desde Tui, con alojamientos históricos y experiencias privadas seleccionadas para un público exclusivo.",
@@ -43,7 +43,7 @@ async function main() {
       basePricePerson: 4200,
     },
     {
-      name: "Camino Portugués da Costa VIP",
+      name: "Camino Portugués da Costa Privé",
       route: "PORTUGUES_COSTA" as const,
       description:
         "La variante costera del Camino Portugués: acantilados, rías y atardeceres atlánticos, con la misma experiencia ultra-exclusiva de guía dedicado y alojamiento de lujo.",

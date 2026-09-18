@@ -14,7 +14,7 @@ export default async function HomePage() {
       <header className="border-b border-stone-200 bg-white">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
           <span className="text-lg font-semibold tracking-[0.2em] text-stone-900">
-            ULTRAVIP
+            Galicia Privé
           </span>
           <Link
             href="/reservar"
@@ -85,7 +85,7 @@ export default async function HomePage() {
 
       <footer className="border-t border-stone-200 bg-white">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6 text-sm text-stone-500">
-          <span>ULTRAVIP — Camino de Santiago</span>
+          <span>Galicia Privé — Camino de Santiago</span>
           <Link href="/admin" className="hover:text-stone-900">
             Acceso equipo
           </Link>

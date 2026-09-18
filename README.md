@@ -1,4 +1,4 @@
-# ULTRAVIP
+# Galicia Privé
 
 Web de reservas + CRM interno para una empresa de peregrinaciones de lujo por el
 Camino de Santiago (Camino Francés, Camino Portugués y Camino Portugués da Costa).

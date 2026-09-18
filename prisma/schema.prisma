@@ -1,4 +1,4 @@
-// ULTRAVIP — esquema de datos: web pública de reservas + CRM interno
+// Galicia Privé — esquema de datos: web pública de reservas + CRM interno
 
 generator client {
   provider = "prisma-client"
@@ -53,7 +53,7 @@ enum CommunicationDirection {
   INBOUND
 }
 
-// Usuario interno (equipo ULTRAVIP) con acceso al CRM. No hay alta pública.
+// Usuario interno (equipo Galicia Privé) con acceso al CRM. No hay alta pública.
 model User {
   id            String          @id @default(cuid())
   name          String
@@ -66,7 +66,7 @@ model User {
   communications Communication[]
 }
 
-// Paquete / producto vendible (un tramo del Camino en formato ULTRAVIP).
+// Paquete / producto vendible (un tramo del Camino en formato Galicia Privé).
 model Package {
   id              String    @id @default(cuid())
   name            String

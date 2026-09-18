@@ -22,7 +22,7 @@ export default async function ReservarPage({
             href="/"
             className="text-lg font-semibold tracking-[0.2em] text-stone-900"
           >
-            ULTRAVIP
+            Galicia Privé
           </Link>
         </div>
       </header>

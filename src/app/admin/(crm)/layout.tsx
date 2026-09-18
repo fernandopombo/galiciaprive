@@ -23,7 +23,7 @@ export default async function CrmLayout({ children }: LayoutProps<"/admin">) {
             href="/admin"
             className="text-base font-semibold tracking-[0.2em] text-stone-900"
           >
-            ULTRAVIP
+            Galicia Privé
           </Link>
           <nav className="flex flex-wrap gap-5 text-sm text-stone-600">
             {navItems.map((item) => (
