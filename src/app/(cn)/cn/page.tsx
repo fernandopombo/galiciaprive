@@ -1,3 +1,4 @@
+import { connection } from "next/server";
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 import { LogoMark } from "@/components/logo";
@@ -55,6 +56,8 @@ function Section({
 }
 
 export default async function CnHomePage() {
+  await connection();
+
   const packages = await prisma.package.findMany({
     where: { active: true },
     orderBy: { name: "asc" },
