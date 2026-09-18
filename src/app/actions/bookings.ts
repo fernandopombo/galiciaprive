@@ -18,7 +18,21 @@ const bookingRequestSchema = z.object({
   partySize: z.enum(["SOLO", "PAREJA", "GRUPO"]),
   pax: z.coerce.number().int().min(1).max(20),
   message: z.string().max(2000).optional(),
+  locale: z.enum(["es", "us", "cn"]).default("es"),
 });
+
+// Cada web de mercado identifica su propio origen en el CRM.
+const LEAD_SOURCE: Record<string, string> = {
+  us: "WEB-USA",
+  cn: "WEB-CHINA",
+  es: "WEB-ES",
+};
+
+const THANK_YOU_PATH: Record<string, string> = {
+  us: "/us/thank-you",
+  cn: "/cn/thank-you",
+  es: "/reservar/gracias",
+};
 
 export type BookingFormState = { error?: string };
 
@@ -41,6 +55,8 @@ export async function createBookingRequest(
     return { error: "El paquete seleccionado no está disponible" };
   }
 
+  const source = LEAD_SOURCE[data.locale];
+
   const customer = await prisma.customer.upsert({
     where: { email: data.email },
     update: {
@@ -57,7 +73,7 @@ export async function createBookingRequest(
       phone: data.phone || undefined,
       country: data.country || undefined,
       market: data.market,
-      source: "Web",
+      source,
     },
   });
 
@@ -75,7 +91,7 @@ export async function createBookingRequest(
 
   revalidatePath("/admin");
   revalidatePath("/admin/reservas");
-  redirect("/reservar/gracias");
+  redirect(THANK_YOU_PATH[data.locale]);
 }
 
 export async function updateBookingStatus(bookingId: string, status: string) {

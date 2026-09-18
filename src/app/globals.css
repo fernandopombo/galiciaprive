@@ -2,9 +2,31 @@
 
 @theme inline {
   --font-sans: var(--font-geist-sans);
+  --font-serif: var(--font-fraunces);
   --font-mono: var(--font-geist-mono);
+
+  /* Marca: el azul del Atlántico gallego y el verde de su campo. */
+  --color-sea-900: #08313d;
+  --color-sea-700: #0e4c5e;
+  --color-sea-500: #1c6068;
+  --color-field-700: #2f6b4c;
+  --color-field-500: #4a8560;
+  --color-sand-50: #fdfbf7;
+  --color-sand-100: #f6f1e8;
+  --color-sand-200: #e9e1d4;
 }
 
 body {
   font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+/* Grano de película: da textura física a los fondos claros de las webs de
+   mercado, que son la cara comercial de la marca. */
+.grain::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
 }

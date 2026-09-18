@@ -28,6 +28,7 @@ export default async function ClientesPage() {
             <thead className="text-left text-xs uppercase tracking-[0.1em] text-stone-500">
               <tr className="border-b border-stone-200">
                 <th className="px-6 py-3 font-medium">Cliente</th>
+                <th className="px-6 py-3 font-medium">Origen</th>
                 <th className="px-6 py-3 font-medium">Mercado</th>
                 <th className="px-6 py-3 font-medium">País</th>
                 <th className="px-6 py-3 font-medium">Reservas</th>
@@ -53,6 +54,15 @@ export default async function ClientesPage() {
                         {customer.firstName} {customer.lastName}
                       </Link>
                       <p className="text-xs text-stone-500">{customer.email}</p>
+                    </td>
+                    <td className="px-6 py-3">
+                      {customer.source ? (
+                        <span className="rounded-full border border-stone-300 px-2.5 py-1 font-mono text-xs text-stone-600">
+                          {customer.source}
+                        </span>
+                      ) : (
+                        <span className="text-stone-400">—</span>
+                      )}
                     </td>
                     <td className="px-6 py-3 text-stone-600">
                       {MARKET_LABELS[customer.market]}

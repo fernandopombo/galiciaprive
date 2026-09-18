@@ -45,5 +45,5 @@ next-env.d.ts
 
 # skills de agentes instaladas por herramientas (regenerables, ver skills-lock.json)
 /.agents
-/.claude/skills
+/.claude/skills/prisma-*
 /.windsurf

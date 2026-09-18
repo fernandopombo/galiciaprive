@@ -77,6 +77,15 @@ export default async function AdminDashboardPage() {
     value,
   }));
 
+  const bySourceMap = new Map<string, number>();
+  for (const booking of bookings) {
+    const key = booking.customer.source ?? "Sin origen";
+    bySourceMap.set(key, (bySourceMap.get(key) ?? 0) + 1);
+  }
+  const bySource = Array.from(bySourceMap.entries())
+    .map(([name, value]) => ({ name, value }))
+    .sort((a, b) => b.value - a.value);
+
   const recent = bookings.slice(0, 8);
 
   return (
@@ -140,6 +149,27 @@ export default async function AdminDashboardPage() {
           <p className="mt-2 text-sm text-stone-500">
             Valor estimado de todas las reservas no canceladas.
           </p>
+
+          <h3 className="mt-8 text-sm uppercase tracking-[0.15em] text-stone-500">
+            Origen del lead
+          </h3>
+          {bySource.length === 0 ? (
+            <p className="mt-3 text-sm text-stone-500">Sin datos todavía.</p>
+          ) : (
+            <ul className="mt-3 space-y-2">
+              {bySource.map((entry) => (
+                <li
+                  key={entry.name}
+                  className="flex items-center justify-between text-sm"
+                >
+                  <span className="font-mono text-xs text-stone-600">
+                    {entry.name}
+                  </span>
+                  <span className="text-stone-900">{entry.value}</span>
+                </li>
+              ))}
+            </ul>
+          )}
         </section>
       </div>
 

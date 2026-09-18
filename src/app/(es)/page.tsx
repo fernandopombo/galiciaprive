@@ -2,6 +2,7 @@ import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 import { ROUTE_LABELS } from "@/lib/labels";
 import { formatCurrency } from "@/lib/format";
+import { Logo } from "@/components/logo";
 
 export default async function HomePage() {
   const packages = await prisma.package.findMany({
@@ -13,15 +14,27 @@ export default async function HomePage() {
     <main className="flex-1">
       <header className="border-b border-stone-200 bg-white">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
-          <span className="text-lg font-semibold tracking-[0.2em] text-stone-900">
-            Galicia Privé
-          </span>
-          <Link
-            href="/reservar"
-            className="rounded-full bg-stone-900 px-5 py-2 text-sm font-medium text-white transition hover:bg-stone-700"
-          >
-            Solicitar reserva
-          </Link>
+          <Logo tagline="Camino de Santiago" />
+          <div className="flex items-center gap-6">
+            <Link
+              href="/us"
+              className="hidden text-xs uppercase tracking-[0.2em] text-sea-700/60 transition hover:text-sea-700 sm:block"
+            >
+              EN
+            </Link>
+            <Link
+              href="/cn"
+              className="hidden text-xs tracking-[0.2em] text-sea-700/60 transition hover:text-sea-700 sm:block"
+            >
+              中文
+            </Link>
+            <Link
+              href="/reservar"
+              className="rounded-full bg-sea-700 px-5 py-2 text-sm font-medium text-white transition hover:bg-sea-900"
+            >
+              Solicitar reserva
+            </Link>
+          </div>
         </div>
       </header>
 
