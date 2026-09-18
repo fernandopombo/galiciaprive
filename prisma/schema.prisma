@@ -1,0 +1,146 @@
+// ULTRAVIP — esquema de datos: web pública de reservas + CRM interno
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum UserRole {
+  ADMIN
+  STAFF
+}
+
+enum Route {
+  FRANCES
+  PORTUGUES
+  PORTUGUES_COSTA
+}
+
+enum Market {
+  US
+  CHINA
+  GERMANY
+  OTHER
+}
+
+enum PartySize {
+  SOLO
+  PAREJA
+  GRUPO
+}
+
+enum BookingStatus {
+  PENDING
+  CONTACTED
+  CONFIRMED
+  CANCELLED
+  COMPLETED
+}
+
+enum CommunicationChannel {
+  EMAIL
+  PHONE
+  WHATSAPP
+  OTHER
+}
+
+enum CommunicationDirection {
+  OUTBOUND
+  INBOUND
+}
+
+// Usuario interno (equipo ULTRAVIP) con acceso al CRM. No hay alta pública.
+model User {
+  id            String          @id @default(cuid())
+  name          String
+  email         String          @unique
+  passwordHash  String
+  role          UserRole        @default(STAFF)
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+  notes         Note[]
+  communications Communication[]
+}
+
+// Paquete / producto vendible (un tramo del Camino en formato ULTRAVIP).
+model Package {
+  id              String    @id @default(cuid())
+  name            String
+  route           Route
+  description     String
+  durationDays    Int
+  basePricePerson Decimal   @db.Decimal(10, 2)
+  active          Boolean   @default(true)
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  bookings        Booking[]
+}
+
+// Ficha de cliente.
+model Customer {
+  id              String          @id @default(cuid())
+  firstName       String
+  lastName        String
+  email           String          @unique
+  phone           String?
+  country         String?
+  market          Market          @default(OTHER)
+  preferredLanguage String?
+  source          String?
+  tags            String[]        @default([])
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  bookings        Booking[]
+  notes           Note[]
+  communications  Communication[]
+}
+
+// Solicitud/reserva de un cliente para un paquete.
+model Booking {
+  id                String          @id @default(cuid())
+  customer          Customer        @relation(fields: [customerId], references: [id])
+  customerId        String
+  package           Package         @relation(fields: [packageId], references: [id])
+  packageId         String
+  status            BookingStatus   @default(PENDING)
+  partySize         PartySize       @default(SOLO)
+  pax               Int             @default(1)
+  requestedStartDate DateTime
+  estimatedTotal    Decimal?        @db.Decimal(10, 2)
+  message           String?
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  communications    Communication[]
+}
+
+// Nota interna en la ficha de cliente (timeline de seguimiento comercial).
+model Note {
+  id         String   @id @default(cuid())
+  customer   Customer @relation(fields: [customerId], references: [id])
+  customerId String
+  author     User     @relation(fields: [authorId], references: [id])
+  authorId   String
+  body       String
+  createdAt  DateTime @default(now())
+}
+
+// Comunicación enviada/registrada con un cliente (email real o log manual).
+model Communication {
+  id         String                 @id @default(cuid())
+  customer   Customer               @relation(fields: [customerId], references: [id])
+  customerId String
+  booking    Booking?               @relation(fields: [bookingId], references: [id])
+  bookingId  String?
+  author     User                   @relation(fields: [authorId], references: [id])
+  authorId   String
+  channel    CommunicationChannel
+  direction  CommunicationDirection @default(OUTBOUND)
+  subject    String?
+  body       String
+  sentAt     DateTime               @default(now())
+  createdAt  DateTime               @default(now())
+}
