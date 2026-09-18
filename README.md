@@ -59,6 +59,26 @@ las comunicaciones se registran igualmente, pero no sale ningún email.
 | --- | --- |
 | `npm run dev` | Servidor de desarrollo |
 | `npm run build` | Genera el cliente Prisma y compila |
+| `npm run lint` | Linter |
+| `npm run e2e` | Pruebas de extremo a extremo (Playwright) |
 | `npm run db:migrate` | Aplica migraciones de Prisma |
 | `npm run db:seed` | Usuario admin y paquetes de ejemplo |
 | `npm run db:studio` | Explorador visual de la base de datos |
+
+## Pruebas
+
+`npm run e2e` levanta la aplicación si no está corriendo y recorre en un
+navegador real las tres webs públicas y el CRM: idioma y mensaje de cada
+mercado, envío de solicitudes, autenticación, cambio de estado de una reserva,
+notas y comunicaciones, y el etiquetado del origen del lead.
+
+La primera vez hay que instalar el navegador con `npx playwright install
+chromium`. Si el entorno ya trae uno y no permite descargarlo, se le indica
+dónde está:
+
+```bash
+PLAYWRIGHT_CHROMIUM_EXECUTABLE=/ruta/a/chrome npm run e2e
+```
+
+Las pruebas escriben en la base de datos configurada en `DATABASE_URL`, así que
+conviene apuntarlas a una de desarrollo, nunca a producción.

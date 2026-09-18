@@ -246,7 +246,7 @@ export default async function CnHomePage() {
           <div className="grid gap-10 md:grid-cols-2">
             <p className="text-[0.95rem] leading-[1.9] text-sea-900/70">
               圣地亚哥之路在1993年被联合国教科文组织列入世界文化遗产，
-              也是欧洲委员会认定的第一条"欧洲文化线路"。
+              也是欧洲委员会认定的第一条“欧洲文化线路”。
               一千两百年来，人们为各种各样的理由走上这条路，宗教只是其中之一。
             </p>
             <p className="text-[0.95rem] leading-[1.9] text-sea-900/70">
