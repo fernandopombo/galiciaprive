@@ -20,12 +20,12 @@ body {
   font-family: var(--font-geist-sans), system-ui, sans-serif;
 }
 
-/* Grano de película: da textura física a los fondos claros de las webs de
-   mercado, que son la cara comercial de la marca. */
-.grain::before {
-  content: "";
-  position: absolute;
+/* Grano de película: textura física sobre los fondos claros. Va en una capa
+   fija para que el navegador no repinte el ruido en cada scroll. */
+.grain-overlay {
+  position: fixed;
   inset: 0;
+  z-index: 40;
   pointer-events: none;
   opacity: 0.035;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");

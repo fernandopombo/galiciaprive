@@ -33,7 +33,7 @@ export function VideoHero({ children }: { children: React.ReactNode }) {
   const showVideo = HERO_CLIPS.length > 0 && !reducedMotion;
 
   return (
-    <section className="relative isolate flex min-h-[92svh] flex-col">
+    <section className="relative isolate flex min-h-[100dvh] flex-col">
       <div className="absolute inset-0 -z-10 overflow-hidden bg-sea-900">
         {showVideo
           ? HERO_CLIPS.map((clip, index) => (
