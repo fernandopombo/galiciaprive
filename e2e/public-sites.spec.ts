@@ -87,3 +87,39 @@ test("el hero ocupa la pantalla completa", async ({ page }) => {
   expect(box).not.toBeNull();
   expect(box!.height).toBeGreaterThan((viewport?.height ?? 720) * 0.85);
 });
+
+test.describe("Guía del Camino", () => {
+  test("presenta las diez rutas y el perfil de las que operamos", async ({
+    page,
+  }) => {
+    await page.goto("/camino");
+
+    await expect(page.locator("h1")).toContainText("Hay diez");
+
+    // El mapa dibuja las diez rutas sobre el contorno de Galicia.
+    const map = page.locator('svg[role="img"]');
+    await expect(map).toBeVisible();
+    await expect(map.locator("path")).toHaveCount(11);
+
+    // Cada ruta operada trae su perfil de etapas completo.
+    await expect(page.getByText("Palas de Rei — Arzúa").first()).toBeVisible();
+    await expect(page.getByText("Sarria — Portomarín")).toBeVisible();
+    await expect(page.getByText("A Guarda — Oia")).toBeVisible();
+
+    // Y los requisitos de la Compostela.
+    await expect(page.getByText("km a pie")).toBeVisible();
+  });
+
+  test("al señalar una ruta el mapa cuenta por dónde entra", async ({ page }) => {
+    await page.goto("/camino");
+    const row = page.getByRole("button", { name: /Camino Primitivo/ });
+    await row.scrollIntoViewIfNeeded();
+    // Las animaciones de entrada desplazan las filas: espera a que asienten.
+    await page.waitForTimeout(1200);
+    await row.hover();
+
+    await expect(page.locator('li[aria-live="polite"]')).toContainText(
+      "A Fonsagrada",
+    );
+  });
+});

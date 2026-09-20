@@ -26,6 +26,7 @@ export default async function HomePage() {
           tagline="Camino de Santiago"
           links={[
             { href: "#rutas", label: "Rutas" },
+            { href: "/camino", label: "El Camino" },
             { href: "/us", label: "EN" },
             { href: "/cn", label: "中文" },
           ]}
@@ -152,6 +153,12 @@ export default async function HomePage() {
         <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-6 px-4 py-10 text-sm text-sea-900/50 sm:px-6">
           <Logo tagline="Camino de Santiago" size="sm" />
           <div className="flex gap-7">
+            <Link
+              href="/camino"
+              className="transition-colors duration-500 hover:text-sea-700"
+            >
+              El Camino
+            </Link>
             <Link
               href="/us"
               className="transition-colors duration-500 hover:text-sea-700"
