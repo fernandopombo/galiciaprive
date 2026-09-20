@@ -53,3 +53,6 @@ next-env.d.ts
 /playwright-report
 /blob-report
 /playwright/.cache
+
+# vista previa publicada como artefacto (HTML capturado, regenerable)
+/.preview
