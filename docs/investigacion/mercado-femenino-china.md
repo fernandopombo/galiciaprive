@@ -601,7 +601,336 @@ Para el segmento B (50+, más sensible al confort que al precio), una **versión
 
 ---
 
-## 8. Huecos honestos de esta investigación
+# PARTE II — REENCUADRE PARA EL SEGMENTO ULTRARRICO
+
+## 10. La clienta ultrarrica china: volumen, precio, canal y producto
+
+Esta parte sustituye a los apartados indicados en el aviso inicial. Corrige un error de encuadre: el análisis anterior fijó el precio contra el mercado chino del Camino, que es un mercado de clase alta urbana, no de patrimonio muy alto.
+
+### 10.1 El error, dicho con precisión
+
+La Parte I ancló el precio en dos referencias:
+- el presupuesto de 13.000–25.000 RMB que circula en Xiaohongshu para el Camino Francés completo;
+- el catálogo de Benchmark, operador de gama media.
+
+**Ninguna de las dos opera en la cabeza de una mujer con 100 millones de RMB de patrimonio.** Su conjunto de comparación es otro: una semana en un Aman, una villa con personal en la Toscana, un camarote en un barco a la Antártida, una propuesta de su banquero privado. El precio no se fija contra lo que cuesta el Camino; se fija contra **lo que cuesta una semana de su vida bien organizada por otro**.
+
+Hay además un error de dirección: en la Parte I el precio alto necesitaba justificarse. **En el segmento UHNW, un precio bajo es un defecto.** Un producto de 6.000 € presentado a una clienta cuya banca privada le exige 10 millones de RMB de saldo para abrirle la cuenta no se lee como una ganga: se lee como algo que no es para ella. **El precio es la primera señal de que el producto pertenece a su categoría**, y equivocarlo a la baja cuesta más ventas que equivocarlo al alza.
+
+### 10.2 Cuántas son y dónde están
+
+**[SUSTITUYE A 1.3]**
+
+**El universo, según Hurun (*2025东亚银行·胡润财富报告*, datos a 1 de enero de 2025)** [V] ([Hurun](https://hurun.net/zh-CN/Info/Detail?num=CVWLBLAWHVHX), vía [腾讯](https://news.qq.com/rain/a/20260701A08XAD00) y [新浪财经](https://finance.sina.com.cn/roll/2025-07-01/doc-infcyiih6617138.shtml)):
+
+| Umbral de patrimonio neto familiar | Hogares en China | Variación anual |
+|---|---|---|
+| 6 millones RMB (~720.000 €) — "familia acomodada" | **5.060.000** | −1,3% |
+| 10 millones RMB (~1,2 M €) — alto patrimonio | **2.005.000** | −2,9% |
+| **100 millones RMB (~12 M €) — muy alto patrimonio (UHNW)** | **126.000** | **−3,1%** |
+
+**Atención al signo: los tres segmentos llevan dos años cayendo.** No es un mercado en expansión; es un mercado que se contrae en número mientras cambia de gustos. Esto importa para el dimensionamiento.
+
+**Reparto por ciudad** — patrón "3+3+7" [V]:
+- **Más de 200.000 hogares de alto patrimonio**: Pekín, Shanghái, Hong Kong
+- **Más de 50.000**: Shenzhen, Cantón, **Hangzhou**
+- 35 ciudades tienen más de 500 hogares UHNW (100 M RMB)
+- Delta del Yangtsé: 40.000 hogares UHNW · Gran Bahía (Cantón-HK-Macao): 28.000 hogares UHNW
+
+**Perfil individual** (*2025中国高净值人群金融投资需求与趋势白皮书*, Hurun + YF Life, 500 encuestados, publicado 04-12-2025) [1F]:
+- **Edad media: 44 años**
+- **Patrimonio neto familiar medio: 37 millones de RMB**
+- **Más de la mitad son propietarios de empresa (企业主)**
+
+**Sector**, vía el perfil de clientes de banca privada de CMB: **más del 60% son empresarios o altos directivos**, concentrados en inmobiliario, manufactura y tecnología [1F] ([CMB](https://www.cmbchina.com/privateBank/privateBankInfo?guid=b885d072-40a6-47e0-a6a4-719e5f99fde5)).
+
+**¿Cuántas son mujeres? Hueco honesto.**
+**No he encontrado el desglose por sexo del colectivo de alto patrimonio chino.** Busqué expresamente en los informes de Hurun y no está publicado. Lo que sí hay:
+- En el *2025胡润女企业家榜*, **las mujeres son el 22,4% del ranking de grandes fortunas**, y **más del 70% de ellas son hechas a sí mismas (白手起家)** [V] ([Hurun](https://www.hurun.net/zh-cn/info/detail?num=PKHVF5M1TTQX), [新浪财经](https://finance.sina.com.cn/china/gncj/2025-10-30/doc-infvrtfu8012045.shtml)).
+- Las 50 primeras empresarias suman 1,9 billones de RMB frente a 8 billones de los 50 primeros empresarios; hay 2 mujeres en el nivel de los 100.000 millones frente a 37 hombres.
+- Reparto geográfico de las primeras: Hong Kong 9, **Pekín 6**, Shenzhen y Foshan 3 cada una; 20 en la Gran Bahía.
+- Perfil de las 50 primeras: **dos tercios hechas a sí mismas, emprendieron de media a los 32 años, hoy tienen de media 60 años**.
+
+**Estimación del universo femenino [EST]:** si se aplica la proporción del 22,4% como suelo a los 126.000 hogares UHNW, salen **~28.000 mujeres chinas titulares de patrimonio muy alto**. Es un suelo, no una cifra: el ranking mide titularidad de fortunas empresariales visibles e infravalora a la mujer que gestiona el patrimonio familiar sin figurar como titular. **Y aquí hay que separar dos cosas que se confunden con frecuencia: titularidad de la riqueza y decisión de compra del viaje.** En viaje, los datos de la Parte I son inequívocos: las mujeres aportan más del 60% de las reservas, lideran el 70% de los viajes familiares y reservan para sus acompañantes en cerca del 80% de los casos. **El universo de decisoras femeninas de viaje en hogares UHNW es sustancialmente mayor que el de titulares femeninas de fortunas.** Para dimensionar, use el patrimonio del hogar, no el nombre que figura en la escritura.
+
+### 10.3 El precio que de verdad acepta este segmento
+
+**[SUSTITUYE A 2.3 Y COMPLEMENTA A 4.4]**
+
+**Anclas de referencia verificadas:**
+
+| Ancla | Cifra | Fuente | Marca |
+|---|---|---|---|
+| **Aman Venice**, noche | **1.683–3.574 USD**, media ~3.386 USD | agregadores hoteleros | [1F] |
+| **Amanzoe** (Grecia), pabellón en temporada media | **1.500–2.000 USD**/noche; villas desde ~5.000 USD | [Biirdee](https://biirdee.com/guides/amanzoe-guide) | [1F] |
+| **Six Senses Douro Valley** | **más de 2.000 €**/noche en habitación | reportes de mercado | [1F] |
+| **Abercrombie & Kent**, viajes privados y a medida | **desde 20.000 USD por persona**; catálogo de 4.750 a 199.500 USD; jet privado 26 días 184.950 USD | [AffordableTours](https://www.affordabletours.com/abercrombie_kent_tours) | [1F] |
+| **Viaje a la Antártida vendido en China** | **100.000–200.000 RMB** el billete; viaje completo desde ~130.000 RMB; **~160.000 RMB en ocupación individual** | [澎湃](https://m.thepaper.cn/newsDetail_forward_30330441), [新浪财经](https://finance.sina.com.cn/jjxw/2025-03-06/doc-inensrzm8037981.shtml) | [V] |
+| **Gasto medio por viaje al extranjero, alto patrimonio chino** | **64.000 RMB**; los más ricos hasta **110.000 RMB** | recopilación sectorial | [1F] |
+| Gasto anual de viaje declarado, viajero chino de lujo | **>300.000 RMB** | Libro Blanco Viaje de Lujo 2025 | [1F] |
+| Viaje a medida de gama alta desde ciudades de primera línea, consumo medio por persona | 23.800 RMB | recopilación sectorial | [1F] |
+| **HHtravel 鸿鹄逸游** (marca de lujo de Ctrip): estándar de servicio | Clase business, hoteles súper cinco estrellas, restaurantes Michelin, **grupos privados de 2 a 6 personas**; dirigido a clientes de patrimonio de decenas de millones | [HHtravel](http://pages.hhtravel.com/event/standard980w/standard_cn.html), [执惠](https://www.tripvivid.com/12027.html) | [1F] |
+| Comisión de agente/asesor de lujo | **10–15%** estándar; **20–25%** en consorcios tipo Virtuoso con amenities | [dmcquote](https://dmcquote.com/agent-commission-rates), [UpgradedPoints](https://upgradedpoints.com/travel/hotels/virtuoso-travel/) | [1F] |
+
+**El ancla más útil de toda la tabla es la Antártida**, y no por el precio sino por el parecido: es un viaje **físicamente exigente, remoto, cargado de significado, sin compras y sin lujo urbano**, que los chinos de alto patrimonio ya compran a **130.000–160.000 RMB**. Es el comparable estructural más cercano que existe al producto que Galicia Privé quiere vender.
+
+**Recomendación de precio [EST, derivada de las anclas anteriores]:**
+
+| Concepto | Cifra |
+|---|---|
+| **Precio por persona y día, terrestre, todo incluido** | **2.000–3.000 €** |
+| **Precio de 8 días / 7 noches, por persona** | **16.000–22.000 €** |
+| **Equivalente en RMB** | **130.000–180.000 RMB** |
+| **Versión totalmente privada** (grupo cerrado de 4–6 amigas, fechas propias) | **25.000–35.000 €** / **200.000–290.000 RMB** por persona |
+
+**Cómo se justifica, partida a partida [EST]:**
+- Alojamiento en pazos y Paradores tomados en exclusiva, no en régimen de habitaciones sueltas: el coste no es la habitación, es **vaciar la casa**.
+- Equipo dedicado permanente: guía mujer sinohablante, guía local, conductor, fotógrafa, fisioterapeuta. **Para un grupo de 8, eso es una persona de servicio por cada dos clientas.**
+- Gastronomía con cocineros trabajando fuera de su carta habitual, mesas privadas, producto de lonja del día.
+- Accesos cerrados: catedral fuera de horario, taller de orfebrería en exclusiva, bodega sin público.
+- Margen operativo suficiente para absorber la comisión de canal del 15–25% que la sección 10.4 hace inevitable.
+
+**Nota sobre el salto respecto a la Parte I:** pasar de 48.000–58.000 a 130.000–180.000 RMB es multiplicar por tres. **No es un ajuste de márgenes: es otro producto.** El de 50.000 RMB es un grupo pequeño bien cuidado; el de 160.000 RMB es una casa entera, un equipo dedicado y accesos que no se compran por internet. Si Galicia Privé no puede montar lo segundo, **debe quedarse en lo primero y renunciar al segmento UHNW** — lo que sería una decisión legítima. Lo que no funciona es cobrar el precio alto entregando el producto medio: en este segmento eso no se perdona y la reputación no se recupera.
+
+### 10.4 El canal: aquí está el problema de verdad
+
+**[SUSTITUYE A 6.4 Y COMPLEMENTA A 6.5]**
+
+El coordinador tiene razón en que este es el verdadero cuello de botella. Con 8–12 clientas por salida y 4 salidas al año, **el negocio entero depende de encontrar 40 mujeres muy concretas**. Ni Ctrip ni la publicidad sirven para eso.
+
+**Los cinco canales, por orden de utilidad real:**
+
+**1. Banca privada y family office — el canal de mayor calidad y el más lento**
+
+- **China Merchants Bank (招商银行私人银行)** es el líder indiscutible: **207.492 clientes de banca privada a marzo de 2026** (superó las 200.000 cuentas por primera vez), con **patrimonio medio por cliente superior a 27 millones de RMB**, 1,8 veces la media del sector; AUM cercano a 3,4 billones de RMB [V] ([CMB](https://www.cmbchina.com/privateBank/privateBankInfo?guid=b885d072-40a6-47e0-a6a4-719e5f99fde5), [21经济网](https://www.21jingji.com/article/20260513/herald/843c9e602558cc57625aedc2dce77784.html)).
+- El sector: **doce bancos con AUM de banca privada cercano a 20 billones de RMB**, y **siete bancos con más de 100.000 clientes** [1F] ([财联社](https://www.cls.cn/detail/2136954), [21经济网](https://www.21jingji.com/article/20251112/herald/a3dc7538451868ff2c2e1bfa46871fb9.html)).
+- **Lo decisivo: los servicios de valor añadido de CMB ya incluyen expresamente "旅游商务" (viajes) y "全球品质尊享服务" y "专属高端社交平台"** [1F]. Es decir: **el banco ya tiene el mandato, el presupuesto y el hábito de regalar o intermediar experiencias a sus clientes.** No hay que crear la categoría.
+- **Cómo se trabaja:** no se vende al banco, se le propone un **evento propietario para sus clientas**. El formato que funciona es una salida cerrada patrocinada o cofinanciada por la división de banca privada para 8–12 clientas seleccionadas, presentada como privilegio de pertenencia. El banco no cobra comisión: **cobra en fidelización**. Para Galicia Privé eso significa margen íntegro a cambio de un ciclo de venta largo (9–18 meses) y de aceptar que el banco controla la relación con la clienta.
+- **Coste realista:** cero comisión, alto coste de desarrollo de negocio (viajes, presentaciones, due diligence del banco sobre el proveedor). **Es el canal correcto para la salida nº 3 o 4, no para la primera.**
+
+**2. Clubes de concierge — el canal más rápido de activar**
+
+- **Quintessentially**: fundado en Londres en 2000, **entró en China en 2008**, con equipos propios en Shanghái y Pekín; más de 250.000 miembros en todo el mundo, 1.500 "lifestyle managers" en 190 países; **cuotas de hasta 50.000 USD por persona y año**. Su equipo chino gestiona de media más peticiones que el de cualquier otro país [V] ([Quintessentially](https://quintessentially.com/services/travel), [China Daily](https://www.chinadaily.com.cn/a/201805/31/WS5b0ee365a31001b82571d41e.html), [Wikipedia](https://en.wikipedia.org/wiki/Quintessentially_Group)).
+- **Ten Lifestyle Group**: opera como concierge de marca blanca para bancos y tarjetas premium, lo que lo convierte en **puerta trasera hacia la banca privada sin pasar por el banco**.
+- **Cómo se trabaja:** alta como proveedor preferente. El concierge no vende: **responde a la petición del miembro**. Por eso lo que hay que conseguir no es un contrato, es **estar en la lista corta cuando una miembro pregunte "quiero caminar el Camino"**. Eso se logra con una ficha de producto impecable, tarifas netas y una experiencia de familiarización para sus lifestyle managers.
+- **Comisión: 10–15% estándar del sector; hasta 20–25% en estructuras tipo consorcio con amenities incluidas** [1F]. **Presupueste 20%** y constrúyalo en el precio desde el principio.
+
+**3. Diseñadores de viaje a medida chinos — el canal con mejor relación esfuerzo/resultado**
+
+- **HHtravel 鸿鹄逸游** es el objetivo prioritario: marca de lujo de Ctrip, fundada en 2006, **dirigida explícitamente a clientes de patrimonio de decenas de millones**, con estándar de clase business, hoteles súper cinco estrellas, Michelin y **grupos privados de 2 a 6 personas**; departamento de personalización de unas 20 personas con competencia declarada en Europa [1F] ([HHtravel](http://pages.hhtravel.com/event/standard980w/standard_cn.html), [执惠](https://www.tripvivid.com/12027.html), [36Kr](https://pitchhub.36kr.com/project/2144524474385667)).
+- Segunda línea: **赞那度 Zanadu** (nació en hoteles de lujo, muy fuerte en estética y contenido), **世界邦**, **无二之旅 Uniqueway** (más joven y profesional, gama inmediatamente inferior), **6人游** [1F] ([亿欧](https://www.iyiou.com/news/2015040216819)).
+- **Cómo se trabaja:** tarifas netas y exclusividad territorial temporal. Estos operadores **no quieren un producto más en catálogo: quieren algo que sus competidores no puedan ofrecer.** Una exclusiva de 12 meses sobre el 女子团 al Camino vale más para ellos que un descuento.
+- **Comisión / margen: 15–25%** sobre tarifa neta [EST, derivado de los estándares del sector].
+
+**4. KOL de lujo en Xiaohongshu y WeChat — vale para credibilidad, no para captación directa**
+
+- Xiaohongshu **sí llega a este público**: la plataforma declara una **tasa de cobertura del 50% sobre la población de alto patrimonio de las ciudades de primera línea**; los seguidores de marcas de lujo son **89,4% mujeres** y **67,8% de entre 18 y 34 años**; las notas relacionadas con lujo **crecieron un 83% interanual en 2024** con un **+56,4% en lecturas** [1F] ([Luxury Society](https://www.luxurysociety.com/zh-hans/articles/2022/10/she-chi-pin-xing-ye-xiao-hong-shu-ying-xiao-sheng-tai-bao-gao-she-qun-de-li-liang), [华丽志](https://luxe.co/post/407995)).
+- Dato conductual relevante: **las propias personas de alto patrimonio publican voluntariamente** sobre adquisiciones, encuentros y salones privados, y esas notas tienen **vida útil de un año o más** [1F].
+- **Cómo se trabaja:** no con KOL masivos. Con **cinco o seis mujeres concretas que ya pertenecen al círculo** — una empresaria, una coleccionista, una editora de moda — invitadas a la salida cero. Su publicación no capta clientas: **da permiso** a las demás para considerar el producto.
+- **Coste:** viaje regalado más derechos de uso. **Trátelo como presupuesto de marketing, no como pérdida operativa.**
+
+**5. Clubes privados y círculos (圈层) — el canal de acceso, no de volumen**
+
+- Los clubes clásicos de Pekín (长安俱乐部, 京城俱乐部, 美洲俱乐部, 中国会) siguen siendo el espacio del "tercer círculo social" de la élite [1F] ([搜狐](https://www.sohu.com/a/319748878_120162473)).
+- **Cómo se trabaja:** una charla o una cena de presentación. No se vende; se conoce a cinco personas que conocen a cincuenta.
+
+**Y el canal que hay que dejar de mirar:** el 服务号 de WeChat con publicaciones semanales, los anuncios y el mini-programa de catálogo. **Todo eso sigue siendo necesario como infraestructura** —la clienta lo mirará antes de decidir, y si no existe o está mal hecho, mata la venta— **pero no captará a nadie de este segmento.** La conversación de venta ocurrirá en un chat privado de WeChat entre dos personas que ya se conocen. **WeChat es donde se cierra, no donde se encuentra.**
+
+### 10.5 Qué compra y qué le repele: los seis servicios revisados
+
+**[SUSTITUYE A LA SECCIÓN 5]**
+
+El principio que reordena la tabla entera: **esta clienta ya tiene todas las cosas. Lo que no tiene es acceso, ni tiempo, ni motivos.** Todo servicio que entregue un objeto compite con lo que ya posee; todo servicio que entregue un acceso imposible de comprar por internet no tiene competencia.
+
+**El dato que lo sostiene, y es contundente.** Bain, informe de lujo personal en China (publicado en 2026) [V] ([Bain](https://www.bain.com/about/media-center/press-releases/2026/chinas-personal-luxury-market-contracts-35-in-2025-but-shows-signs-of-recovery/)):
+- El mercado chino de lujo personal **cayó un 3–5% en 2025**, tras desplomarse un **17–19% en 2024**.
+- **El 65% del consumo de lujo chino ya se produce dentro de China continental, y solo el 35% fuera** — repatriación del gasto, impulsada por el estrechamiento de la diferencia de precio entre China y los mercados extranjeros.
+- **El punto brillante del informe es el lujo experiencial: viajes y bienestar.**
+
+Y McKinsey: entre los consumidores acomodados chinos, las áreas donde más aumentan el gasto son **bienestar y salud (53%)**, **viaje de lujo (49%)** y entretenimiento (34%); **el 67% de los viajeros acomodados exige itinerarios personalizados**; el gasto en experiencias de lujo creció un **18% interanual** en 2023 [1F] ([McKinsey State of Luxury 2025](https://www.luxuryroundtable.com/wp-content/uploads/2025/01/McKinsey-State-of-Luxury-2025-presentation.pdf), [HROne](https://hrone.com/blog/experiential-luxury-in-china-consumer-trends-digital-transformation-and-market-opportunities-2025-edition/)).
+
+**Traducción directa:** **la razón de comprar en Europa se ha muerto por motivos de precio, no de gusto.** Y lo que ha ocupado su lugar es exactamente la categoría en la que juega Galicia Privé.
+
+**Tabla revisada para UHNW:**
+
+| # | Servicio | Antes (clase alta) | **Ahora (UHNW)** | Qué cambia |
+|---|---|---|---|---|
+| **1** | **Alta gastronomía** | Muy alta | **Muy alta — se mantiene en cabeza** | Sigue siendo el cierre más fiable. Pero cambia la forma: ya no basta el buen restaurante. Hace falta **mesa única, cocinero fuera de carta, lonja a primera hora con el chef**. El plato no impresiona; **el acceso al cocinero, sí**. |
+| **2** | **Compras privadas fuera de horario** | **Contraproducente** | **ALTA — cambio de veredicto** | Ver abajo. Es la corrección más importante de esta sección. |
+| **3** | **Guía mujer** | Alta | **Alta — se mantiene, con matiz** | Cambia el argumento: para la clase alta era seguridad; **para la ultrarrica es discreción y competencia**. Esta clienta no teme por su integridad tanto como exige no ser gestionada por alguien de menor nivel que ella. La guía debe ser **una interlocutora, no una acompañante**: alguien con criterio sobre arte, comida y territorio. Perfil y coste muy superiores. |
+| **4** | **Balneario + belleza** | Alta | **Alta — se mantiene** | Bienestar y salud es la partida nº1 de crecimiento del gasto acomodado chino (53%, McKinsey) [1F]. Pero el balneario público gallego **no llega**: hace falta **circuito privatizado fuera de horario y terapeuta reservada en exclusiva**. Lo que importa no es el agua: es que no haya nadie más. |
+| **5** | **Catas de vino** | Media | **Media-alta — sube un escalón** | Mismo desconocimiento del albariño, pero cambia lo que se puede ofrecer: **no una cata, sino la bodega cerrada con el propietario**. Para esta clienta, beber con quien hace el vino es el producto; el vino es el pretexto. Sigue sin ser titular. |
+| **6** | **Chófer mujer** | Baja / indiferente | **Indiferente — se mantiene** | Ningún dato nuevo lo mejora. La prioridad de esta clienta en el coche es **discreción y profesionalidad**, no el sexo del conductor. Que no condicione la contratación. |
+
+**El cambio de veredicto sobre las compras, en detalle.**
+
+En la Parte I concluí que las compras privadas eran contraproducentes porque Santiago no tiene retail de lujo internacional. **Para la clase alta esa conclusión sigue siendo correcta. Para la ultrarrica es errónea, y por la razón que apuntaba el coordinador.**
+
+El razonamiento corregido:
+- **El argumento "Santiago no tiene Chanel" solo es una objeción si la clienta quiere un Chanel.** Esta clienta tiene acceso permanente a Chanel en Shanghái, con vendedora asignada y preventa. **Chanel no es escaso para ella. El tiempo y el acceso sí.**
+- Bain lo confirma desde el lado del dato: **el 65% del consumo de lujo chino ya ocurre dentro de China** porque la diferencia de precio se ha cerrado [V]. **Comprar marcas internacionales en Europa ha perdido su razón de ser incluso para quien puede.**
+- Lo que no puede comprar en Shanghái, ni por internet, ni encargando a nadie, es **una pieza hecha para ella por un azabachero cuya familia trabaja la piedra desde 1830, en su taller, con la tienda cerrada, eligiendo la pieza en bruto**. Joyería Mayer (azabacheros desde 1830) y Maeloc (orfebrería tradicional compostelana en plata de ley y azabache) son talleres reales, no tiendas de recuerdos [V].
+- Y encaja con el giro documentado del consumo chino **de "qué marca compro" a "qué merece la pena comprar"**, con el desplazamiento hacia diseñadores independientes y **artesanía hecha a mano (手作工艺品)** [V].
+
+**Conclusión:** el servicio sube del puesto 6 al 2, **sin cambiar una sola línea de la logística**. Lo único que cambia es qué puerta se abre: **no la de una tienda de marca, sino la de un taller.** El error original no fue incluir las compras; fue suponer que compras significaba marcas.
+
+**Qué repele activamente a este segmento** — tan importante como lo que compra:
+
+| Repele | Por qué |
+|---|---|
+| **El grupo grande** | Más de 10–12 personas señala producto de masa. Su umbral mental es el de HHtravel: **2 a 6 personas** [1F]. |
+| **El albergue, incluso mencionado** | No es pintoresco: es una categoría que no existe en su vida. Ni en fotos, ni como contraste. |
+| **La palabra "económico", los descuentos, las promociones** | Cualquier señal de precio negociable destruye la categoría. |
+| **La cola, la espera, el horario de apertura** | El lujo aquí es temporal, no material. Si hay que esperar, el producto ha fallado. |
+| **La religiosidad explícita** | Marco muerto y potencialmente incómodo. El eje es 自我对话, no la peregrinación católica. |
+| **El esfuerzo obligatorio y sin salida** | Debe poder parar cualquier día sin perder nada ni dar explicaciones. La dignidad importa más que el kilómetro. |
+| **Que se sepa quién es** | Discreción absoluta. Sin listas de clientes, sin publicación sin permiso escrito, sin fotos de grupo difundidas. **Esto debe estar en el contrato.** |
+
+### 10.6 Volumen: la pregunta honesta
+
+**[SUSTITUYE A 7.1 Y 7.2]**
+
+El coordinador pide que diga con claridad si son poquísimas. **Lo son. Y esa es la conclusión que debe gobernar la decisión.**
+
+**El embudo, paso a paso [EST salvo donde se indica]:**
+
+| Paso | Cifra | Base |
+|---|---|---|
+| Peregrinos chinos a Santiago, 2025 | 4.200–4.500 | [V] |
+| De ellos, mujeres (65–67%) | **2.700–3.000** | [V] |
+| Hogares UHNW en China (100 M RMB) como % de hogares urbanos | 126.000 sobre ~500 millones de hogares ≈ **0,025%** | [V] |
+| **Mujeres chinas UHNW que caminaron a Santiago en 2025, si se aplicara la proporción poblacional** | **menos de 1** | [EST] |
+| Corrección al alza por sobrerrepresentación (quien camina el Camino ya es urbano, culto, con pasaporte y tiempo — un colectivo mucho más rico que la media) | factor 50–200× | [EST] |
+| **Estimación final** | **entre 20 y 100 mujeres chinas de muy alto patrimonio al año con interés declarado o latente en el Camino** | **[EST]** |
+
+**Digo expresamente que esta última cifra es una estimación mía con un margen de error enorme.** No existe ningún dato publicado que la sostenga. Es un orden de magnitud, no una medición.
+
+**Y sin embargo la conclusión de negocio es robusta precisamente porque el número es pequeño**, por tres razones:
+
+1. **A 16.000–22.000 € por persona, 40 clientas al año son 640.000–880.000 € de facturación.** Un negocio real con un equipo pequeño. No hace falta escala: hace falta acierto.
+2. **El número pequeño invierte la pregunta.** Como dice el coordinador: si son poquísimas, **la pregunta deja de ser el precio y pasa a ser el canal**. Con 40 clientas objetivo al año, **no hace falta un mercado: hacen falta seis relaciones** — un banco privado, un club de concierge, HHtravel y tres mujeres influyentes. Eso es alcanzable por una empresa pequeña, y es precisamente lo que una empresa grande no se molesta en hacer.
+3. **El riesgo real no es la demanda: es la entrega.** Con volúmenes así, **una sola salida mal ejecutada elimina el negocio**, porque este segmento es un círculo cerrado donde todas se conocen y hablan entre ellas. **El dinero debe ir a la operación, no a la captación.**
+
+**Producto revisado:**
+
+| Parámetro | Parte I (anulado) | **Parte II (vigente)** |
+|---|---|---|
+| Precio por persona | 48.000–58.000 RMB | **130.000–180.000 RMB (16.000–22.000 €)** |
+| Tamaño de grupo | 8–12 | **6–8**, máximo 8 |
+| Salidas al año | 4–6 | **3–4** |
+| Objetivo año 1 | 40 clientas | **18–24 clientas** |
+| Alojamiento | Pazos y Paradores | **Pazos tomados en exclusiva, casa entera** |
+| Ratio de servicio | Guía + apoyo | **1 persona de equipo por cada 2 clientas** |
+| Versión privada | 75.000–90.000 RMB | **200.000–290.000 RMB**, grupo cerrado, fechas propias |
+
+**Se mantienen sin cambios de la Parte I:** ruta A Guarda / Portugués da Costa; etapas de 12–18 km; guía mujer sinohablante; Compostela garantizada; gestión del visado; habitación individual sin suplemento; todo incluido literal; recogida en la puerta del vuelo internacional.
+
+### 10.7 ¿Y quieren realmente caminar? La evidencia dice que sí
+
+**Esta era la pregunta con más riesgo de todo el encargo**, porque un público de confort no camina cien kilómetros. La respuesta es que **no es un público de confort, y hay prueba directa y cuantificada.**
+
+**El 玄奘之路商学院戈壁挑战赛 (Desafío del Gobi de las Escuelas de Negocios, "Ruta de Xuanzang")** [V]:
+- Creado en 2005–2006; **121 kilómetros a pie en 4 días a través del desierto del Gobi**, por la ruta que recorrió el monje Xuanzang.
+- **Entre 2.500 y 3.000 participantes por edición**, de más de 40–49 escuelas de negocios; **unos 20.000 acumulados**.
+- **Todos los participantes son alumnos de EMBA: empresarios y altos directivos.** La prensa económica los describe literalmente como 精英群体 (un colectivo de élite).
+- **Coste: 16.000 RMB de inscripción, más entre 40.000–50.000 y más de 100.000 RMB por persona en equipo y entrenamiento.** El titular de Jiemian lo dice sin rodeos: *"花费十多万参加虐人的戈壁徒步，高收入EMBA学员图什么？"* — **"Gastar más de cien mil yuanes en una caminata brutal por el Gobi: ¿qué buscan los alumnos de EMBA de rentas altas?"**
+- Los dos motivos documentados: **el círculo social (圈子)** —conocer en profundidad a pares de otras escuelas— y **el marco cultural**: Xuanzang atravesó penalidades para alcanzar la iluminación, lo que encaja con la narrativa del empresario que se pone a prueba.
+
+Fuentes: [界面新闻](https://www.jiemian.com/article/670893.html), [21财经](https://m.21jingji.com/article/20170701/e6ad1345cd4e4b1759d113fd6ea6ae32.html), [长江商学院](https://www.ckgsb.com/emba/article/detail-21746.html), [CEIBS](https://cn.ceibs.edu/media/news/awards-honors/19614), [USTC EMBA](http://emba.ustc.edu.cn/2025/0619/c21854a688163/page.htm).
+
+**Esto es, punto por punto, el mismo producto que Galicia Privé quiere vender:**
+
+| Desafío del Gobi | Camino desde A Guarda |
+|---|---|
+| 121 km a pie | ~100–120 km a pie |
+| 4 días | 6 días de caminata |
+| Élite empresarial china | Élite empresarial china |
+| >100.000 RMB de desembolso | 130.000–180.000 RMB |
+| Ruta de un peregrino histórico (Xuanzang) | Ruta de un peregrinaje histórico (Santiago) |
+| Esfuerzo como prueba de carácter | Esfuerzo como prueba de carácter |
+| Círculo social cerrado | Grupo cerrado de 6–8 |
+
+**La élite china no solo tolera el esfuerzo con significado: ya lo compra, lo lleva comprando veinte años y paga por él más de cien mil yuanes.** Galicia Privé no tiene que crear el apetito. Tiene que ofrecer **la versión internacional, femenina y confortable de algo que este público ya entiende en su propio idioma cultural.**
+
+**Dos evidencias de refuerzo:**
+- **En el deporte al aire libre en China, las mujeres son ya el 59,9% de los participantes frente al 40,1% de hombres** (datos de 2022) [1F] ([新华网](http://www.news.cn/fashion/20231219/4d245a924f4d494392ebf660bc398541/c.html), [新浪财经](https://finance.sina.com.cn/roll/2025-01-17/doc-inefhrnv5171831.shtml)). El outdoor chino ya no es masculino.
+- **El viaje a la Antártida vendido en China**: 9.384 turistas chinos en la temporada 2023-24, con **más del 80% de mediana edad o mayores**, y un perfil descrito como *"altos cargos y profesionales cualificados, jubilados o en activo, y empresarios"*, pagando **130.000–160.000 RMB** [V]. Confirma que en este segmento **la edad alta no reduce el apetito por la expedición dura, y que el precio de referencia para "viaje remoto con significado" ya está en las seis cifras de RMB.**
+
+### 10.8 Los tres mensajes de venta, revisados para UHNW
+
+**[SUSTITUYE A 7.4]**
+
+Los tres mensajes de la Parte I eran correctos de tono para la clase alta pero **suenan a folleto para una ultrarrica**: explican demasiado, tranquilizan demasiado y mencionan el precio implícitamente al justificar. Para este segmento hay que quitar, no añadir. Y **el mensaje de seguridad baja de posición**: quien vuela en business y tiene chófer en Shanghái no organiza su vida alrededor del miedo al carterista.
+
+**Mensaje 1 — Acceso (sustituye al de seguridad como mensaje principal)**
+
+> **一座庄园，只住你们六个人。**
+> **一间1830年至今的黑玉工坊，为你们闭店一晚。**
+> **一张属于你的朝圣证书。**
+
+*Traducción:*
+> **Un pazo entero, para ustedes seis.**
+> **Un taller de azabache que trabaja desde 1830, cerrado una noche solo para ustedes.**
+> **Un certificado de peregrina con su nombre.**
+
+*Por qué:* tres accesos, ninguna explicación. No dice "lujo", no dice "exclusivo": **lo demuestra con tres hechos verificables**. Y cierra con la Compostela, que es el único objeto del viaje que no se puede comprar con dinero.
+
+---
+
+**Mensaje 2 — El esfuerzo como categoría, no como advertencia**
+
+> **走过戈壁的人，会懂这一百公里。**
+> **每天十五公里，大西洋在左边。**
+> **累了就上车，没有人会问你为什么。**
+
+*Traducción:*
+> **Quien ha cruzado el Gobi entenderá estos cien kilómetros.**
+> **Quince kilómetros al día, con el Atlántico a la izquierda.**
+> **Si se cansa, sube al coche. Nadie le preguntará por qué.**
+
+*Por qué:* la primera línea sitúa el producto en una categoría que este público ya conoce y respeta, sin tener que argumentar nada — es la referencia cultural más eficiente disponible. La tercera línea resuelve la objeción física **sin condescendencia**: no promete que será fácil, promete que **nadie la juzgará**, que es lo que de verdad preocupa a alguien acostumbrada a no fallar en público.
+
+---
+
+**Mensaje 3 — El permiso (único que se conserva en espíritu de la Parte I)**
+
+> **你为所有人安排了一切。**
+> **这七天，有人为你安排。**
+> **一百公里，一个人的对话。这一次，不为任何人。**
+
+*Traducción:*
+> **Usted lo ha organizado todo para todos.**
+> **Estos siete días, alguien lo organiza para usted.**
+> **Cien kilómetros, una conversación con una misma. Esta vez, no es por nadie.**
+
+*Por qué:* es el único de los tres que no vende Galicia. Habla a una mujer de la que los datos dicen que lidera el 70% de los viajes familiares y reserva para sus acompañantes en el 80% de los casos. **A una clienta que puede comprar cualquier cosa no se le vende un producto: se le vende un permiso.** Mantengo este mensaje de la Parte I porque funciona igual de bien en ambos segmentos, y es el más fuerte de los seis que he escrito.
+
+### 10.9 Lo que cambia en el plan de lanzamiento
+
+| Fase | Parte I | **Parte II (vigente)** |
+|---|---|---|
+| Canal prioritario | WeChat + KOC de senderismo | **HHtravel + un club de concierge + banca privada** |
+| Grupo cero | 8 mujeres captadas por contenido | **6 mujeres del círculo**: una empresaria, una coleccionista, una editora. Invitación personal, no convocatoria |
+| Prueba social | Notas en Xiaohongshu | **Notas en Xiaohongshu con permiso escrito**, más el boca a boca privado, que pesa más |
+| Contratación crítica | Guía mujer sinohablante | **Guía mujer sinohablante con criterio cultural propio** — interlocutora, no acompañante. Es la contratación que decide el proyecto |
+| Objetivo año 1 | 4 salidas, 40 clientas | **3 salidas, 18–24 clientas** |
+| Métrica de éxito | Ocupación | **Porcentaje de clientas que traen a otra.** En este segmento, la recomendación es el único motor que escala |
+
+---
+
+## 11. Huecos honestos de esta investigación
+
+### 11.A Huecos de la Parte II (segmento UHNW) — los más urgentes
+
+1. **El desglose por sexo del colectivo de alto y muy alto patrimonio chino no está publicado.** Busqué en los informes de Hurun y no existe en abierto. El 22,4% del ranking de empresarias es un suelo imperfecto, porque mide titularidad de fortunas visibles y no decisión de compra en el hogar. **Es el hueco más importante del informe para dimensionar el mercado.**
+2. **La estimación de 20–100 mujeres chinas UHNW con interés en el Camino es mía y tiene un margen de error enorme.** No hay ningún dato publicado que la sostenga. Es un orden de magnitud para razonar, no una cifra para poner en un plan financiero.
+3. **Tarifas exactas de Aman y Six Senses en Europa para 2026.** Los sitios oficiales no publican tarifas sin fechas; las cifras que uso vienen de agregadores y reportes secundarios, con dispersión alta.
+4. **Precios de Black Tomato y tarifas por día de A&K en Europa.** No obtenidos. Solo tengo el "desde 20.000 USD por persona" para viajes privados y el rango de catálogo.
+5. **Comisiones reales de Quintessentially y Ten Lifestyle.** Ninguna de las dos las publica. El 10–25% que uso es el estándar del sector, no su tarifa confirmada. **Confírmelo antes de fijar precio**, porque un 25% mal presupuestado se come el margen entero.
+6. **Tarifa neta y condiciones de HHtravel.** No obtenidas. Es la conversación comercial más valiosa pendiente.
+7. **No he verificado que exista en Galicia oferta real de pazos comercializables en exclusiva al nivel que exige el precio propuesto.** El producto de 16.000–22.000 € depende de ello. **Es riesgo de entrega, no de demanda, y debe comprobarse sobre el terreno antes que ninguna otra cosa.**
+
+### 11.B Huecos de la Parte I (mercado general), que siguen abiertos
 
 Lo que **no** he podido verificar, y que conviene resolver antes de comprometer inversión:
 
@@ -615,7 +944,68 @@ Lo que **no** he podido verificar, y que conviene resolver antes de comprometer 
 
 ---
 
-## 9. Fuentes
+## 12. Fuentes
+
+### Fuentes de la PARTE II (segmento UHNW)
+
+**Patrimonio, número y perfil**
+- [Hurun — 2025东亚银行·胡润财富报告](https://hurun.net/zh-CN/Info/Detail?num=CVWLBLAWHVHX)
+- [腾讯新闻 — 胡润财富报告：全国每100户家庭中就有一户净资产超600万](https://news.qq.com/rain/a/20260701A08XAD00)
+- [新浪财经 — 胡润报告："富裕家庭"数连续2年下降](https://finance.sina.com.cn/roll/2025-07-01/doc-infcyiih6617138.shtml)
+- [Hurun — 2025中国高净值人群金融投资需求与趋势白皮书](https://hurun.net/zh-cn/info/detail?num=NTS3BPLTXJJQ) · [PDF](https://res.hurun.net/file/20251204/20251204160738255.pdf) *(bloqueado)*
+- [时代周报 — 万通保险与胡润研究院联合发布白皮书](https://time-weekly.com/post/325853)
+- [Hurun — 2025胡润女企业家榜](https://www.hurun.net/zh-cn/info/detail?num=PKHVF5M1TTQX)
+- [新浪财经 — 《2025胡润女企业家榜》重磅发布](https://finance.sina.com.cn/china/gncj/2025-10-30/doc-infvrtfu8012045.shtml)
+
+**Precio y referencias de lujo**
+- [Bain — China's personal luxury market contracts 3–5% in 2025 but shows signs of recovery](https://www.bain.com/about/media-center/press-releases/2026/chinas-personal-luxury-market-contracts-35-in-2025-but-shows-signs-of-recovery/)
+- [Luxury Society — A Careful Comeback: China's Luxury Market Poised for Continued Recovery in 2026](https://luxurysociety.com/en/careful-comeback-chinas-luxury-market-poised-for-continued-recovery-in-2026/)
+- [McKinsey — State of Luxury 2025 (PDF)](https://www.luxuryroundtable.com/wp-content/uploads/2025/01/McKinsey-State-of-Luxury-2025-presentation.pdf)
+- [McKinsey — Mid-2025 update on China's consumer markets](https://www.mckinsey.com.br/our-insights/mid-year-update-five-surprises-from-chinas-consumer-market)
+- [Oliver Wyman — The New Trends Reshaping Chinese Travel And Luxury Spending (2025)](https://www.oliverwyman.com/our-expertise/insights/2025/aug/new-trends-travel-and-luxury-spending-china.html) *(bloqueado)*
+- [HROne — Experiential Luxury In China (2025 Edition)](https://hrone.com/blog/experiential-luxury-in-china-consumer-trends-digital-transformation-and-market-opportunities-2025-edition/)
+- [Aman Venice — Rooms & Suites](https://www.aman.com/hotels/aman-venice/acccommodation)
+- [Biirdee — Amanzoe Guide: Rates, Pavilions & Beach Club](https://biirdee.com/guides/amanzoe-guide)
+- [Six Senses Douro Valley — offers](https://www.sixsensesplace.com/en/hotels-resorts/europe/portugal/douro-valley/offers/)
+- [AffordableTours — Abercrombie & Kent tours 2026/2027](https://www.affordabletours.com/abercrombie_kent_tours)
+- [TravelAge West — A&K Private Jet Journeys](https://www.travelagewest.com/Travel/Luxury/abercrombie-and-kent-private-jet-journeys)
+- [澎湃新闻 — 南极游人均10万，谁在为"世界尽头"买单？](https://m.thepaper.cn/newsDetail_forward_30330441)
+- [新浪财经 — 十几万的南、北极地游"收割"年轻中产](https://finance.sina.com.cn/jjxw/2025-03-06/doc-inensrzm8037981.shtml)
+- [新京报 — 南极游复苏：价格普遍超10万](https://m.bjnews.com.cn/detail/1702598045129523.html)
+
+**Canal: banca privada, concierge, diseñadores de viaje**
+- [CMB — 招行私人银行新气象：AUM近3.4万亿](https://www.cmbchina.com/privateBank/privateBankInfo?guid=b885d072-40a6-47e0-a6a4-719e5f99fde5)
+- [21经济网 — 一季度私人银行成绩单出炉，招行新晋"20万户俱乐部"](https://www.21jingji.com/article/20260513/herald/843c9e602558cc57625aedc2dce77784.html)
+- [21经济网 — 私行规模上台阶 7家银行客户超十万户](https://www.21jingji.com/article/20251112/herald/a3dc7538451868ff2c2e1bfa46871fb9.html)
+- [财联社 — 12家私人银行AUM逼近20万亿](https://www.cls.cn/detail/2136954)
+- [招银国际 — 家族办公室](https://wm.cmbi.com.hk/zh-CN/office)
+- [Quintessentially — Luxury Travel Concierge Services](https://quintessentially.com/services/travel)
+- [China Daily — Luxury concierge clubs cash in on Chinese elite](https://www.chinadaily.com.cn/a/201805/31/WS5b0ee365a31001b82571d41e.html)
+- [SCMP — Luxury concierge clubs offer ultra-rich Chinese the world at their fingertips](https://www.scmp.com/magazines/style/news-trends/article/2147378/luxury-concierge-clubs-offer-ultra-rich-chinese-world) *(bloqueado)*
+- [Wikipedia — Quintessentially Group](https://en.wikipedia.org/wiki/Quintessentially_Group)
+- [HHtravel 鸿鹄逸游 — 品牌理念](http://pages.hhtravel.com/event/standard980w/standard_cn.html)
+- [执惠 — 背靠携程、深耕高端旅行市场10载，鸿鹄逸游的独门生意经](https://www.tripvivid.com/12027.html)
+- [36氪 — 鸿鹄逸游 项目信息](https://pitchhub.36kr.com/project/2144524474385667)
+- [亿欧 — 盘点国内六家高端个性化定制游初创企业](https://www.iyiou.com/news/2015040216819)
+- [dmcquote — Travel Agent Commission Rates 2026](https://dmcquote.com/agent-commission-rates)
+- [UpgradedPoints — Virtuoso: How It Works, Travel Advisors, Upgrades & Benefits](https://upgradedpoints.com/travel/hotels/virtuoso-travel/)
+- [Luxury Society — 奢侈品行业小红书营销生态报告：社群的力量](https://www.luxurysociety.com/zh-hans/articles/2022/10/she-chi-pin-xing-ye-xiao-hong-shu-ying-xiao-sheng-tai-bao-gao-she-qun-de-li-liang)
+- [华丽志 — 用"人感"出奇制胜，奢侈品牌的营销与生意如何"思路打开"？](https://luxe.co/post/407995)
+- [搜狐 — 盘点国内十大顶级私人会所](https://www.sohu.com/a/319748878_120162473)
+
+**Apetito por el esfuerzo con significado**
+- [界面新闻 — 花费十多万参加虐人的戈壁徒步，高收入EMBA学员图什么？](https://www.jiemian.com/article/670893.html)
+- [21财经 — 金融圈迷跑商学院戈壁赛，一场别具魅力和情怀的好生意](https://m.21jingji.com/article/20170701/e6ad1345cd4e4b1759d113fd6ea6ae32.html)
+- [长江商学院 — EMBA的"戈壁挑战赛"，普通人如何从零开始准备？](https://www.ckgsb.com/emba/article/detail-21746.html)
+- [CEIBS — 112公里戈壁挑战赛五度夺冠](https://cn.ceibs.edu/media/news/awards-honors/19614)
+- [中国科学技术大学 EMBA — 戈20 玄奘之路B队/C队英雄集结令](http://emba.ustc.edu.cn/2025/0619/c21854a688163/page.htm)
+- [百度百科 — 玄奘之路国际商学院戈壁挑战赛](https://baike.baidu.com/item/%E7%8E%84%E5%A5%98%E4%B9%8B%E8%B7%AF%E5%9B%BD%E9%99%85%E5%95%86%E5%AD%A6%E9%99%A2%E6%88%88%E5%A3%81%E6%8C%91%E6%88%98%E8%B5%9B/3839768)
+- [新华网 — 户外运动："玩"出来的万亿级产业](http://www.news.cn/fashion/20231219/4d245a924f4d494392ebf660bc398541/c.html)
+- [新浪财经 — 消费用户数量五年增长九成，户外装备成"社交货币"](https://finance.sina.com.cn/roll/2025-01-17/doc-inefhrnv5171831.shtml)
+
+---
+
+### Fuentes de la PARTE I (mercado general del Camino)
 
 **Estadísticas del Camino y mercado chino**
 - [Turespaña — El Camino de Santiago se presenta en China](https://www.tourspain.es/es/notas-prensa-turismo/presentacion-pekin-camino-santiago/) *(bloqueado; vía secundarias)*
