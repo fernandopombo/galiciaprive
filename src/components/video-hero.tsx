@@ -45,14 +45,16 @@ export function VideoHero({ children }: { children: React.ReactNode }) {
                 className={`absolute inset-0 h-full w-full object-cover transition-opacity duration-[1600ms] ${
                   index === active ? "opacity-100" : "opacity-0"
                 }`}
-                src={clip.src}
                 poster={HERO_POSTER ?? undefined}
                 muted
                 playsInline
                 preload={index === 0 ? "auto" : "none"}
                 aria-hidden="true"
                 onEnded={() => setActive((current) => (current + 1) % HERO_CLIPS.length)}
-              />
+              >
+                <source src={`${clip.src}.webm`} type="video/webm" />
+                <source src={`${clip.src}.mp4`} type="video/mp4" />
+              </video>
             ))
           : null}
 
