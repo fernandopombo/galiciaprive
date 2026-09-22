@@ -2,25 +2,27 @@
 
 **Galicia Privé — Investigación de producto, operación y precio**
 Fecha: 22 de septiembre de 2026
-Ámbito: Camino Francés desde Sarria · Camino Portugués Central desde Tui · Camino Portugués da Costa desde A Guarda
+Ámbito: Camino Francés desde Sarria · Camino Portugués Central desde Tui · Camino Portugués da Costa desde A Guarda · **Camino Inglés desde Ferrol** (incorporado durante la investigación)
 *No cubre demanda en EE.UU. ni en China (agentes hermanos).*
 
-> **Nota sobre fuentes.** El proxy de salida bloqueó la descarga directa de prácticamente todos los dominios consultados (`EGRESS_BLOCKED`, incluido `curl`). Todo lo que sigue procede de fragmentos de resultados de búsqueda, con la URL de origen citada. Cada dato va etiquetado como **[V]** verificado en fuente citada, **[E]** estimado por mí a partir de datos verificados o de geografía conocida, o **[NV]** no verificado / pendiente de confirmar. No he inventado ningún nombre, precio ni cifra.
+> **Nota sobre fuentes.** El proxy de salida bloqueó la descarga directa de prácticamente todos los dominios consultados (`EGRESS_BLOCKED`, incluido `curl`), y el presupuesto de búsquedas web de la sesión se agotó durante el último encargo (inventario hotelero y pazos). Todo lo que sigue procede de fragmentos de resultados de búsqueda, con la URL de origen citada. Cada dato va etiquetado como **[V]** verificado en fuente citada, **[E]** estimado por mí a partir de datos verificados o de geografía conocida, o **[NV]** no verificado / pendiente de confirmar. No he inventado ningún nombre, precio ni cifra.
 
 ---
 
-## 0. Resumen ejecutivo: las siete cosas que cambian la decisión
+## 0. Resumen ejecutivo: las diez cosas que cambian la decisión
 
-1. **El riesgo real de agresión en el Camino en Galicia es estadísticamente bajísimo y está bien documentado; el riesgo percibido es el producto.** 7 denuncias por delitos contra la libertad sexual en 2023 y 8 en el año en curso, mayoritariamente exhibicionismo y comentarios ofensivos, sobre más de 460.000 mujeres — el 0,003% [V]. Vender "seguridad" como si el Camino fuera peligroso es falso y además es un error comercial: nos coloca en el terreno del miedo. Lo que sí es real y vendible es la **fricción**: caminar sola gestionando alojamiento, equipaje, comida, dolor, reglas y aislamiento. Se vende alivio de fricción, no protección frente a un peligro inventado.
-2. **El suplemento individual es el punto de dolor mejor documentado del segmento.** El 78% de las mujeres mayores de 50 lo señala como la mayor barrera para viajar solas [V]; Backroads cobra +800 USD sobre 5.299–5.399 USD [V]. **Habitación individual sin suplemento, siempre, en toda salida** es la decisión de producto con mejor relación impacto/coste que hay sobre la mesa.
-3. **El lujo EN RUTA es el único foso defendible.** Backroads y B&R pueden comprar mañana una mesa con estrella, un balneario y una cata. Lo que no pueden replicar con grupos de 12–20 personas y DMC subcontratada es un servicio servido *sobre el trazado*, en el kilómetro que decide la clienta. Ahí está el precio.
-4. **El avituallamiento gourmet en ruta es viable, y es más viable de lo que parece**: nuestras tres rutas están "sombreadas" por carretera casi de forma continua. En el **Portugués da Costa (A Guarda–Oia–Baiona) el Camino va literalmente por una senda peatonal/ciclista paralela a la PO-552** [V]: acceso de vehículo en cualquier punto. El Portugués Central discurre pegado a la N-550 [V]. En el Francés desde Sarria los tramos sin acceso rodado son cortos (corredoiras de 1–4 km entre aldeas) [E].
-5. **Pero el avituallamiento no se justifica como comida: se justifica como vehículo de seguimiento.** Un solo coche no puede ser a la vez el vehículo de la clienta y el de apoyo en frío — ni operativamente ni legalmente (RD 1021/2022 [V]). Hace falta un segundo vehículo y una segunda persona, y eso cuesta ~300–400 €/jornada [E]. Ese segundo vehículo es el que hace *operativa* la promesa female-friendly: asistencia a 10 minutos, evacuación, botiquín, fisio, ropa seca. La comida es lo que hace mientras está ahí.
-6. **En el Camino Francés desde Sarria no existe inventario hotelero de cinco estrellas.** El lujo hotelero real aparece solo al final (Santiago) y en el eje atlántico (Vigo, Baiona, A Toxa). Si la promesa es "Relais & Châteaux cada noche", **el Francés desde Sarria no la puede cumplir** y el Portugués sí. Alternativa: **modelo de base fija** (3 noches en un pazo + 3 en Santiago, con traslado diario al trazado). Ese modelo resuelve de golpe hoteles, recarga eléctrica, suplemento individual y continuidad de personal. Es, probablemente, la mejor idea operativa de este informe.
-7. **El coche eléctrico es un riesgo real en el interior de Lugo, no en la costa.** Galicia tiene ~850 puntos públicos, con buena cobertura en el eje atlántico A-9 y **puntos críticos en la montaña interior** [V]. Sarria tiene 3 puntos públicos [V]; Portomarín, Palas de Rei, Arzúa, A Guarda y Oia están **sin verificar** [NV]. Un i7 tiene autonomía de sobra para la jornada, pero si no carga de noche el plan se cae. Argumento adicional para **lanzar por el Portugués da Costa**.
+1. **El riesgo real de agresión en el Camino en Galicia es bajísimo y está bien documentado; el riesgo percibido es el producto.** 7 denuncias por delitos contra la libertad sexual en 2023 y 8 en el año en curso, mayoritariamente exhibicionismo y comentarios ofensivos, sobre más de 460.000 mujeres — el 0,003 % [V]. Vender "seguridad" como si el Camino fuera peligroso es falso y comercialmente erróneo. Lo real y vendible es el alivio de **fricción**, no la protección frente a un peligro inventado. *(Y corrijo un dato del informe de EE.UU.: el artículo de The IrishTimes de 11/11/2024 **no** dice que el acoso se concentre en las rutas portuguesas — habla de España, Portugal y Francia, §8.5.)*
+2. **La habitación individual sin suplemento es la mejor decisión de producto disponible.** El 78 % de las mujeres mayores de 50 señala el suplemento individual como la mayor barrera para viajar solas [V]; Backroads cobra +800 USD sobre 5.299–5.399 USD [V]. Incluirla siempre cuesta poco y desarma al competidor.
+3. **El lujo EN RUTA es el único foso defendible.** Backroads y B&R pueden comprar mañana una mesa con estrella, un balneario y una cata. Lo que no pueden replicar con grupos de 12–20 y DMC subcontratada es el servicio *sobre el trazado*, en el kilómetro que decide la clienta. Ahí está el precio.
+4. **El avituallamiento gourmet en ruta es viable**: las cuatro rutas están "sombreadas" por carretera casi de forma continua. En el **da Costa el Camino va por una senda peatonal y ciclista paralela a la PO-552** [V]. Y en el **centro del Camino Inglés (Betanzos–Bruma, sin servicios en su tramo intermedio [V]) deja de ser un lujo para ser una necesidad.**
+5. **El segundo vehículo es un escalón, no un coste lineal, y está en 5 clientas.** Lo fuerza la capacidad del coche (un i7 lleva 4 pasajeros), no la comida. Cuesta 2.680 €/salida (§12.4).
+6. **CONFIRMADO: el Camino Francés desde Sarria es el más pobre en oferta premium a 20 minutos** — vacío en 3 de sus 6 finales de etapa, y lo único rico que tiene es Santiago, que comparte con todas las demás rutas. **El Portugués es el más rico** (balneario a pie en Caldas, dos estrellas en radio desde Pontevedra). **Vender el Portugués como producto premium y el Francés solo a quien lo pida por su nombre**, con el modelo de "chef al pazo" (§7.2).
+7. **CONFIRMADO: en las rutas portuguesas no existen camas de ultralujo.** Solo dos 5★ verificados, ambos en Vigo; el único Relais & Châteaux del corredor está clasificado como 4★ [V]; **en Oia no hay nada** [NV]. **No se puede construir una experiencia de 1.000 € la noche sobre camas que no existen.** La salida es la **exclusividad del lugar** —un pazo entero para ocho mujeres— y **2 o 3 bases fijas**, porque una sola base rompe la regla de los 20 minutos en 8 de 11 etapas (§11).
+8. **El Camino Inglés merece entrar, con una condición innegociable: salir de Ferrol, nunca de A Coruña.** Desde A Coruña son 74 km y la dispensa de la Compostela está construida sobre el vínculo anglo-irlandés y "otros europeos" — **no cubre a una clienta estadounidense ni china** [V]. A cambio, el Inglés ofrece el mejor relato de las cuatro rutas (nobleza llegando por mar desde el s. XII, 3.000 desembarcados en A Coruña en 1434 [V]), **EE.UU. creciendo un +36 %** [V], **55 % de mujeres** [V], y **las tres cocineras de referencia de Galicia sobre su eje**: Beatriz Sotelo en Ferrol, Iria Espinosa en A Coruña y Lucía Freitas en Santiago [V]. Su punto débil es real: **Bruma está vacío y es la etapa más solitaria** [V].
+9. **Santiago tiene desde mayo de 2026 vuelo directo de United a Nueva York-Newark, 3 veces por semana** [V]. Es el primer aeropuerto gallego con conexión regular a EE.UU. y **cambia la puerta de entrada del mercado norteamericano**. Favorece al Inglés, que empieza y acaba cerca de Lavacolla.
+10. **A 10.000 €/persona el producto es un producto de grupo, no privado, y el coste es producto, no personal.** Punto muerto en **3 clientas**; margen del 30 % a partir de **6**; **39–42 % con 8**. **Un privado de dos pierde dinero** y necesitaría 16.000–17.700 €. Y el equipo humano es solo el **26,8 %** del coste frente al **30,4 % de las camas**: **este viaje no se abarata recortando equipo, solo quitando producto** (§12.7). Corolario incómodo: **el i7 cuesta 2.400 € más por salida que un X7 o un Clase V** [V] y ese dinero rinde mucho más en la cama que en el coche (§11.5).
 
 ---
-
 ## 1. Marco que atraviesa todo el informe: lujo EN RUTA vs. lujo FUERA DE RUTA
 
 Esta distinción, pedida por el cliente, es la columna vertebral del producto y conviene fijarla antes de nada.
@@ -81,7 +83,7 @@ A eso añado, como criterios operativos propios para Galicia [E]:
 ### 2.4 Traslados
 
 - Vehículo con conductor (VTC) profesional con licencia, no taxi contratado ad hoc. Hay operadores VTC de gama alta con cobertura en toda Galicia (A Coruña, Santiago, Ferrol, Lugo, Vigo, Pontevedra), contratables por horas con disponibilidad exclusiva todo el día, 7 días/semana [V].
-- **Regla dura:** ningún traslado nocturno de más de 25 minutos después de una etapa de 20+ km (ver §7.3).
+- **Regla dura:** ningún traslado nocturno por encima del radio de 20 minutos fijado por el cliente tras una etapa de 20+ km (ver §7.1 y §7.5).
 - El equipaje **no se subcontrata a un servicio genérico de transporte de mochilas**. Va en nuestro furgón, con nuestra persona. Es la diferencia entre "llega tu maleta" y "tu maleta no ha salido de nuestras manos".
 
 ### 2.5 Asistencia médica y ginecológica
@@ -120,7 +122,9 @@ Documento escrito, firmado por todo el staff, con estos elementos [E, construido
 
 ---
 
-## 3. Seguridad real en las tres rutas: dato frente a percepción
+## 3. Seguridad real en las rutas: dato frente a percepción
+
+*(Este apartado cubre el Francés y las dos portuguesas. El Camino Inglés se analiza en §8.5, junto con una corrección al informe de EE.UU.)*
 
 ### 3.1 La cifra
 
@@ -267,7 +271,9 @@ Modelo de coste directo estimado, **grupo privado de 4 mujeres, por persona y d�
 | **Coste directo** | **~1.085** |
 | **PVP con margen 35–40%** | **~1.650–1.800** |
 
-Ese número es muy alto. Por eso propongo **dos formatos** (detalle en §10):
+> **Actualización: el cliente ha fijado después el PVP en 10.000 € por persona y semana. El análisis de coste y margen a ese precio concreto está en §12 y SUSTITUYE a las cifras de este apartado, que se conservan como mapa del mercado.**
+
+Ese número es muy alto. Por eso propuse **dos formatos**:
 
 - **Privado (2–6 mujeres): 1.300–1.600 €/pax/día.** Para 7 días/6 noches → **9.000–11.000 €/pax**. Se llega ahí bajando el coste con el **modelo de base fija** (§7.4), que recorta noches de hotel caras y el coste de reposicionamiento del vehículo.
 - **Grupo cerrado reducido (8–10 mujeres): 700–850 €/pax/día.** Para 7 días → **5.000–6.000 €/pax**, con **individual incluida**. Esto es *igual o menos* que Backroads con suplemento (6.199 USD) y con un producto muy superior. Es el formato que llena salidas.
@@ -460,100 +466,274 @@ Ese número es muy alto. Por eso propongo **dos formatos** (detalle en §10):
 
 ---
 
-## 7. Proveedores por final de etapa, con el coche a favor y en contra
+## 7. Proveedores dentro del radio de 20 minutos
 
-### 7.1 Criterio
+### 7.1 La regla y lo que implica
 
-El cliente tiene razón: con vehículo privado el radio útil es toda Galicia. Pero el radio útil **de un día de descanso** no es el mismo que el **de una cena tras 25 km**. Presento las dos cosas: el inventario a <60 y <90 min, y el contrapeso.
+**Regla de diseño fijada por el cliente, que sustituye al análisis de 60/90 minutos del borrador anterior: máximo 20 minutos de coche desde el final de etapa. Lo que quede más lejos no entra en el producto.**
 
-**Aviso sobre tiempos:** salvo el que se indica, **todos los tiempos de trayecto son estimaciones mías [E]** basadas en la red viaria (A-54, A-52, A-55, A-9, N-547, N-550, PO-552, comarcales). Está verificado: **Portomarín → Santiago de Compostela, 92,7 km, 1 h 29 min** (ViaMichelin) [V]. **Hay que recalcular cada uno con una herramienta de rutas antes de fijar itinerario**: en Galicia la comarcal engaña y una diferencia de 15 minutos cambia la decisión.
+Es una regla excelente y la respaldo sin reservas: después de 20–25 km caminados, cualquier cosa por encima de 20 minutos de coche se cobra en sueño y en la etapa del día siguiente. Pero hay que asumir su consecuencia, que es dura: **el radio de 20 minutos elimina de un plumazo la mayor parte del inventario premium de Galicia**, que está concentrado en la costa de las Rías Baixas y en las cuatro ciudades.
 
-### 7.2 Camino Francés — Sarria, Portomarín, Palas de Rei, Arzúa, Santiago
-
-**Alojamiento disponible sobre la ruta** [V salvo indicación]:
-- **Sarria:** **Hotel Alfonso IX** — céntrico, ubicación privilegiada sobre el Camino, **con spa y piscina**. Es el mejor de Sarria y **no es un cinco estrellas**.
-- **Portomarín:** **Pousada de Portomarín** — con spa y piscina. Hay además "un fantástico pazo" citado en Portomarín, sin nombre en la fuente [NV].
-- **Arzúa:** **Hotel Pazo de Bieito**; **Pazo de Sedor**, Sedor-Castañeda, 15819 Arzúa — pazo del s. XVII, piscina exterior, 3,5★; **atención: no está sobre el Camino y requiere taxi**.
-- **Palas de Rei:** no he verificado ninguna propiedad de alta gama [NV].
-- **Santiago:** **A Quinta da Auga Hotel Spa — Relais & Châteaux** (antiguo molino papelero del s. XVIII, 51 habitaciones, spa, restaurante Filigrana, finca de más de 1 ha junto al río Sar, **10 min en coche de la catedral**; clasificado como 4★); **Parador de Santiago – Hostal dos Reis Católicos** (el mayor de la red y uno de los hoteles en funcionamiento más antiguos del mundo).
-
-| Desde | A <60 min [E] | A <90 min [E] |
-|---|---|---|
-| **Sarria** | **Vértigo 1★ (Sober, Ribeira Sacra, dentro de la bodega Regina Viarum)** ~55–70 min · Lugo capital (muralla romana) ~35 min · Cañones del Sil ~60 min | Santiago ~1 h 45 (fuera) |
-| **Portomarín** | Lugo ~35 min · Sober/Ribeira Sacra ~60 min | **Santiago 1 h 29** [V] |
-| **Palas de Rei** | Santiago ~45–50 min (A-54) · Lugo ~45 min | A Coruña ~1 h 15 |
-| **Arzúa** | **Santiago ~35 min** · **A Quinta da Auga ~40 min** · A Coruña ~50 min | Rías Baixas ~1 h 30 |
-| **Santiago** | **A Tafona, Casa Marcelo, Simpar (1★) — a pie** · Padrón ~25 min · O Grove/A Toxa ~1 h | Ourense (Miguel González 1★) ~1 h 15 · Vigo ~1 h 25 |
-
-**Conclusión del Francés:** la ruta es pobre en alojamiento de alta gama y en gastronomía de estrella **hasta llegar a Santiago**. Tiene exactamente **un** activo fuera de ruta de primer nivel: **la Ribeira Sacra (Sober / Vértigo 1★ / Regina Viarum)**, a ~1 h de Sarria y Portomarín. Y merece la pena **solo como día completo de descanso**, no como cena.
-
-### 7.3 Camino Portugués Central — Tui, Redondela, Pontevedra, Caldas de Reis, Padrón
-
-**Alojamiento sobre la ruta** [V]: **Parador de Tui** (4★, pazo gallego tradicional, piscina, jardines); **Hostal Acolá**, palacio renacentista del s. XVI; **Balneario Acuña** y **Balneario Dávila** en Caldas de Reis (ambos con alojamiento); **Hotel O Cruceiro**, Caldas de Reis (con punto de recarga eléctrica); **Pazo de Lestrove** (Pousadas de Compostela), Padrón — edificio emblemático del s. XVI, antiguo lugar de recreo de los obispos de Santiago, **50.000 m² de jardines y bosque**, piscina, a **10 min a pie de Padrón**; **Hotel Rosalía**, Padrón (céntrico, funcional); **Parador de Pontevedra**.
-
-| Desde | A <60 min [E] | A <90 min [E] |
-|---|---|---|
-| **Tui** | **Bodegas La Val, Salvaterra de Miño (Condado do Tea) ~25 min** · Vigo (Maruja Limón, Silabario 1★) ~30 min · Baiona ~40 min · A Guarda ~40 min | Pontevedra ~50 min · O Grove ~1 h 20 |
-| **Redondela** | **Vigo ~20 min** · Pontevedra ~20 min · **Pepe Vieira 2★ (Raxó) ~30 min** · Baiona ~35 min | O Grove / A Toxa ~55 min |
-| **Pontevedra** | **Solla 1★ (Poio) ~10 min** · **Eirado 1★ — en la ciudad** · **Pepe Vieira 2★ (Raxó) ~25 min** · Cambados ~35 min · **Culler de Pau 2★ (O Grove) ~50 min** · Mondariz ~40 min | Santiago ~55 min · Tui ~50 min |
-| **Caldas de Reis** | **Balnearios Acuña y Dávila — en el pueblo** · **Yayo Daporta 1★ (Cambados) ~25–30 min** · **Pazo de Señoráns (Salnés) ~25–30 min** · **A Toxa ~45 min** · Mondariz ~45 min | Santiago ~40 min · Vigo ~50 min |
-| **Padrón** | **Santiago ~25 min** · **A Quinta da Auga ~25 min** · Cambados ~40 min · Vilanova de Arousa ~35 min | Vigo ~1 h |
-
-**Conclusión del Portugués Central: es, con diferencia, la ruta mejor dotada de las tres.** Balneario en la propia etapa, cuatro estrellas Michelin a menos de 30 minutos de Pontevedra y Caldas, dos subzonas de Rías Baixas, Parador y pazos con historia. Es el itinerario que menos desvíos necesita porque **casi todo está al lado**.
-
-### 7.4 Camino Portugués da Costa — A Guarda, Oia, Baiona, Vigo
-
-**Alojamiento** [V]: **Hotel Monumento Convento de San Benito, A Guarda** — convento restaurado en el puerto pesquero, con capilla original y **claustro con biblioteca de libros del s. XVI**; **Parador de Baiona – Conde de Gondomar**, castillo histórico de Monterreal con vistas al océano, habitaciones con vistas al mar, jardines y piscina exterior; en **Vigo, los dos únicos 5★ de la ciudad**: **Gran Hotel Nagari Boutique & Spa** (en la "milla de oro", frente a la Alameda, spa y piscina en azotea) y **Pazo Los Escudos Hotel Spa & Resort** (pazo del s. XIX en primera línea de playa, 54 habitaciones). En **Oia** no he verificado alojamiento de alta gama [NV].
-
-| Desde | A <60 min [E] | A <90 min [E] |
-|---|---|---|
-| **A Guarda** | Tui ~40 min · **La Val, Salvaterra ~50 min** · Baiona ~35 min · Vigo ~55 min | Pontevedra ~1 h 15 |
-| **Oia** | Baiona ~20 min · **Vigo (2× 1★) ~40 min** · Tui ~40 min | Pontevedra ~1 h |
-| **Baiona** | **Vigo ~30 min** · Tui ~40 min · Pontevedra ~45 min | Cambados ~1 h 10 · O Grove ~1 h 20 |
-| **Vigo** | Pontevedra ~25 min · **Pepe Vieira 2★ ~35 min** · Redondela ~20 min | **Culler de Pau 2★ (O Grove) ~55 min** · Santiago ~1 h 25 |
-
-**Conclusión del da Costa: el mejor paisaje, el mejor acceso para el vehículo de apoyo, buen hotel en los extremos (San Benito, Parador de Baiona, 5★ de Vigo) y un agujero en el medio (Oia).** Y el gran defecto: **A Guarda → Santiago son ~155 km**, así que la ruta completa no cabe en 6 noches caminando a ritmo cómodo. Se resuelve **combinando: da Costa de A Guarda a Redondela y enlace con el Central hasta Santiago**, que es además lo que hace la mayoría.
-
-### 7.5 El contrapeso: cuántos desvíos largos aguanta el viaje
-
-**Regla que propongo, y que debe escribirse en el manual de operación** [E]:
-
-> **Después de una etapa de 20 km o más, el techo de traslado para cenar es de 25 minutos por trayecto, y la cena empieza a las 20:30, no a las 21:30.**
-
-La aritmética es la que señala el cliente: 25 km caminados + 1 h de coche + cena española que termina a las 23:00 + 1 h de vuelta = acostarse a medianoche y salir a las 8:00 con seis horas de sueño. Repetido dos noches, la clienta deja de caminar bien. **Al tercer día, el viaje está roto y la culpa la tendrá "el Camino", no nosotros.**
-
-**Presupuesto de desvíos para un viaje de 6 noches / 7 días:**
-
-| | Cuántos | Cuándo | Cuáles merecen la pena |
-|---|---|---|---|
-| **Desvíos largos** (>40 min por trayecto) | **Máximo 1, y preferiblemente 0** | **Nunca a media semana.** Solo el día de llegada (sin caminar) o como día de descanso sustituyendo una etapa | **Ribeira Sacra desde Sarria/Portomarín** (~1 h) **solo como día de descanso completo**: cañones del Sil + Regina Viarum + Vértigo 1★. **A Toxa desde Caldas** (~45 min) como extensión de 1–2 noches al final, no como ida y vuelta |
-| **Desvíos medios** (25–40 min) | **Máximo 2 en todo el viaje** | Tarde, terminando la etapa antes | **Yayo Daporta (Cambados) desde Caldas** ~25–30 min · **Pazo de Señoráns desde Caldas** ~25–30 min · **Pepe Vieira desde Pontevedra** ~25 min |
-| **Cercanos** (<25 min) | **Sin límite** | Cualquier noche | **Eirado en Pontevedra (en la ciudad)** · **Solla en Poio (~10 min)** · **balnearios de Caldas (en el pueblo)** · **Vigo desde Baiona (~30 min, en el límite)** · **todo Santiago a pie** |
-| **Coste cero** | — | Última noche | **A Tafona, Casa Marcelo o Simpar en Santiago: se llega caminando.** El mejor momento gastronómico del viaje no cuesta ni un minuto de coche |
-
-**La conclusión práctica, que resuelve el dilema del cliente:** **el problema de los desvíos se disuelve casi por completo si se ordena bien el viaje.** La estrella Michelin va en Santiago, donde ya se está. El balneario va en Caldas, donde ya se está. La cata va a 25 minutos de Caldas o de Tui. El único desvío largo defendible es la Ribeira Sacra, y solo si sustituye una jornada de caminata en lugar de añadirse a ella.
-
-### 7.6 El modelo de base fija — la mejor idea operativa de este informe
-
-En lugar de hotel a hotel, **dos bases para todo el viaje**: 3 noches en un pazo (p. ej. **Pazo de Lestrove** en el Portugués, o un pazo en el eje Arzúa–Santiago en el Francés) + 3 noches en Santiago (**A Quinta da Auga** o **Parador**), con traslado diario al punto de inicio de etapa y recogida al final.
-
-**Qué resuelve de golpe:**
-
-| Problema | Cómo lo resuelve |
-|---|---|
-| No hay 5★ en la ruta del Francés | Se concentra el presupuesto hotelero en dos propiedades buenas en vez de repartirlo en seis mediocres |
-| Suplemento individual | Se negocia **un bloque de individuales en dos hoteles** en vez de en seis. Mucho más barato de conseguir gratis |
-| Recarga del i7 | **Solo hay que garantizar recarga nocturna en dos ubicaciones**, no en seis. Elimina el riesgo eléctrico |
-| Confianza y familiaridad | La misma habitación, el mismo personal, las mismas caras. **Para una mujer que viaja sola esto vale más que una estrella más de hotel** |
-| Equipaje | No se mueve. Nunca. Nadie lo toca |
-| Flexibilidad de etapa | Se puede empezar donde se quiera y terminar donde se quiera: el coche va a buscarla. Se puede acortar un día sin romper la logística |
-| Masificación | Permite **desplazar el horario**: salir a las 7:30 y comer en ruta a las 12:30, fuera de los cuellos de botella |
-
-**Qué cuesta:** más kilómetros diarios de vehículo (~40–120 km/día [E]) y la pérdida de la sensación de "avanzar" que da cambiar de hotel. Ese segundo punto es una objeción real de peregrinos puristas y hay que gestionarla en la venta. **Contraargumento honesto:** avanzan igual, caminan igual, solo duermen mejor.
+**Aviso metodológico:** salvo el trayecto **Portomarín → Santiago (92,7 km / 1 h 29, ViaMichelin)** [V], **todos los tiempos que siguen son estimaciones mías [E]** sobre la red viaria real (A-54, A-6, A-9, AP-9, A-55, AG-55, N-547, N-550, N-634, PO-552, y comarcales). En Galicia la comarcal engaña. **Cada uno debe recalcularse con herramienta de rutas antes de cerrar itinerario**, y en la tabla marco con ⚠ los que están en el filo de los 20 minutos y por tanto pueden caer fuera.
 
 ---
 
-## 8. El vehículo: i7, recarga y el segundo coche
+### 7.2 Camino Francés — Sarria, Portomarín, Palas de Rei, Arzúa, O Pedrouzo, Santiago
+
+| Final de etapa | Estrella / alta cocina ≤20 min | Balneario o spa ≤20 min | Bodega visitable ≤20 min | Alojamiento de alta gama ≤20 min | Veredicto |
+|---|---|---|---|---|---|
+| **Sarria** | **Ninguno.** Vértigo 1★ (Sober) queda a ~55–70 min [E] — **fuera** | **Ninguno verificado** [NV] | **Ninguna.** Ribeira Sacra a ~50–70 min [E] — **fuera** | **Hotel Alfonso IX** (en Sarria, con spa y piscina) [V] — bueno, no lujo | **VACÍO** |
+| **Portomarín** | **Ninguno** | **Ninguno verificado** [NV] | **Ninguna** | **Pousada de Portomarín** (spa y piscina) [V]; un pazo citado sin nombre [NV] | **VACÍO** |
+| **Palas de Rei** | **Ninguno verificado** [NV] | **Ninguno** | **Ninguna** | **Ninguno verificado** [NV] | **VACÍO — el peor punto de las cuatro rutas** |
+| **Arzúa** | **Ninguno** | **Ninguno** | **Ninguna** | **Pazo de Sedor** (s. XVII, piscina, 3,5★, Sedor-Castañeda) [V] — pero **no está sobre el Camino y exige taxi** [V]; **Hotel Pazo de Bieito** [V] | **POBRE**, salva el alojamiento |
+| **O Pedrouzo** | **Ninguno verificado** [NV]. Santiago a ~20–25 min ⚠ [E] | Ninguno | Ninguna | **Ninguno verificado** [NV]. A Quinta da Auga a ~20 min ⚠ [E] | **POBRE / frontera** |
+| **Santiago** | **A Tafona 1★ (Lucía Freitas), Casa Marcelo 1★, Simpar 1★ — a pie** [V] | **Spa de A Quinta da Auga — en el hotel** [V] | Ninguna ≤20 min; Rías Baixas a ~50 min+ [E] | **A Quinta da Auga, Relais & Châteaux** (~10 min de la catedral [V]); **Parador Hostal dos Reis Católicos** (en la plaza) [V] | **MUY RICO** |
+
+**La sospecha del cliente queda CONFIRMADA, y con margen.** El Camino Francés desde Sarria atraviesa el interior rural de Lugo y el noreste de A Coruña, y **en el radio de 20 minutos está literalmente vacío de oferta premium durante cuatro de sus seis finales de etapa**. Toda la riqueza del itinerario está concentrada en el último punto, Santiago, donde además está concentrada la de las otras tres rutas. Es decir: **el Francés no aporta nada propio; solo aporta el nombre.**
+
+Datos que lo explican: la provincia de Lugo tiene **una sola estrella Michelin en toda Galicia 2026 — Vértigo, en Sober**, y es la primera de su historia [V]; las otras 18 están en A Coruña (8), Pontevedra (7) y Ourense (3) [V]. Ninguna de ellas cae dentro de 20 minutos de ningún final de etapa del Francés salvo las tres de Santiago.
+
+#### Qué se puede hacer con el Francés: las tres salidas, y cuál sirve
+
+1. **Alojamiento que sea destino en sí mismo (pazos y casas grandes).** Es la salida más honesta y la única que conserva el Camino. Funciona conceptualmente, pero **el inventario verificado no la sostiene hoy**: lo mejor que he podido confirmar sobre el trazado es Hotel Alfonso IX, Pousada de Portomarín, Pazo de Bieito y Pazo de Sedor [V] — propiedades correctas de 3–4★ con spa, no destinos. Para que esta vía funcione **habría que encontrar y contratar en exclusiva dos o tres pazos privados que hoy no operan como hotel**, o firmar un acuerdo de uso exclusivo con Pazo de Sedor. Es un proyecto de 12–18 meses, no una decisión de catálogo. **Viable, cara y lenta.**
+2. **Llevar el chef y el sumiller al alojamiento en vez de mover al cliente.** **Es la mejor solución, y además es superior al restaurante, no un sucedáneo.** Una cena de cocinera con estrella servida en el comedor de un pazo del s. XVII para seis mujeres es más exclusiva que una mesa en su restaurante, no menos. Convierte una carencia en argumento. Y es coherente con el marco del §1: **traslada lujo FUERA DE RUTA al interior del alojamiento, que es donde no cuesta desplazamiento.** Coste estimado: **250–450 €/pax** para un chef con estrella desplazado con su equipo, más producto [E, no verificado]. **Recomendada.**
+3. **Concentrar lo bueno en Santiago al terminar.** Es lo que el itinerario hace por sí solo y es correcto, pero **no resuelve nada**: significa aceptar cinco noches sin nada y una buena. **Insuficiente por sí sola.**
+
+**Salida recomendada: 2 + 1.** Pazo o casa grande como base, cena de autor llevada al pazo una noche, y Santiago al final con A Tafona. Y con el **modelo de base fija** (§7.6) para que esas noches sean solo dos ubicaciones.
+
+---
+
+### 7.3 Camino Portugués Central — Tui, O Porriño, Redondela, Pontevedra, Caldas de Reis, Padrón
+
+| Final de etapa | Estrella / alta cocina ≤20 min | Balneario o spa ≤20 min | Bodega visitable ≤20 min | Alojamiento de alta gama ≤20 min | Veredicto |
+|---|---|---|---|---|---|
+| **Tui** | Ninguna estrella ≤20 min. **Vigo (Maruja Limón 1★, Silabario 1★) a ~30 min** [E] — **fuera** | Ninguno verificado [NV] | **Bodegas La Val, Salvaterra de Miño (Condado do Tea) ~25 min ⚠** [V+E] — **en el filo, probablemente fuera** | **Parador de Tui** (4★, pazo tradicional, piscina, jardines) [V] | **MEDIO** — salva el Parador; el Condado do Tea queda en el filo |
+| **O Porriño** | Ninguno | Ninguno | **Condado do Tea a ~20 min ⚠** [E] | Ninguno verificado [NV] | **VACÍO** — etapa industrial, prescindible |
+| **Redondela** | **Vigo (Maruja Limón 1★, Silabario 1★) ~20 min ⚠** [E]; **Pontevedra (Eirado 1★) ~20 min ⚠** [E] | Spa de los 5★ de Vigo ~20 min ⚠ [E] | Ninguna | **Gran Hotel Nagari 5★ y Pazo Los Escudos 5★ (Vigo) ~20–25 min ⚠** [V+E] | **MEDIO-RICO, pero todo en el filo** |
+| **Pontevedra** | **Eirado 1★ — en la ciudad** [V]; **Solla 1★ (Poio) ~10 min** [V+E]; **Pepe Vieira 2★ (Raxó) ~25 min ⚠** [V+E] | **Ninguno verificado en la ciudad** [NV] | Ninguna ≤20 min | **Parador de Pontevedra** (en la ciudad) [V] | **RICO — dos estrellas dentro del radio** |
+| **Caldas de Reis** | **Yayo Daporta 1★ (Cambados) ~25–30 min ⚠** [V+E] — **probablemente fuera** | **Balneario Acuña y Balneario Dávila — EN EL PUEBLO, a pie** [V] | **Pazo de Señoráns (Salnés) ~25–30 min ⚠** [V+E] — **en el filo** | **Los propios balnearios ofrecen alojamiento** [V]; Hotel O Cruceiro [V] | **RICO por el termalismo, que está a cero minutos** |
+| **Padrón** | Ninguna ≤20 min. **Santiago (3× 1★) ~25 min ⚠** [E] | Ninguno verificado [NV] | Ninguna | **Pazo de Lestrove** (s. XVI, 50.000 m² de jardines, piscina, 10 min a pie de Padrón) [V]; Hotel Rosalía [V] | **MEDIO** — excelente alojamiento, nada más |
+| **Santiago** | **A Tafona 1★, Casa Marcelo 1★, Simpar 1★ — a pie** [V] | **A Quinta da Auga** [V] | Ninguna | **A Quinta da Auga R&C; Parador Hostal dos Reis Católicos** [V] | **MUY RICO** |
+
+**Veredicto del Portugués Central: es la ruta más rica de las cuatro dentro del radio de 20 minutos.** Tiene **dos estrellas Michelin dentro del radio en Pontevedra** (Eirado en la ciudad, Solla a 10 min), **dos balnearios activos a pie en Caldas de Reis** —el único punto de las cuatro rutas donde el lujo fuera de ruta está a cero minutos—, un Parador en Tui, otro en Pontevedra y un pazo del XVI en Padrón. **Confirma la segunda mitad de la sospecha del cliente.**
+
+Matiz honesto: **varios de sus mejores activos quedan en el filo de los 20 minutos** (Cambados, Pazo de Señoráns, Vigo desde Redondela, Pepe Vieira desde Pontevedra). Con la regla aplicada con rigor, el Portugués pierde el Albariño del Salnés y a Yayo Daporta. **Lo que NO pierde es lo esencial: los balnearios de Caldas están dentro del pueblo y las dos estrellas de Pontevedra dentro del radio.**
+
+---
+
+### 7.4 Camino Portugués da Costa — A Guarda, Oia, Baiona, Vigo
+
+| Final de etapa | Estrella / alta cocina ≤20 min | Balneario o spa ≤20 min | Bodega visitable ≤20 min | Alojamiento de alta gama ≤20 min | Veredicto |
+|---|---|---|---|---|---|
+| **A Guarda** | Ninguna. Cocina de producto de puerto (rodaballo, langosta) en la lonja [E] | Ninguno verificado [NV] | **Ninguna ≤20 min**; Condado do Tea a ~50 min [E] | **Hotel Monumento Convento de San Benito** — convento restaurado en el puerto, capilla original, **claustro con biblioteca de libros del s. XVI** [V] | **POBRE en oferta, FUERTE en alojamiento singular** |
+| **Oia** | **Ninguna** | Ninguno | Ninguna | **Ninguno verificado** [NV]. Baiona a ~20 min ⚠ [E] | **VACÍO — el agujero del da Costa** |
+| **Baiona** | Ninguna estrella ≤20 min. Vigo a ~30 min [E] — fuera | Spa del Parador [NV, por confirmar] | Ninguna | **Parador de Baiona – Conde de Gondomar**, castillo de Monterreal, vistas al océano, jardines y piscina [V] | **MEDIO — el Parador es de los mejores de España** |
+| **Vigo** | **Maruja Limón 1★ y Silabario 1★ — en la ciudad** [V] | **Spa del Gran Hotel Nagari** (y azotea con piscina) [V]; **spa de Pazo Los Escudos** [V] | Ninguna ≤20 min | **Gran Hotel Nagari 5★** (milla de oro, frente a la Alameda) y **Pazo Los Escudos 5★** (pazo del s. XIX en primera línea de playa, 54 hab.) [V] — **los dos únicos 5★ de la ciudad** | **MUY RICO** |
+
+**Veredicto del da Costa: extremos ricos, centro vacío.** A Guarda tiene un alojamiento excepcional y singular pero nada más; Oia no tiene nada; Baiona tiene el Parador; Vigo lo tiene todo. **Y compensa con el mejor paisaje y el mejor acceso de vehículo de las cuatro rutas** (senda peatonal y ciclista junto a la PO-552 [V]).
+
+---
+
+### 7.5 Veredicto comparado: dónde el radio de 20 minutos da producto y dónde no
+
+| Ruta | Finales de etapa RICOS | Finales MEDIOS | Finales VACÍOS | Diagnóstico |
+|---|---|---|---|---|
+| **Francés (Sarria)** | 1 de 6 (Santiago) | 2 (Arzúa, O Pedrouzo) | **3 (Sarria, Portomarín, Palas de Rei)** | **El más pobre, con diferencia. Y lo único rico que tiene es el punto de llegada, que comparte con todas las demás** |
+| **Portugués Central (Tui)** | 3 de 7 (Pontevedra, Caldas, Santiago) | 3 (Tui, Redondela, Padrón) | 1 (O Porriño) | **El más rico. Balneario a cero minutos y dos estrellas en radio** |
+| **Portugués da Costa** | 1 de 4 (Vigo) | 2 (A Guarda, Baiona) | 1 (Oia) | Extremos fuertes, centro débil. **El mejor paisaje y la mejor logística** |
+| **Inglés (Ferrol)** | ver §8 | | | |
+
+**Respuesta directa a la sospecha del cliente: CONFIRMADA. El Camino Francés desde Sarria, que es el más famoso y el más demandado, es el más pobre en oferta premium dentro de 20 minutos. El Portugués y el da Costa son claramente más ricos porque pasan por las Rías Baixas, junto a Pontevedra y Vigo, y rozan el Condado do Tea y el Salnés.**
+
+**Y sí: conviene vender el Portugués como el producto premium y el Francés como el de quien exige el nombre.** Argumentos:
+
+- **El Portugués aguanta la regla de 20 minutos; el Francés no.** Eso no es una preferencia, es una restricción operativa.
+- **El Francés vendido con la regla de 20 minutos es, forzosamente, un producto de alojamiento y servicio, no de gastronomía ni de vino.** Lo que se puede prometer allí es el pazo, la cocinera que viene al pazo, el vehículo, la fisio y el avituallamiento en ruta — es decir, **casi todo lujo EN RUTA**. Que es exactamente el foso del §1. **No es mala noticia: el Francés obliga a hacer el producto por el lado difícil de copiar.**
+- **El posicionamiento se cuenta solo:** *"Si quiere el Camino que conoce, hacemos el Francés y le llevamos la cocina al pazo. Si quiere el mejor viaje, hacemos el Portugués."* Y se cobra más por el Portugués, no menos, aunque el nombre sea menos conocido — porque el producto es objetivamente superior.
+
+### 7.6 El modelo de base fija (se mantiene, y ahora es más necesario)
+
+En lugar de hotel a hotel, **dos bases para todo el viaje**, con traslado diario al punto de inicio de etapa y recogida al final. Con la regla de 20 minutos aplicada al **alojamiento**, este modelo pasa de ser una buena idea a ser **la única forma de operar el Francés con estándar de lujo**.
+
+| Problema | Cómo lo resuelve |
+|---|---|
+| No hay 5★ ni oferta premium en cuatro de las seis etapas del Francés | Se concentra el presupuesto en dos propiedades buenas en vez de repartirlo en seis correctas |
+| Suplemento individual | Se negocia **un bloque de individuales en dos hoteles**, no en seis. Mucho más fácil de conseguir gratis |
+| Recarga del i7 | Solo hay que garantizar recarga nocturna en **dos** ubicaciones (§9) |
+| Confianza y familiaridad | Misma habitación, mismo personal, mismas caras. **Para una mujer que viaja sola esto vale más que una estrella de hotel** |
+| Equipaje | No se mueve nunca |
+| Flexibilidad de etapa | Se empieza y se termina donde se quiera: el coche va a buscarla |
+| Masificación | Permite desplazar el horario: salir a las 7:30 y comer en ruta a las 12:30, fuera de los cuellos de botella |
+| Chef desplazado | Solo hay que montar la cocina invitada **una vez**, en la base |
+
+**Coste:** más kilómetros diarios de vehículo (~40–120 km/día [E]) y la pérdida de la sensación de avanzar que da cambiar de hotel. Esa objeción es real entre peregrinos puristas y hay que gestionarla en la venta. Contraargumento honesto: **avanzan igual y caminan igual; solo duermen mejor.**
+
+---
+
+## 8. El Camino Inglés: evaluación completa y veredicto
+
+El cliente se plantea abandonar el Francés y operar **Inglés + Portugués (con da Costa)**. Evalúo el Inglés con la misma profundidad y cierro con veredicto.
+
+### 8.1 La regla de la Compostela — y es lo primero porque puede tumbar la idea
+
+**Lo verificado:**
+
+- **Desde Ferrol son ~118 km: cumple los 100 km y da Compostela sin ningún problema.**
+- **Desde A Coruña son ~74–75 km en 3 etapas** y, al cubrir menos de los 100 km que exige la Iglesia, **no se obtiene la Compostela** [V].
+- **La dispensa existe y sigue vigente**: hay un acuerdo entre el Ayuntamiento de A Coruña y la Catedral de Santiago. **Pero sus condiciones son muy restrictivas** [V]:
+  1. **Residentes en A Coruña** que lo acrediten con DNI.
+  2. **Extranjeros con vínculos históricos con el Camino Inglés, especialmente de Reino Unido e Irlanda**, que acrediten con sellos haber caminado los kilómetros restantes hasta sumar 100.
+  3. **Otros europeos**: deben completar parte de una ruta jacobea **en su país o lugar de origen**, de modo que sumado al tramo A Coruña–Santiago totalice los 100 km.
+
+**Veredicto, y es tajante: la dispensa NO sirve para nuestros dos mercados.** Está construida sobre el vínculo histórico anglo-irlandés y sobre la categoría "otros europeos". **Una clienta estadounidense o china no encaja limpiamente en ninguno de los tres supuestos**, y en el mejor de los casos tendría que acreditar con sellos 25 km caminados en su lugar de origen — algo que para alguien que vuela desde Nueva York o Shanghái es, en la práctica, inviable de documentar de forma fiable.
+
+**Regla de producto, sin excepciones: si se opera el Camino Inglés, se sale de FERROL.** Y la Compostela no se menciona nunca como posible desde A Coruña. El riesgo que señala el cliente es real y sería un fallo grave: una clienta que paga 10.000 € y no recibe su Compostela genera una reclamación que ningún argumento histórico compensa. **A Coruña puede ser base de alojamiento, nunca punto de salida acreditable.**
+
+### 8.2 Oferta premium a 20 minutos de cada final de etapa
+
+**Etapas clásicas** (con distancias y dificultad verificadas donde se indica):
+Ferrol → Pontedeume (~28 km) → Betanzos (~20 km) → **Hospital de Bruma (24,0 km, 630 m de desnivel, 6 h, dificultad 3; algunas fuentes dan 27,8 km)** [V] → **Sigüeiro (24,4 km, 213 m, 6 h, dificultad 2)** [V] → Santiago (~16 km).
+
+| Final de etapa | Estrella / alta cocina ≤20 min | Balneario o spa ≤20 min | Bodega ≤20 min | Alojamiento de alta gama ≤20 min | Veredicto |
+|---|---|---|---|---|---|
+| **Ferrol** | **Ninguna estrella.** Pero **Illas Gabeiras, de Beatriz Sotelo — en Ferrol** [V]: estrella Michelin y Sol Repsol en su etapa anterior (A Estación, Cambre) y **primera mujer en ganar el premio Cocinero del Año** [V] | Ninguno verificado [NV] | Ninguna | **Parador de Ferrol** [V] | **RICO por la cocinera, medio en alojamiento** |
+| **Pontedeume** | Ninguna verificada [NV] | Ninguno | Ninguna | **Hotel Montebreamo**, casa histórica [V] — correcto, no lujo | **POBRE** |
+| **Betanzos** | Ninguna ≤20 min [NV]. A Coruña (Árbore da Veira 1★) a ~25–30 min [E] — **fuera** | Ninguno | Ninguna | **Pensión Boutique Río Mandeo** [V]; **La Rectoral de Cines**, hotel rural [V] — ambos correctos, no lujo | **POBRE** |
+| **Hospital de Bruma** | **Nada** | **Nada** | **Nada** | **Albergue de la Xunta** [V] (en el lugar donde hubo un hospital de peregrinos). **Casa O Pazo / Dona María / A Casa do San Paio de Buscás**, en San Paio de Buscás, **7 km después de Bruma y 18 km antes de Sigüeiro** [V] — casas rurales, no lujo | **VACÍO ABSOLUTO — el peor punto de las cuatro rutas** |
+| **Sigüeiro** | **Santiago (A Tafona 1★, Casa Marcelo 1★, Simpar 1★) a ~15–20 min ⚠** [E] | **A Quinta da Auga ~20 min ⚠** [E] | Ninguna | **A Quinta da Auga R&C y Parador Hostal dos Reis Católicos, ~15–20 min ⚠** [E] | **RICO por proximidad a Santiago — hay que verificar el tiempo exacto** |
+| **Santiago** | **Tres estrellas a pie** [V] | **A Quinta da Auga** [V] | Ninguna | **A Quinta da Auga; Parador Hostal dos Reis Católicos** [V] | **MUY RICO** |
+
+**Fuera del trazado pero relevante como base: A Coruña.** **NH Collection A Coruña Finisterre, 5★**, 92 habitaciones con vistas al océano, en el centro, junto al puerto, cerca de la Torre de Hércules y de María Pita, con acceso a complejo deportivo con 3 piscinas, gimnasios y saunas [V]. Y **Árbore da Veira, 1★, en el Monte de San Pedro, dirigido por Luis Veira e Iria Espinosa** [V] — **Iria Espinosa figura entre las cocineras gallegas de referencia** [V]. A Coruña, eso sí, **lleva ocho años sin sumar una nueva estrella** [V].
+
+**La sospecha del cliente queda CONFIRMADA con precisión: los extremos son ricos y el tramo central está vacío.** Ferrol tiene Parador y a Beatriz Sotelo; A Coruña tiene un 5★ y una estrella; Sigüeiro está prácticamente dentro del radio de Santiago; y **Betanzos, Bruma y Pontedeume no tienen nada de nivel. Bruma es, literalmente, un cruce de caminos con un albergue de la Xunta.**
+
+**Y hay un problema adicional con Bruma que la regla de 20 minutos no perdona:** Bruma está a ~35 min de A Coruña, ~35 min de Santiago y ~25 min de Betanzos [E]. **No hay ninguna base de alojamiento de nivel a 20 minutos de Bruma.** Con la regla aplicada con rigor, **la etapa Betanzos–Bruma no se puede operar tal cual**.
+
+#### Cómo se resuelve
+
+1. **Romper las etapas clásicas.** Esta es la respuesta correcta y es consecuencia directa de tener vehículo: **no hay que terminar el día donde está el albergue.** Se puede caminar Betanzos → Bruma y recoger en Bruma, o cortar antes, en Presedo (donde hay albergue municipal [V]) o en cualquier cruce con acceso rodado. **El punto de recogida es una decisión nuestra, no del trazado.** Esto convierte la regla de 20 minutos en una regla sobre el punto de recogida, no sobre el final de etapa canónico — y así sí se cumple.
+2. **Dormir siempre en los extremos.** Base 1 en **A Coruña (NH Collection Finisterre 5★)** para las etapas 1–3, base 2 en **Santiago (A Quinta da Auga)** para las etapas 4–5. Es el **modelo de base fija** del §7.6 aplicado con naturalidad, y en el Inglés funciona mejor que en ninguna otra ruta porque la geografía es compacta.
+3. **Alojamiento que sea destino en sí mismo en el centro:** no existe hoy con estándar de lujo [NV]. Descartado sin un proyecto de contratación previo.
+
+**Y hay un hallazgo que juega a favor:** la etapa **Betanzos–Bruma es descrita como la más dura y la más solitaria del Camino Inglés, con ausencia de servicios en su tramo intermedio, hasta el punto de que se recomienda salir bien provisto de agua y comida desde Betanzos** [V]; y **Bruma–Sigüeiro es "muy escasa en servicios, con solo un par de bares cerca del camino en el tramo inicial"** [V]. **En el Camino Francés desde Sarria el avituallamiento en ruta es un lujo; en el centro del Camino Inglés es una necesidad.** Es el escenario donde nuestro servicio estrella deja de ser un capricho y pasa a ser la única forma civilizada de hacer esa etapa. **Argumento de venta de primer orden.**
+
+### 8.3 El relato: peregrinos por mar desde el siglo XII
+
+**Se sostiene, y con fuentes solventes.** Lo verificado [V]:
+
+- La peregrinación por el Camino Inglés **se rastrea desde el siglo XII**, aunque **no alcanza su máxima relevancia hasta los siglos XIV y XV**, cuando los ingleses recurren masivamente al barco al estar impedidos de atravesar Francia por la **Guerra de los Cien Años**.
+- Entre los siglos XII y XV, **centenares de peregrinos ingleses, irlandeses, galeses, escoceses, bretones, neerlandeses, alemanes y nórdicos desembarcaban a diario**, repartidos entre **A Coruña (la mayoría), Ferrol, Neda, Pontedeume, Fisterra, Muros y Noia**.
+- **Los registros más antiguos, del s. XII, documentan a nobles, clérigos y personas devotas.**
+- **En 1434 desembarcaron en A Coruña más de 3.000 peregrinos** con intención de hacer el Inglés.
+- En el s. XII se produjo en Inglaterra, Irlanda y el norte de Europa un **auténtico boom del culto a Santiago**, con **más de 600 templos** construidos bajo su advocación.
+
+Fuentes: Xacopedia, Gronze, la web oficial caminoingles.gal y la Fundación Hispano Británica [V].
+
+**Valoración:** el cliente tiene razón — **es el mejor argumento de lujo de las cuatro rutas, y por un margen amplio.** El Camino Francés es la ruta de la peregrinación penitencial a pie; **el Inglés es la ruta por la que llegaba la nobleza del norte de Europa, en barco, porque era la vía que se podían permitir.** Eso no hay que construirlo: está documentado. Y para una clienta estadounidense con ascendencia irlandesa, británica o escocesa —que es una porción enorme del mercado de viajes patrimoniales de EE.UU.— es un relato personal, no turístico.
+
+**Qué es productizable:**
+
+- **"El Camino a Vela" es real y está reconocido por la Catedral.** En **2016 la Catedral de Santiago reconoció oficialmente esta forma de peregrinación**, con acuerdo firmado para **sellado de credenciales y acreditación de las 100 millas náuticas** requeridas [V]. Se organiza anualmente una travesía internacional. Los veleros **hacen escala en Ferrol y A Coruña**, y en A Coruña hay **sellado de credencial y recepción por la Autoridad Portuaria** [V].
+- **Traducción a producto:** una **primera jornada de llegada por mar**, embarcando en un puerto de la ría de Ferrol o de A Coruña y desembarcando en el punto de partida, con sellado de credencial en el puerto. No hace falta cruzar el Golfo de Vizcaya: basta una navegación de la propia ría para que **el viaje empiece en el agua, como empezaba en el siglo XV**. Es el mejor primer día que puede tener ninguno de los cuatro productos.
+- Existen operadores de excursión en velero en A Coruña y en la ría de Sada–Betanzos [V]; **el proveedor concreto y su precio están sin verificar** [NV].
+
+### 8.4 Cifras
+
+| | Peregrinos 2025 | % del total | Tendencia |
+|---|---|---|---|
+| **Sarria (inicio, Camino Francés)** | **162.040** | **>32%** del total nacional [V] | Se desestacionaliza [V] |
+| **Camino Portugués Central** | 100.815 | ~19% [V] | — |
+| **Camino Portugués da Costa** | 89.512 | ~17% [V] | **+20%, la ruta principal que más crece** [V] |
+| **Camino Inglés** | **más de 30.000, por primera vez** | **5,5%** [V] | **En 2014 eran ~4.000: se ha multiplicado por siete en once años** [V] |
+| **A Guarda (inicio, da Costa)** | **3.850** (cifra aportada por el cliente, no verificada por mí) [NV] | — | — |
+
+**Perfil del Camino Inglés — y es notablemente favorable:**
+
+- **Los extranjeros ya son mayoría**: los españoles fueron el **44,80%** en 2025 [V].
+- **Estados Unidos creció un +36% interanual**; Reino Unido +19%; Irlanda +33%; Italia y Alemania lideran la afluencia europea [V]. **El crecimiento estadounidense en el Inglés es el más fuerte de cualquier dato que haya encontrado en esta investigación.**
+- **Mujeres: 55%** (2.819 de 5.089) en los cuatro primeros meses de 2026, frente al 45% de hombres; **88% lo hacen a pie** [V]. Es **más femenino que la media del Camino** (53,45% [V]).
+- **2026 va camino de otro récord:** 5.089 peregrinos hasta abril [V]; **22.964 hasta el 31 de agosto, +5% interanual** [V]. **Julio cayó por las olas de calor y agosto fue histórico** [V].
+- **Estacionalidad:** julio y agosto son los meses de máxima afluencia [V], igual que en el resto del Camino. La diferencia entre febrero y agosto es enorme [V].
+
+**Lectura:** el Inglés tiene **una quinta parte de la densidad del Francés desde Sarria**, un perfil **más extranjero, más femenino y con el mercado estadounidense creciendo a doble dígito alto**. Para un producto ultra-lujo femenino orientado a EE.UU., **el perfil de demanda es mejor que el del Francés**, aunque el volumen absoluto sea muy inferior — lo cual es irrelevante para quien necesita 40 clientas al año.
+
+### 8.5 Seguridad comparada
+
+**Primero, una corrección necesaria al informe de EE.UU.** He localizado y verificado el artículo de *The Irish Times* del **11 de noviembre de 2024**. Lo que dice es [V]:
+
+- Nueve mujeres relatan acoso sexual **"aterrador" en zonas casi desiertas de la España rural, Portugal y Francia**, a lo largo de los últimos cinco años; varias temieron por su vida.
+- **Siete** describen hombres que se masturbaban o se tocaban; a una la persiguió por el campo. Otra rechazó tocamientos y comentarios obscenos de varios hombres. La novena relata a un hombre que paró una furgoneta y la instó a subir.
+- **Lorena Gaibor**, fundadora de **Camigas** (foro de peregrinas activo desde 2015): *"el acoso sexual es endémico en el Camino"*.
+
+**El artículo NO dice que el acoso esté concentrado en las rutas portuguesas.** Habla de España, Portugal y Francia, y la cita de Camigas es sobre "el Camino" en general. **Si el informe estadounidense afirma que está concentrado en las portuguesas, esa afirmación no se sostiene con esta fuente y debe corregirse.** Es importante: estaríamos tomando una decisión de ruta sobre un dato que no existe.
+
+**Comparación honesta Inglés vs. rutas portuguesas:**
+
+| Factor | Camino Inglés | Portugués Central | Portugués da Costa |
+|---|---|---|---|
+| **Densidad de peregrinos** | **La más baja: 30.000/año** [V] | 100.815 [V] | 89.512 [V] |
+| **Aislamiento del trazado** | **El peor.** Betanzos–Bruma es descrita como **la etapa más dura y más solitaria**, con **ausencia de servicios en el tramo intermedio** [V]; Bruma–Sigüeiro, **"muy escasa en servicios"** [V] | Bajo: pegado a la N-550 casi todo el recorrido [V] | **El menor:** senda peatonal y ciclista junto a la PO-552 [V] |
+| **Riesgo dominante** | **Aislamiento y falta de asistencia** | **Tráfico**: cruces sin pasos de cebra y presencia constante de la N-550 [V] | Tráfico y exposición (acantilados, Cabo Silleiro) [V] |
+| **Acoso documentado específico** | **Ninguno localizado** [NV] | **Ninguno localizado específicamente** [NV] | **Ninguno localizado** [NV] |
+| **Cobertura de móvil** | **Sin fuente pública** [NV] | **Sin fuente pública** [NV] | **Sin fuente pública** [NV] |
+
+**Veredicto de seguridad, y es contraintuitivo: el Camino Inglés es probablemente MÁS aislado que las rutas portuguesas, no menos.** Menos peregrinos significa menos compañía y menos testigos en el tramo central, que es precisamente el escenario del patrón de acoso de baja intensidad descrito en el §3.2. **Eso no lo descarta — lo convierte en la ruta donde nuestro vehículo de seguimiento vale más.** Pero hay que decirlo internamente: elegir el Inglés por seguridad sería elegirlo por la razón equivocada.
+
+Todo el dispositivo público del §3.3 (Plan Seguridad Jacobea, "No caminas sola", AlertCops con "Camiño de Santiago Guardián", campaña de la Xunta) **cubre todas las rutas jacobeas en Galicia**, incluido el Inglés [V].
+
+### 8.6 Accesos aéreos — y aquí hay un cambio mayor
+
+**Dato que cambia la estrategia: desde mayo de 2026, Santiago (Lavacolla) tiene vuelo directo regular a Estados Unidos.** United Airlines opera **Santiago–Nueva York/Newark tres veces por semana**: salidas lunes, jueves y sábado; llegadas desde Nueva York miércoles, viernes y domingo; **~7 h 50 min de ida y ~7 h de vuelta**. Es **el primer aeropuerto de Galicia con conexión directa regular con Estados Unidos** [V].
+
+Además, **Lavacolla conecta con 10 países**: Ámsterdam, Bruselas, Cork, Dublín, Fráncfort, Londres (Gatwick, Heathrow y Stansted), Marrakech, Nueva York-Newark, París-Orly y Basilea, Ginebra y Zúrich [V].
+
+**Vigo continúa sin un solo vuelo internacional** [V]. De **A Coruña (Alvedro)** no he encontrado conexión con EE.UU. [NV].
+
+**Implicaciones, que son grandes:**
+
+- **Para la clienta estadounidense: Santiago es ahora la puerta de entrada, no Madrid ni Lisboa.** Vuelo directo desde Newark, llegada por la mañana, y a menos de una hora está en cualquiera de los puntos de partida del Inglés. Esto **elimina el peor punto de fricción de todo el viaje** para el mercado norteamericano: la conexión doméstica española con equipaje tras un vuelo transatlántico.
+- **Cork y Dublín directos con Santiago** [V] refuerzan además el relato anglo-irlandés del Inglés (§8.3) y abren un mercado secundario natural.
+- **Favorece al Inglés sobre el Portugués en accesos**: Ferrol y A Coruña están a ~50–70 min del aeropuerto de Santiago [E]; Tui a ~1 h 30 y A Guarda a ~2 h [E]. El Inglés empieza y acaba cerca del único aeropuerto de Galicia con vuelo a EE.UU.
+- **Para el mercado chino** no hay conexión directa ni la habrá; la entrada seguirá siendo por Madrid, Ámsterdam, París o Fráncfort con conexión a Santiago [V, sobre los destinos listados]. Aquí el Inglés no aporta ventaja.
+- **Riesgo a vigilar:** el aeropuerto de Santiago estuvo **cerrado en 2026 por renovación de la pista de Lavacolla** y reabrió el 28 de mayo [V]. Cualquier producto que dependa de un único aeropuerto necesita plan B (Porto y A Coruña).
+
+### 8.7 Veredicto: ¿Inglés + Portugués es mejor que Francés + Portugués?
+
+**Sí, para un producto ultra-lujo femenino orientado a Estados Unidos. Pero no eliminaría el Francés del catálogo.**
+
+**A favor del Inglés sobre el Francés:**
+
+| Criterio | Inglés | Francés desde Sarria |
+|---|---|---|
+| **Oferta premium a 20 min** | Extremos ricos (Ferrol con Beatriz Sotelo y Parador; A Coruña con 5★ y estrella; Sigüeiro dentro del radio de Santiago), centro vacío | **Vacío en 3 de 6 etapas**, y lo único rico es Santiago, que comparte con todos |
+| **Relato** | **Peregrinos por mar desde el s. XII, nobleza documentada, 3.000 desembarcados en A Coruña en 1434** [V]. Productizable con llegada en velero reconocida por la Catedral [V] | El relato genérico del Camino, que ya usa todo el mundo |
+| **Densidad** | 30.000/año, 5,5% [V] | **162.040 solo desde Sarria**, el tramo más saturado de toda la ruta [V] |
+| **Perfil de demanda** | **Extranjeros mayoría; EE.UU. +36%; mujeres 55%** [V] | Mayoritariamente el tramo de masas |
+| **Accesos** | **A ~1 h del único aeropuerto gallego con vuelo directo a EE.UU.** [V+E] | Sarria a ~1 h 45 de Santiago [E] |
+| **Cocineras** | **Beatriz Sotelo en Ferrol e Iria Espinosa en A Coruña** [V] | **Ninguna en la ruta** |
+| **Aislamiento** | **Peor**: etapa central sin servicios [V] | Mejor: bares cada pocos km [V] |
+| **Reconocimiento del nombre** | **Nulo fuera de España e Irlanda/Reino Unido** | **El nombre que el cliente extranjero pide** |
+
+**Un hallazgo que merece destacarse por sí solo:** las tres cocineras de referencia de Galicia están en el eje **Ferrol – A Coruña – Santiago**: **Beatriz Sotelo** (Illas Gabeiras, Ferrol), **Iria Espinosa** (Árbore da Veira 1★, A Coruña) y **Lucía Freitas** (A Tafona 1★, Santiago) [V]. **Ese eje es exactamente el Camino Inglés.** Para un producto femenino de alta gama, es una coincidencia demasiado buena para desaprovecharla: se puede construir un viaje entero cuya gastronomía esté firmada por mujeres, sin forzar nada y sin salirse del trazado. **El Camino Francés no permite eso ni de lejos.**
+
+#### El coste de renunciar al Francés
+
+**Es el punto que más importa y hay que responderlo sin adornos.**
+
+**Lo que se pierde es real:** el Camino Francés es la única de las cuatro rutas con reconocimiento internacional. Nadie fuera de España busca "Camino Inglés". Un cliente estadounidense que ha visto *The Way* o ha leído a Shirley MacLaine pide **el Camino**, y el Camino que tiene en la cabeza es el Francés. En el mercado chino la asociación es todavía más exclusiva: la ruta conocida es la francesa, y el resto no existe en el imaginario.
+
+**Pero para nuestro modelo concreto, es mucho menos grave de lo que parece, por cuatro razones:**
+
+1. **Necesitamos pocas clientas.** A 10.000 € por persona y salidas de 8, **40–60 clientas al año sostienen el negocio.** Eso no es un problema de captación de masas: es un problema de encontrar 50 personas. La notoriedad de marca de la ruta es determinante cuando hay que llenar 3.000 plazas; es casi irrelevante cuando hay que llenar 50.
+2. **No vendemos por búsqueda, vendemos por asesor.** En este segmento la compra pasa por *travel advisors* (Virtuoso y equivalentes), que **venden al operador y la historia, no el término de búsqueda**. Un asesor que confía en nosotros coloca el Inglés sin fricción; de hecho, "la ruta que nadie conoce y por la que llegaba la nobleza en barco" **es más fácil de vender a un cliente de alto patrimonio que la ruta que hacen 160.000 personas al año**. La exclusividad es el argumento, no el obstáculo.
+3. **No hay que renunciar: hay que despriorizar.** Mantener el Francés **como producto privado bajo petición**, no catalogado, con el modelo de "chef al pazo" del §7.2, cuesta casi nada y responde a quien lo pide por su nombre. Nunca como salida de grupo programada.
+4. **El Portugués sigue en el catálogo**, y es la ruta más rica de las cuatro (§7.3). La combinación **Portugués (producto premium) + Inglés (producto de relato y exclusividad) + Francés (bajo petición)** cubre los tres motivos de compra sin renunciar a ninguno.
+
+**Donde sí hay que tener cuidado: el mercado chino.** Ahí la falta de reconocimiento del Inglés probablemente sí penaliza, y además no hay ventaja de acceso aéreo. **Recomendación: llevar el Inglés a Estados Unidos, Reino Unido e Irlanda; llevar el Portugués a China; y reservar el Francés para quien lo exija por su nombre.** Conviene que el agente hermano que cubre China valide este punto, porque es el único donde mi conclusión depende de la demanda y no del producto.
+
+---
+
+## 9. El vehículo: i7, recarga y el segundo coche
 
 ### 8.1 Cobertura de recarga
 
@@ -614,7 +794,7 @@ En España hay unos **850 hoteles con al menos un cargador** [V], pero ninguna d
 
 ---
 
-## 9. Riesgos y objeciones
+## 10. Riesgos y objeciones
 
 | Riesgo | Cómo se manifiesta | Respuesta |
 |---|---|---|
@@ -632,77 +812,434 @@ En España hay unos **850 hoteles con al menos un cargador** [V], pero ninguna d
 
 ---
 
-## 10. Recomendación final: ficha de producto
+## 11. El problema del alojamiento: las camas de ultralujo no existen
 
-### 10.1 Producto principal
+> **Nota de método:** agoté el presupuesto de búsquedas web de la sesión durante esta parte. El inventario que sigue es **el que he podido verificar a lo largo de toda la investigación**, y las tarifas verificadas son escasas y corresponden a **"desde", en habitación doble y temporada baja**. **Ningún pazo de alquiler exclusivo en las Rías Baixas ha podido ser localizado con nombre y tarifa** [NV]. Lo digo antes de las conclusiones porque condiciona su solidez: la dirección del hallazgo es firme, las cifras concretas hay que pedirlas a los proveedores.
 
-**Nombre de trabajo: _Camiño Propio_** — literalmente "camino propio" en gallego; dice autonomía, no protección, y es local. (Alternativas: *A Súa Ruta*, *Paso Propio*.)
+### 11.1 Inventario parada por parada de las dos rutas portuguesas
+
+**Camino Portugués da Costa**
+
+| Parada | Mejor establecimiento verificado | Categoría | Tarifa verificada |
+|---|---|---|---|
+| **A Guarda** | **Hotel Monumento Convento de San Benito** — convento restaurado en el puerto, capilla original, claustro con biblioteca del s. XVI [V] | **No verificada** [NV]; por tipología, 3★ | **No verificada** [NV] |
+| **Oia** | **Ninguno** [NV] | — | — |
+| **Baiona** | **Parador de Baiona – Conde de Gondomar**, castillo de Monterreal [V] | Parador (no figura entre los 5★) | **desde 80,21 €** (doble, temporada baja) [V] |
+| **Vigo** | **Gran Hotel Nagari Boutique & Spa** y **Pazo Los Escudos Hotel Spa & Resort** — **los dos únicos 5★ de la ciudad** [V] | **5★** | **No verificada** [NV] |
+
+**Camino Portugués Central**
+
+| Parada | Mejor establecimiento verificado | Categoría | Tarifa verificada |
+|---|---|---|---|
+| **Tui** | **Parador de Tui**, pazo gallego tradicional, piscina, jardines [V] | **4★** [V] | **No verificada** [NV] |
+| **O Porriño** | **Ninguno** [NV] | — | — |
+| **Redondela** | **Ninguno de nivel** [NV]. El listado hotelero de la localidad arranca "desde 16 €" [V], lo que indica un mercado muy básico | — | — |
+| **Pontevedra** | **Parador de Pontevedra** [V] | Parador | **No verificada** [NV] |
+| **Caldas de Reis** | **Balneario Acuña** (Relais Termal) y **Balneario Dávila**, ambos con alojamiento [V]; Hotel O Cruceiro [V] | **No verificada** [NV] | **No verificada** [NV] |
+| **Padrón** | **Pazo de Lestrove** (Pousadas de Compostela), s. XVI, 50.000 m² de jardines, piscina [V] — **catalogado como B&B/hostería, nº 1 de 14 en Padrón, 4/5 en Tripadvisor** [V]; Hotel Rosalía, "habitaciones modernas y funcionales" [V] | **B&B / hostería** [V] | **No verificada** [NV] |
+| **Santiago** | **A Quinta da Auga Hotel Spa – Relais & Châteaux** [V]; **Parador Hostal dos Reis Católicos**, el mayor de la red y uno de los hoteles en funcionamiento más antiguos del mundo [V] | A Quinta da Auga aparece clasificado como **4★** en una de las fuentes [V] | **A Quinta da Auga desde 163,69 € / desde 199 €** (doble, temporada baja) [V] |
+
+### 11.2 Veredicto: el cliente tiene razón
+
+**CONFIRMADO. En las dos rutas portuguesas solo hay dos establecimientos de cinco estrellas verificados, y los dos están en Vigo.** Todo lo demás es Parador, hotel de cuatro estrellas, balneario, pazo-hostería y casa rural.
+
+Con precisión sobre cada afirmación del cliente:
+
+- **"A Guarda y Oia no tienen nada por encima de tres estrellas": confirmado en el sentido que importa.** En **Oia no he localizado ningún alojamiento de alta gama, de ninguna categoría** [NV]. En **A Guarda, el Convento de San Benito es un hotel monumento singular y con carácter, pero su categoría no está verificada y por tipología no es un cinco estrellas** [NV]. **Oia es el agujero: no hay dónde dormir con estándar.**
+- **"Lo mejor son Paradores y cuatro estrellas": confirmado.** Parador de Tui (4★ [V]), Parador de Pontevedra, Parador de Baiona. Y el dato que mejor resume el problema: **el único Relais & Châteaux del corredor, A Quinta da Auga, aparece clasificado como cuatro estrellas** [V].
+- **"Una media de unos 220 € la noche": coherente con lo verificado**, aunque no puedo confirmarlo con tarifas de temporada alta en individual. Los "desde" que sí tengo (80,21 € en el Parador de Baiona y 163,69–199 € en A Quinta da Auga, ambos en doble y temporada baja [V]) encajan con una media de 200–260 € en ocupación individual y temporada alta. **He bajado mi modelo de 260 a 230 €/noche por esta corrección.**
+- **"No es que sean caros: es que no están": esta es la frase exacta.** El problema no es el precio. **En el corredor Tui–Santiago y A Guarda–Vigo no existe inventario de ultralujo internacional.** No hay Aman, ni Six Senses, ni Rosewood, ni Four Seasons, ni nada comparable.
+
+**Consecuencia estratégica, y es la que el cliente anticipa correctamente:**
+
+> **No se puede construir una experiencia de 1.000 € la noche sobre camas que no existen. El producto de ultralujo tiene que sacar su valor de otro sitio.**
+
+Y eso **refuerza, no debilita, la tesis central de este informe** (§1): si la cama no puede ser el argumento, el argumento tiene que ser **el lujo EN RUTA** —el avituallamiento servido, el vehículo de seguimiento, la fisioterapia, la asistencia— **y la exclusividad del lugar donde se duerme, que no es lo mismo que su categoría.** Una habitación de un Parador de cuatro estrellas no es ultralujo. **Un pazo del siglo XVI entero, vacío de desconocidos, con personal propio y ocho mujeres dentro, sí lo es** — y no lo mide ninguna estrella.
+
+### 11.3 La alternativa del pazo en uso exclusivo
+
+**Lo que puedo verificar:** el alquiler de casa completa existe en Galicia y está documentado. El ejemplo verificado más concreto está, irónicamente, en el Camino Inglés: **A Casa do San Paio de Buscás (Ordes), con capacidad para 12 personas en 3 habitaciones dobles y 3 twin, cocina equipada, comedor, 2 baños completos, jardín y aparcamiento** [V]; y en la misma parroquia, **Casa O Pazo, casa completamente rehabilitada con finca de 9.000 m²** [V]. En la Ribeira Sacra, **Casa Grande de Rosende**, pazo del s. XVI restaurado en Sober [V].
+
+**Lo que NO he podido verificar y hay que pedir directamente [NV]:** ningún pazo o casa señorial de las Rías Baixas con nombre, capacidad y tarifa de alquiler en exclusiva. Es el vacío más importante que dejo en este informe, y la primera llamada que habría que hacer.
+
+**Dónde buscar** (pistas surgidas en la investigación): la red **Pousadas de Compostela**, que gestiona el Pazo de Lestrove [V]; el **Hostal Acolá**, palacio renacentista del s. XVI presentado como idóneo "para quien quiera hacer el Camino Portugués de lujo" [V]; y los operadores de bodas y eventos de la provincia de Pontevedra, que son quienes de verdad comercializan pazos en exclusiva.
+
+#### Economía del pazo: a partir de cuántas clientas sale a cuenta
+
+El pazo es **coste fijo** (la finca cuesta lo mismo con 2 o con 10) frente al hotel, que es **coste variable** (tantas habitaciones como clientas). El cruce es aritmético. Añado 400 €/día de servicio (cocina y limpieza), porque un pazo en exclusiva suele alquilarse sin personal [E].
+
+| Tarifa del pazo | Iguala al hotel de 200 €/noche | de 230 €/noche | de 260 €/noche |
+|---|---:|---:|---:|
+| **1.000 €/noche** | 7,0 clientas | **6,1** | 5,4 |
+| **1.200 €/noche** | 8,0 | **7,0** | 6,2 |
+| **1.500 €/noche** | 9,5 | **8,3** | 7,3 |
+| **1.800 €/noche** | 11,0 | **9,6** | 8,5 |
+| **2.200 €/noche** | 13,0 | **11,3** | 10,0 |
+
+**Regla práctica: el pazo sale a cuenta a partir de 6–8 clientas si se consigue por 1.000–1.200 €/noche, y solo a partir de 9–11 si cuesta 1.500–1.800 €.** Con grupos de 8, que es nuestro tamaño objetivo, **el pazo empata o gana hasta una tarifa de ~1.500 €/noche** con camas de 230 €.
+
+Efecto en el margen del producto completo a 10.000 €/pax, con vehículo de alta gama normal (no i7):
+
+| Clientas | Hotel 230 €/noche | Pazo 1.200 €/noche + 400 € de servicio | Pazo 1.800 €/noche + 400 € |
+|---:|---:|---:|---:|
+| 2 | −11,7 % | −57,3 % | −81,3 % |
+| 4 | +26,6 % | +13,0 % | +1,0 % |
+| **6** | **+34,9 %** | **+32,0 %** | +24,0 % |
+| **8** | **+42,4 %** | **+44,8 %** | +38,8 % |
+| 10 | +46,9 % | **+52,5 %** | +47,7 % |
+
+**Lectura: con 8 clientas y un pazo de 1.200 €/noche, el pazo es más rentable que el hotel (44,8 % frente a 42,4 %) y además entrega un producto mucho mejor.** Con menos de 6 clientas el pazo es ruinoso. **El pazo es una decisión de grupo, nunca de privado.**
+
+#### Pero la logística rompe la regla de los 20 minutos
+
+**Esto es lo más importante de este apartado y la respuesta franca que pide el cliente: un solo pazo para toda la semana NO respeta el máximo de 20 minutos. Lo rompe, y lo rompe mucho.**
+
+Tiempos estimados desde un pazo situado en la zona de Pontevedra [E, por verificar]:
+
+| Final de etapa | Tiempo desde un pazo en la zona de Pontevedra | ¿Cumple? |
+|---|---|---|
+| Pontevedra | ~10 min | **Sí** |
+| Caldas de Reis | ~20 min | **En el filo ⚠** |
+| Redondela | ~20 min | **En el filo ⚠** |
+| Vigo | ~25 min | **No** |
+| O Porriño | ~35 min | **No** |
+| Padrón | ~40 min | **No** |
+| Baiona | ~45 min | **No** |
+| Tui | ~50 min | **No** |
+| Santiago | ~55 min | **No** |
+| Oia | ~1 h 05 | **No, con mucho** |
+| A Guarda | ~1 h 15 | **No, con mucho** |
+
+**De once finales de etapa, un pazo único en la zona de Pontevedra cumple en uno y queda en el filo en dos. Rompe la regla en ocho.** Y no es un problema de elegir mejor el pazo: **es que la ruta es lineal y mide 120–155 km.** Ninguna base única puede cubrirla con 20 minutos de radio. Desde Vigo el resultado es igual de malo por el otro extremo.
+
+Hay una salida que no recomiendo y conviene descartarla explícitamente: **caminar tramos sueltos en ida y vuelta desde una base única.** Cumpliría el radio, pero rompe la lógica del Camino, que es avanzar. Para un producto cuya credibilidad depende de ser una peregrinación de verdad, es un precio demasiado alto.
+
+### 11.4 La tercera vía: dos o tres bases. Y es la respuesta correcta
+
+**Recomiendo dos bases para el Portugués Central y tres si se incorpora el da Costa.** Es el modelo de base fija del §7.6 llevado a su forma operativa concreta.
+
+| Configuración | Bases | Cobertura de la regla de 20 min | Traslados de equipaje |
+|---|---|---|---|
+| **1 base** | Un pazo | **1 de 11 etapas.** Inviable | 0 |
+| **2 bases** | Zona Pontevedra–Caldas + zona Padrón–Santiago | **~7 de 11**, con Tui y el da Costa fuera | **1** |
+| **3 bases** | Zona Baiona–Vigo + zona Pontevedra–Caldas + zona Padrón–Santiago | **~9–10 de 11**. A Guarda y Oia siguen siendo difíciles desde cualquier base | **2** |
+
+**Ventajas de la fórmula de 2–3 bases, que son exactamente las que el cliente intuye:**
+
+- **Elimina el traslado diario de equipaje.** De 7 movimientos a 1 o 2 en ocho noches.
+- **Hace posible el pazo en exclusiva**: se puede contratar un pazo para la mitad de la semana y un hotel para la otra, en vez de forzar una única solución para todo.
+- **Simplifica la recarga eléctrica** a dos o tres puntos verificados (§9).
+- **Simplifica la negociación de individuales sin suplemento**, que es la partida más importante del presupuesto (§12.7) y la más difícil de conseguir: se negocia con dos proveedores, no con siete.
+- **Y es mejor producto para una mujer que viaja sola:** la misma habitación, el mismo personal, las mismas caras varios días seguidos. Vale más que una estrella más de categoría.
+
+**Arquitectura concreta que propongo para el producto núcleo (8 noches):**
+
+- **Noches 1–4: pazo en uso exclusivo en la zona de Pontevedra–Caldas** [proveedor por identificar, NV]. Cubre Redondela, Pontevedra y Caldas de Reis dentro del radio; Tui y O Porriño con traslado largo el día de arranque, que es aceptable porque ese día no se ha caminado todavía 25 km.
+- **Noches 5–8: Santiago** (A Quinta da Auga, Relais & Châteaux, o Parador Hostal dos Reis Católicos [V]). Cubre Padrón, O Milladoiro y Santiago, y regala la cena con estrella a pie el último día.
+- **El da Costa (A Guarda, Oia) queda fuera de esta arquitectura.** Si se quiere operar, necesita su propia base en la zona de Baiona y hay que asumir que **Oia no tiene solución de alojamiento verificada** [NV]. **Mi recomendación: usar el da Costa como apertura de uno o dos días desde una base en Baiona/Vigo, no como columna vertebral del viaje.**
+
+### 11.5 Corrección de las tres estimaciones del cliente
+
+El cliente pide contraste con tarifas reales. De sus tres estimaciones, **una estaba muy inflada, una era muy exacta y una es correcta pero no para el coche que quiere**.
+
+| Estimación del cliente | Contraste con tarifas verificadas | Veredicto |
+|---|---|---|
+| **500 €/persona/noche de alojamiento** | Verificado: A Quinta da Auga (el único Relais & Châteaux del corredor) **desde 163,69–199 €**; Parador de Baiona **desde 80,21 €** — ambos en doble y temporada baja [V]. En individual y temporada alta estimo **200–260 €** | **Estaba inflada: es menos de la mitad. El propio cliente ya lo había detectado.** Mi modelo pasa de 260 a **230 €/noche** |
+| **2.400 € por la semana de guía sénior** (= 300 €/día) | Rango freelance verificado 80–200 €/día [V]; PVP de guía privado ~415 €/día [V]. Mi coste-empresa estimado: **280 €/día = 2.240 €/semana** | **Muy exacta. Diferencia del 7 %. No hay que corregir nada** |
+| **4.600 € por la semana de chófer con vehículo de alta gama** (= 575 €/día) | Chófer verificado **desde 50–60 €/h** [V] → 400–480 €/día de venta. Vehículo: **BMW i7 desde 750 €/día; BMW X7 desde 450 €/día** [V]. Chófer + X7 = **6.160 €/semana**; **chófer + i7 = 8.560 €/semana** | **Correcta para un VTC de gama alta con vehículo ejecutivo normal; insuficiente para un i7.** El i7 es el problema, no el chófer |
+
+**Y de ahí sale una recomendación clara sobre el i7, que el cliente pidió expresamente pero que los números no respaldan:**
+
+- **El i7 cuesta 6.000 € por salida frente a 3.600 € de un BMW X7 o un Mercedes Clase V** [V]: **2.400 € de sobrecoste por salida, 300 € por clienta en un grupo de ocho.**
+- Frente a la estimación del propio cliente (4.600 €/semana de chófer con coche), el conjunto chófer + i7 se va a **8.560 €**: **casi el doble de lo presupuestado**.
+- **Ese dinero rinde mucho más en la cama que en el coche.** 2.400 € por salida son **el doble de una noche de pazo en exclusiva**. En un producto donde el problema verificado es que **las camas de ultralujo no existen**, gastarse el presupuesto en el coche y no en resolver dónde se duerme es exactamente la decisión equivocada.
+- **Además, el i7 tiene el problema de la recarga en el rural gallego** (§9) y **solo lleva 4 pasajeros**, lo que fuerza un segundo vehículo a partir de 5 clientas (§12.4).
+
+**Recomendación: vehículo de alta gama con chófer, sí; BMW i7, no — o solo en el producto privado, donde el coche es parte de la escenografía y hay margen para pagarlo. Los 2.400 € ahorrados se ponen en el pazo.**
+
+---
+
+## 12. Economía a 10.000 € por persona y semana
+
+PVP fijado por el cliente: **10.000 €/persona**, salida de **8 días / 8 noches**.
+
+**Correcciones del cliente incorporadas, todas acertadas:**
+1. **El equipo es local y duerme en su casa** (base Vigo/Pontevedra): no hay hotel de equipo, sino desplazamiento diario.
+2. **El segundo vehículo es un escalón, no un coste lineal.**
+3. **El alojamiento cuesta la mitad de lo estimado**: bajo de 260 a **230 €/noche** (§11.5).
+
+### 12.1 Tarifas de partida
+
+**Verificadas [V]:** BMW i7 **desde 750 €/día**; BMW X7 **desde 450 €/día** (rentluxecar) · Chófer privado **desde 50–60 €/h**, rango 30–130 €/h (chofermadridplus, chofermadrid, cronoshare) · Traslado de aeropuerto **40–120 €** (cronoshare) · Guía freelance **80–200 €/día**; grupos de 1–3, **240–328 € por 4–8 h** (cronoshare, tarifaautonomo) · Guía privado PVP **~415 €/jornada** (ourguideinbarcelona) · Furgoneta frigorífica **desde 29,95 €/día** (covey) · Fisioterapia para peregrinos **desde 25 €**, premium **~87 €/h** (fisioterapiasarria, viajecaminodesantiago) · A Quinta da Auga **desde 163,69 € / 199 €** y Parador de Baiona **desde 80,21 €**, ambos doble y temporada baja (centraldereservas, theworldofhotels).
+
+**Estimadas [E], con su razonamiento:** guía **280 €/día de coste empresa** (techo del rango verificado, 200 €, más ~40 % de coste empresa; el PVP de ~415 €/día [V] confirma la coherencia) · chófer **320 €/día** (8 h a 50 €/h [V] son 400 € de venta) · persona de apoyo **200 €/día** · fisioterapeuta **250 €/día** en dedicación completa (referencia: 87 €/h [V]) · plus de desplazamiento y dieta de jornada **45 €/persona/día** (§12.2) · **alojamiento de la clienta 230 €/noche en individual** (§11.5) · menú con estrella **180 € con maridaje** (rango 90–220 € sin maridaje) · furgón isotermo **60 €/día**.
+
+### 12.2 El equipo local: desplazamiento, tiempo y extremos
+
+Con base en Vigo o Pontevedra no hay que pagar hotel de equipo. Pero sí tres cosas:
+
+1. **Kilometraje:** ~100 km de ida y vuelta diarios al baremo habitual de ~0,26 €/km ≈ **26 €/persona/día** [E].
+2. **El tiempo de desplazamiento hay que compensarlo aunque legalmente sea discutible.** La jornada de una guía en este producto ya es de 10–12 horas; sumarle dos de coche sin compensar produce rotación, y la rotación es letal en un producto cuya promesa es la continuidad de la persona. **Presupuesto 45 €/persona/día que cubre kilometraje y compensación.** Más barato que el hotel (90 €) y mucho más barato que la rotación.
+3. **Los extremos rompen el modelo.** Desde Vigo, A Guarda está a ~55 min y Santiago a ~1 h 25 [E]; desde Pontevedra, A Guarda a ~1 h 15 y Santiago a ~55 min [E]. En esos días el equipo acumularía 2,5–3 h de coche sobre una jornada ya larga, y además tiene que cubrir la cena. **Presupuesto 2 noches de equipo (3 personas): 540 €.** Es la única pernocta que mantengo y es irrenunciable.
+
+> **Aviso para el Camino Inglés:** con base en Vigo/Pontevedra, el eje Ferrol–A Coruña queda a 1 h 45 – 2 h [E]. **El Inglés exige equipo con base en A Coruña, o pernocta del equipo durante toda la salida.** Es un coste que no aparece en el presupuesto del Portugués y hay que añadirlo a ese producto.
+
+### 12.3 Coste fijo base por salida (sin segundo vehículo)
+
+| Partida | Con **BMW i7** | Con **vehículo de alta gama normal** (X7 / Clase V) |
+|---|---:|---:|
+| 2 guías × 8 días × 280 € | 4.480 | 4.480 |
+| Plus de desplazamiento y dieta, 2 guías (2 × 8 × 45 €) | 720 | 720 |
+| Chófer × 8 días × 320 € | 2.560 | 2.560 |
+| Plus del chófer | 360 | 360 |
+| Fisioterapeuta × 8 días × 250 € | 2.000 | 2.000 |
+| Plus del fisioterapeuta | 360 | 360 |
+| Pernocta del equipo en los extremos (3 × 2 × 90 €) | 540 | 540 |
+| **Vehículo** × 8 días [V] | **6.000** | **3.600** |
+| Electricidad / combustible | 80 | 80 |
+| Montaje del avituallamiento (8 × 40 €) | 320 | 320 |
+| APPCC, seguro de RC alimentaria y gestión | 300 | 300 |
+| **TOTAL FIJO BASE** | **17.720 €** | **15.320 €** |
+
+Equipo humano: **11.020 €** en ambos casos.
+
+### 12.4 El escalón: cuándo es imprescindible el segundo vehículo
+
+**El cliente tiene razón: es un escalón, y está en 5 clientas.**
+
+1. **Capacidad, que es el argumento decisivo: un BMW i7 lleva 4 pasajeros.** Con 5 o más clientas hace falta un segundo vehículo **para los simples traslados**, haya avituallamiento o no. **El escalón lo fuerza el coche, no la comida.**
+2. **Volumen.** Para 2–3 clientas, un contenedor isotermo homologado con registrador de temperatura en el maletero cumple el RD 1021/2022 [V] y cabe. Para 6–8 cubiertos con bebida fría, no.
+3. **Cobertura.** Con 2–3 caminando juntas y el chófer adelantándose 20–30 min, el hueco es corto. Con 5 o más el grupo se estira por la etapa y un solo vehículo no puede cubrirlo.
+
+| Clientas | ¿Segundo vehículo? | Por qué |
+|---|---|---|
+| **2–3** | **No.** El chófer lleva la nevera y sale al encuentro | Cabe, y el hueco de cobertura es corto |
+| **4** | **No, pero al límite** | 4 pasajeros + bolsas de día + nevera es el tope del maletero |
+| **5 o más** | **Sí, imprescindible** | **El coche no transporta a 5**; además el volumen exige isotermo y la cobertura, dos posiciones |
+
+**Coste del escalón: 2.680 €** (persona de apoyo 1.600 € + plus 360 € + furgón isotermo y combustible 720 €).
+
+### 12.5 Coste variable por persona
+
+| Partida | € | % |
+|---|---:|---:|
+| **8 noches en habitación individual** (8 × 230 €), **sin suplemento** | **1.840** | **52,4 %** |
+| Desayunos (incluidos en el alojamiento) | 0 | — |
+| Comidas en ruta (8 × 40 €) | 320 | 9,1 % |
+| **7 cenas**: 1 con estrella (180 €) + 1 de autor (120 €) + 5 de producto (350 €) | **650** | **18,5 %** |
+| Balneario | 110 | 3,1 % |
+| Catas de vino | 90 | 2,6 % |
+| Taller de azabache (coste de grupo ~300 €, prorrateado) | 50 | 1,4 % |
+| Seguro (asistencia + evacuación + cancelación ampliada) | 180 | 5,1 % |
+| Traslados de aeropuerto | 150 | 4,3 % |
+| Propinas, credencial, entradas, lavandería | 120 | 3,4 % |
+| **TOTAL VARIABLE POR PERSONA** | **3.510 €** | 100 % |
+
+**Contribución por clienta = 10.000 − 3.510 = 6.490 €**
+
+### 12.6 Punto muerto y margen bruto
+
+**Escenario A — con BMW i7** (fijo base 17.720 €). **Punto muerto: 2,73 → 3 clientas.**
+
+| Clientas | 2º veh. | Coste | **Margen** | **%** |
+|---:|:---:|---:|---:|---:|
+| **2** | no | 24.740 € | **−4.740 €** | **−23,7 %** |
+| **3** | no | 28.250 € | **+1.750 €** | **+5,8 %** |
+| **4** | no | 31.760 € | **+8.240 €** | **+20,6 %** |
+| 5 | sí | 37.950 € | +12.050 € | +24,1 % |
+| **6** | sí | 41.460 € | **+18.540 €** | **+30,9 %** |
+| 7 | sí | 44.970 € | +25.030 € | +35,8 % |
+| **8** | sí | 48.480 € | **+31.520 €** | **+39,4 %** |
+| 10 | sí | 55.500 € | +44.500 € | +44,5 % |
+
+**Escenario B — con vehículo de alta gama normal** (fijo base 15.320 €). **Punto muerto: 2,36 → 3 clientas, con holgura.**
+
+| Clientas | 2º veh. | Coste | **Margen** | **%** |
+|---:|:---:|---:|---:|---:|
+| **2** | no | 22.340 € | **−2.340 €** | **−11,7 %** |
+| **3** | no | 25.850 € | **+4.150 €** | **+13,8 %** |
+| **4** | no | 29.360 € | **+10.640 €** | **+26,6 %** |
+| 5 | sí | 35.550 € | +14.450 € | +28,9 % |
+| **6** | sí | 39.060 € | **+20.940 €** | **+34,9 %** |
+| 7 | sí | 42.570 € | +27.430 € | +39,2 % |
+| **8** | sí | 46.080 € | **+33.920 €** | **+42,4 %** |
+| 10 | sí | 53.100 € | +46.900 € | +46,9 % |
+
+**Renunciar al i7 sube el margen entre 2,5 y 8 puntos y baja el punto muerto.** Es la decisión de producto más rentable que hay sobre la mesa (§11.5).
+
+### 12.7 El hallazgo del cliente sobre el peso del equipo: CONFIRMADO
+
+Desglose a **8 clientas, escenario B (48.480 € con i7 / 46.080 € sin él)**. Uso el escenario A, que es el más desfavorable para la tesis:
+
+| Concepto | € | **% del coste total** |
+|---|---:|---:|
+| **Camas** (8 noches en individual × 8 clientas) | 14.720 | **30,4 %** |
+| **Equipo humano** (2 guías + chófer + fisio + apoyo, con pluses y extremos) | 12.980 | **26,8 %** |
+| **Vehículos** (i7 + energía + furgón isotermo) | 6.800 | 14,0 % |
+| **Cenas** (incluida la de estrella) | 5.200 | 10,7 % |
+| Comida en ruta | 2.560 | 5,3 % |
+| **Experiencias** (balneario + catas + azabache) | 2.000 | 4,1 % |
+| Seguro | 1.440 | 3,0 % |
+| Traslados de aeropuerto | 1.200 | 2,5 % |
+| Propinas, entradas, varios | 960 | 2,0 % |
+| Montaje del avituallamiento + APPCC | 620 | 1,3 % |
+| **TOTAL** | **48.480** | 100 % |
+
+**La sospecha del cliente se confirma con holgura: el equipo humano es el 26,8 % del coste, muy por debajo del 40 %. Lo que la clienta toca —camas, comidas, cenas y experiencias— es el 55,9 %, y solo las camas son el 30,4 %, la mayor partida individual del presupuesto.**
+
+> **Conclusión, dicha explícitamente porque es el hallazgo financiero más útil del informe: este viaje no se puede abaratar recortando equipo. Solo se puede abaratar quitando producto.**
+>
+> Eliminar a la fisioterapeuta ahorra el 4,9 % del coste y destruye uno de los tres diferenciadores. **La única palanca de verdad está en la cama**, y la cama es exactamente lo que no se puede tocar en un producto que promete habitación individual sin suplemento. De ahí que el movimiento correcto no sea recortar sino **negociar tarifa de bloqueo anual con dos bases** (§11.4): una rebaja del 15 % en la cama vale más que quitar a una persona del equipo, y no se ve.
+
+**La excepción, que hay que conocer: la regla se invierte en el privado.** Con 2 clientas el equipo es el **44,5 %** del coste y las camas el 14,9 %. **En grupo el coste es producto; en privado el coste es estructura.** Por eso el privado no se arregla quitando cenas: se arregla quitando personas o subiendo el precio.
+
+| Clientas | Equipo | Vehículos | Lo que la clienta toca | Camas |
+|---:|---:|---:|---:|---:|
+| 2 | **44,5 %** | 24,6 % | 28,4 % | 14,9 % |
+| 3 | 39,0 % | 21,5 % | 37,3 % | 19,5 % |
+| 4 | 34,7 % | 19,1 % | 44,2 % | 23,2 % |
+| 6 | 31,3 % | 16,4 % | 50,8 % | 26,6 % |
+| **8** | **26,8 %** | 14,0 % | **55,9 %** | **30,4 %** |
+| 10 | 23,4 % | 12,3 % | 60,4 % | 33,2 % |
+
+**El umbral en el que el equipo baja del 40 % está en 3 clientas.**
+
+### 12.8 El privado a 10.000 €
+
+- **2 clientas: −4.740 € con i7, −2.340 € sin él.** No sale en ningún caso.
+- **3 clientas: +5,8 % con i7, +13,8 % sin él.** Con vehículo normal empieza a ser defendible.
+- **4 clientas: +20,6 % con i7, +26,6 % sin él.** **Aquí sí es un negocio.**
+
+**PVP necesario para un 30 % de margen bruto:**
+
+| Clientas | Con i7 | Con vehículo de alta gama normal |
+|---:|---:|---:|
+| **2** | ≈ **17.700 €** | ≈ **16.000 €** |
+| **3** | ≈ **13.450 €** | ≈ **12.300 €** |
+| **4** | ≈ **11.350 €** | ≈ **10.500 €** |
+
+**Conclusión sobre el hueco de mercado que detectó el informe estadounidense:** el hueco existe, pero **a 10.000 € no se puede ocupar con dos clientas**. Sí **a partir de cuatro**, y a partir de tres si se prescinde del i7. **Recomendación: vender el privado desde 4 personas a 10.000 €, y cotizar los de 2–3 a 12.300–16.000 € sin complejos.** Lo que no debe hacerse es vender un privado de dos a 10.000 € recortando el equipo: eso convierte el producto en el circuito de lujo corriente que el cliente quiere evitar.
+
+**Qué quitar si aun así hay que llegar a 10.000 € con 2–3 personas**, de menor a mayor daño:
+1. **El i7, por un X7 o un Clase V.** Ahorra 2.400 € [V] y **es cosmético**: con 2–3 clientas el coche es transporte, no escenografía. Primero de la lista.
+2. **La segunda guía (5.200 € con su plus):** con 2–3 clientas una sola guía es defendible si el chófer tiene primeros auxilios.
+3. **El fisioterapeuta en dedicación completa (2.360 €) por sesiones a demanda** (~87 €/h [V]).
+4. **Lo que NO se toca nunca:** el vehículo de apoyo cuando hay 5 o más clientas, el kit y el protocolo, y la habitación individual. Son la promesa.
+
+### 12.9 Dos palancas que mejoran todo el modelo
+
+1. **El vehículo en alquiler diario es la mayor línea del fijo.** A 750 €/día el i7 son 6.000 €, el 34 % del fijo base [V]. **Con renting a 36 meses amortizado sobre ~20 salidas al año (160 días de uso), el coste diario caería a un entorno de 150 €** [E]: el fijo base bajaría a ~12.900 € y el punto muerto a **~2 clientas**, lo que **haría viable el privado de dos a 10.000 €**. Condición: volumen. Con menos de 10 salidas al año, el alquiler diario sigue saliendo mejor.
+2. **Fusionar fisioterapeuta y persona de apoyo en un solo perfil** —fisioterapeuta con carné de manipulador de alimentos que conduce el furgón, monta el avituallamiento y da las sesiones por la tarde— **ahorra ~2.360 € por salida sin quitarle nada a la clienta.** Es la optimización más limpia que he encontrado.
+
+### 12.10 Conclusión económica
+
+- **A 10.000 €, el tamaño objetivo es 8 clientas: 39–42 % de margen bruto, ratio de 1 guía por cada 4, y la mitad del grupo de Backroads.**
+- **Salida mínima garantizada: 6 clientas (31–35 %).** Por debajo de 6, la salida ya vendida se opera igualmente —cancelar destruye más valor del que ahorra (§10)— pero se cierra a nuevas ventas.
+- **Privado desde 4 personas a 10.000 €. Por debajo, cotizar a 12.300–16.000 €.**
+- **Con 8 clientas y un pazo en exclusiva a 1.200 €/noche, el margen sube al 44,8 % y el producto mejora** (§11.3). Es la mejor combinación de las estudiadas.
+- **El coste de este viaje es producto, no personal.** Recortar equipo ahorra poco y destruye la propuesta.
+
+---
+
+## 13. Recomendación final: ficha de producto
+
+### 13.1 Arquitectura de catálogo recomendada
+
+| | Producto | Ruta | Mercado | Precio |
+|---|---|---|---|---|
+| **1. Núcleo** | **Grupo cerrado de 8 mujeres** | **Camino Portugués (Central desde Tui, con apertura opcional por el da Costa)** | China y EE.UU. | **10.000 €/pax, 8 días** |
+| **2. Relato** | **Grupo cerrado de 8 mujeres** | **Camino Inglés desde Ferrol**, con llegada por mar | **EE.UU., Reino Unido, Irlanda** | **10.000 €/pax, 8 días** |
+| **3. A medida** | **Privado de 2–4** | Cualquiera de las dos | Global | **14.000–22.000 €/pax** |
+| **4. Bajo petición** | **Privado**, no catalogado | **Camino Francés desde Sarria**, con el modelo de "chef al pazo" | Quien lo pida por su nombre | **14.000–22.000 €/pax** |
+
+### 13.2 Ficha del producto núcleo
+
+**Nombre de trabajo: _Camiño Propio_** — "camino propio" en gallego: dice autonomía, no protección, y es local. (Alternativas: *A Súa Ruta*, *Paso Propio*.)
 
 | | |
 |---|---|
-| **Ruta** | **Camino Portugués — Central desde Tui, con opción de comenzar por la Costa en A Guarda.** *Razón: es la única de las tres que reúne balneario en la propia etapa, cuatro estrellas Michelin a menos de 30 minutos, dos subzonas de Rías Baixas, Parador y pazos, cobertura eléctrica del eje atlántico y acceso de vehículo casi continuo.* El Francés desde Sarria queda como **segundo producto** (más reconocible comercialmente, peor dotado operativamente) |
-| **Días** | **7 días / 6 noches**, 5 jornadas de caminata de 14–22 km |
-| **Formato A — Privado** | 2–6 mujeres. Guía habilitada (mujer) + chófer + persona de apoyo. Dos vehículos |
-| **Formato B — Grupo cerrado** | 8–10 mujeres, máximo 10. Misma estructura de staff |
-| **Alojamiento** | **Modelo de base fija**: 3 noches **Pazo de Lestrove** (Padrón) + 3 noches **A Quinta da Auga, Relais & Châteaux** (Santiago). **Habitación individual para todas, sin suplemento, siempre.** Alternativa de arranque: 1ª noche **Parador de Tui** |
-| **Incluye — EN RUTA** | Avituallamiento servido en el kilómetro elegido, con producto gallego trazado y bebida fría · **Vehículo de seguimiento permanente, a menos de 10 minutos** · Baño privado, agua, toallitas y ropa seca en el vehículo · **Sesión diaria de fisioterapia** · Podología a demanda · Botiquín y kit ginecológico discreto · Equipaje siempre en nuestras manos · Coche disponible en cualquier momento, sin juicio |
-| **Incluye — FUERA DE RUTA** | **Circuito termal y tratamiento en Caldas de Reis** (Acuña o Dávila), en su propia etapa · **Una cata privada** con bodega dirigida por mujer (**Pazo de Señoráns**, Salnés, o **Bodegas La Val**, Condado do Tea) · **Una cena con estrella Michelin: A Tafona, de Lucía Freitas, en Santiago, la última noche, a pie** · **Visita a un obradoiro de azabache** en Santiago, con posibilidad de encargo · Misa del Peregrino y acceso a la catedral |
-| **Incluye — ANTES Y DESPUÉS** | Videollamada individual con la guía 2–3 semanas antes · Configuración de AlertCops y "Camiño de Santiago Guardián" el primer día · Mensaje diario opcional al contacto que designe · Seguimiento a 48 h y a 30 días · Seguro con evacuación y cancelación de causa ampliada |
+| **Ruta** | **Camino Portugués Central desde Tui**, con opción de abrir por el **da Costa** desde A Guarda. *Razón: es la única ruta que aguanta la regla de 20 minutos — balneario a pie en Caldas de Reis, dos estrellas Michelin en radio desde Pontevedra, Parador en Tui y en Pontevedra, pazo del s. XVI en Padrón, y cobertura de recarga eléctrica del eje atlántico* |
+| **Días** | **8 días / 8 noches**, 6 jornadas de caminata de 14–22 km |
+| **Formato** | **Grupo cerrado de 8 mujeres** (mínimo garantizado 6, máximo 8). Dos guías habilitadas + chófer + persona de apoyo + fisioterapeuta. **Dos vehículos** |
+| **Alojamiento** | **Modelo de base fija**: 4 noches **Pazo de Lestrove** (Padrón) + 4 noches **A Quinta da Auga, Relais & Châteaux** (Santiago). Apertura opcional en **Parador de Tui**. **Habitación individual para todas, sin suplemento, siempre** |
+| **Incluye — EN RUTA** | **Avituallamiento servido en el kilómetro elegido**, producto gallego trazado, bebida fría, mesa y sombra · **Vehículo de seguimiento permanente, a menos de 10 minutos** · **Baño privado, agua, toallitas y ropa seca en el vehículo** · **Sesión diaria de fisioterapia** · Podología a demanda · Botiquín y kit ginecológico discreto · Equipaje siempre en nuestras manos · Coche disponible en cualquier momento, sin juicio |
+| **Incluye — FUERA DE RUTA** | **Circuito termal y tratamiento en Caldas de Reis** (Acuña o Dávila), **en su propia etapa, a pie** · **Una cata privada** con bodega dirigida por mujer (Pazo de Señoráns o La Val) · **Una cena con estrella Michelin: A Tafona, de Lucía Freitas, en Santiago, la última noche, a pie** · **Visita a un obradoiro de azabache** en Santiago, con posibilidad de encargo · Misa del Peregrino |
+| **Incluye — ANTES Y DESPUÉS** | Videollamada individual con la guía 2–3 semanas antes · Configuración de AlertCops y "Camiño de Santiago Guardián" el primer día · Mensaje diario opcional al contacto que designe · Seguimiento a 48 h y a 30 días · Seguro con evacuación y cancelación de causa ampliada · Traslados desde y hacia el aeropuerto de Santiago |
 | **No incluye** | Vuelos · Segunda y tercera cena con estrella (deliberadamente) |
-| **Precio objetivo — Privado** | **1.300–1.600 €/pax/día → 9.000–11.000 €/pax** por 7 días con 4–6 participantes. Con 2 participantes, **14.000–16.000 €/pax** |
-| **Precio objetivo — Grupo cerrado** | **700–850 €/pax/día → 5.000–6.000 €/pax** por 7 días, **individual incluida**. Comparable a los 6.199 USD que paga una mujer sola en Backroads [V], con la mitad de grupo y servicio en ruta |
-| **Ventanas de salida** | **1ª quincena de mayo** y **2ª quincena de octubre** para el Francés. **Abril a octubre** para el Portugués. Evitar septiembre como argumento de tranquilidad: es el mes pico [V] |
-| **Salidas año 1** | 4 salidas de grupo cerrado + privado bajo demanda. Salida garantizada con 4 personas: **no cancelar nunca** |
+| **Precio** | **10.000 €/persona**, habitación individual incluida |
+| **Margen** | **39,4 % con 8 clientas; 30,9 % con 6** — 42,4 % y 34,9 % si se prescinde del i7; 44,8 % con pazo en exclusiva (§11.3, §12.6) |
+| **Ventanas de salida** | **Abril a octubre**, evitando presentar septiembre como mes tranquilo (es el mes pico [V]). Óptimas: **1ª quincena de mayo y 2ª quincena de octubre** |
+| **Salidas año 1** | **6 salidas** de grupo cerrado (48 plazas) + privados bajo demanda. **Salida garantizada con 6: no cancelar nunca una salida ya vendida** |
 
-### 10.2 Lo que hay que contratar o formar antes de poder venderlo
+### 13.3 Ficha del segundo producto: Camino Inglés
+
+Misma estructura, precio y formato. Diferencias:
+
+| | |
+|---|---|
+| **Ruta** | **Ferrol → Santiago (~118 km).** **Nunca desde A Coruña**: no da Compostela y la dispensa no cubre a clientas de EE.UU. ni de China (§8.1) |
+| **Bases** | 4 noches **NH Collection A Coruña Finisterre 5★** + 4 noches **A Quinta da Auga** (Santiago). Bruma no se duerme nunca |
+| **Etapas** | **Sin respetar los finales de etapa canónicos.** El punto de recogida lo decidimos nosotros, para cumplir la regla de 20 minutos (§8.2) |
+| **Primer día** | **Llegada por mar**, embarcando en la ría y desembarcando en el punto de partida, con sellado de credencial en el puerto (§8.3) |
+| **Gastronomía** | **Las tres cocineras de referencia de Galicia están sobre este eje**: Beatriz Sotelo (Illas Gabeiras, Ferrol), Iria Espinosa (Árbore da Veira 1★, A Coruña) y Lucía Freitas (A Tafona 1★, Santiago) [V]. **Un viaje cuya gastronomía la firman mujeres, sin forzar nada** |
+| **Argumento** | **La ruta por la que llegaba en barco la nobleza del norte de Europa desde el s. XII; 3.000 peregrinos desembarcados en A Coruña en 1434** [V] |
+| **Avituallamiento** | **Aquí no es un lujo, es una necesidad**: la etapa Betanzos–Bruma es la más dura y solitaria, sin servicios en el tramo intermedio [V] |
+| **Acceso** | A ~1 h del aeropuerto de Santiago, con **vuelo directo United a Nueva York-Newark 3×/semana desde mayo de 2026** [V] |
+
+### 13.4 Lo que hay que contratar o formar antes de poder venderlo
 
 **Bloqueante — sin esto no se vende:**
 
-1. **Tres guías habilitadas por la Agencia Turismo de Galicia** (Decreto 73/2015, TU951A), mujeres, inglés C1. Reclutamiento y, si hace falta, financiación de la habilitación.
-2. **Formación de esas guías:** ISO 21102 como referencia de competencias, **primeros auxilios en entorno remoto**, y formación específica en respuesta a acoso.
-3. **Código de conducta escrito** (base: ATTA [V]), firmado por guías, chóferes, personal de apoyo y proveedores. Certificado de antecedentes de todo el personal.
-4. **Protocolo de incidente escrito** (§2.7), con los siete pasos, y formación del equipo en él.
-5. **Contrato con operador VTC de gama alta** con: vehículo de gama alta, **punto de recarga nocturno reservado y verificado en cada base**, alternativa nominada, y cláusula de preferencia de conductora.
-6. **Segundo vehículo (furgón isotermo, NO eléctrico) + persona de apoyo** con carné de manipulador de alimentos y primeros auxilios.
-7. **Contrato de elaboración con obrador o restaurante registrado** para el avituallamiento, **APPCC documentado**, registro de temperaturas, trazabilidad y alérgenos (RD 1021/2022 [V]).
-8. **Seguros:** RC de actividad con cobertura alimentaria, asistencia en viaje con evacuación, cancelación de causa ampliada.
-9. **Bloqueo de inventario hotelero con individuales sin suplemento** en Pazo de Lestrove y A Quinta da Auga (y Parador de Tui). **Esta es la negociación comercial más importante del proyecto.**
-10. **Auditoría de cada hotel contra la plantilla Maiden Voyage** [V]: dos cerraduras, recepción 24×7, discreción con el número de habitación, asignación de habitación, formación del personal. Lo que no cumpla, se cambia o se documenta la mitigación.
+1. **Tres guías habilitadas por la Agencia Turismo de Galicia** (Decreto 73/2015, procedimiento TU951A), mujeres, inglés C1.
+2. **Formación:** ISO 21102 como referencia de competencias, **primeros auxilios en entorno remoto** y formación específica en respuesta a acoso, para guías y personal de apoyo.
+3. **Código de conducta escrito** (base: ATTA [V]), firmado por todo el equipo y por los proveedores. Certificado de antecedentes.
+4. **Protocolo de incidente escrito** (§2.7) y formación del equipo en él.
+5. **Contrato con operador VTC de gama alta**: vehículo, **punto de recarga nocturno reservado y verificado en cada base**, alternativa nominada, cláusula de preferencia de conductora.
+6. **Decisión sobre el i7: renting frente a alquiler diario.** Es la decisión financiera de mayor impacto del proyecto (§12.9).
+7. **Segundo vehículo (furgón isotermo, NO eléctrico) y su persona**, con manipulador de alimentos y primeros auxilios. **Estudiar fusionar este perfil con el de fisioterapeuta** (ahorro de ~3.100 €/salida, §12.9).
+8. **Contrato de elaboración con obrador o restaurante registrado** para el avituallamiento, con **APPCC documentado**, registro de temperaturas, trazabilidad y alérgenos (RD 1021/2022 [V]).
+9. **Seguros:** RC de actividad con cobertura alimentaria, asistencia en viaje con evacuación, cancelación de causa ampliada.
+10. **Bloqueo de inventario hotelero con individuales sin suplemento** en Pazo de Lestrove, A Quinta da Auga, Parador de Tui y NH Collection A Coruña Finisterre. **Es la negociación comercial más importante del proyecto**, y el modelo de base fija la hace mucho más fácil.
+11. **Auditoría de cada hotel contra la plantilla Maiden Voyage** [V]: dos cerraduras independientes, recepción 24×7, discreción con el número de habitación, asignación de habitación, formación del personal.
 
 **Necesario antes de la primera salida:**
 
-11. **Campaña propia de medición de cobertura móvil** en las tres rutas, cada 500 m, dos operadores. ~4.000–5.000 € [E]. Define los puntos de encuentro del vehículo.
-12. **Reconocimiento de campo de puntos de avituallamiento**: GPS de cada punto con acceso rodado, sombra, aparcamiento y vistas, para las tres rutas.
-13. **Acuerdo de _stand-by_ médico**: HM Rosaleda (Santiago) y ginecóloga de consulta privada con cita garantizada en 24 h en Santiago y Pontevedra/Vigo [NV — por negociar].
-14. **Acuerdo con fisioterapia desplazada** (centro de Sarria con servicio en radio de 50 km [V]; equivalente a localizar en el eje Pontevedra–Caldas–Padrón [NV]).
-15. **Acuerdos de experiencia:** balneario de Caldas (**verificar apertura y posibilidad de franja privada** [NV]); bodega (Pazo de Señoráns o La Val, **verificar visita privada** [NV]); **A Tafona** (mesa recurrente); **obradoiro de azabache** (identificar artesano — los comercios localizados son Azabache y Plata/Mayer y Joyería Regueira [V], pero **el taller con acceso privado está sin verificar** [NV]).
+12. **Campaña propia de medición de cobertura móvil** en las rutas elegidas, cada 500 m, dos operadores (~4.000–5.000 € [E]). Define los puntos de encuentro del vehículo.
+13. **Reconocimiento de campo de los puntos de avituallamiento y de recogida**, con GPS, sombra, aparcamiento y vistas — **imprescindible en el Camino Inglés**, donde el punto de recogida sustituye al final de etapa canónico.
+14. **Acuerdo de _stand-by_ médico**: HM Rosaleda (Santiago) y ginecóloga de consulta privada con cita garantizada en 24 h.
+15. **Acuerdos de experiencia**, todos pendientes de verificar: balneario de Caldas (apertura 2026 y franja privada [NV]); bodega dirigida por mujer [NV]; A Tafona (mesa recurrente [NV]); obradoiro de azabache [NV]; armador para la llegada por mar en el Inglés [NV].
+16. **Verificación de los puntos de recarga eléctrica** en cada base y de los tiempos de trayecto reales de todo el itinerario.
 
 **Deseable, año 1–2:**
 
-16. **Certificación ISO 21101** (3–5 meses [V]). Es el documento que abre la puerta de Virtuoso y de los seguros corporativos.
-17. **Acreditación Maiden Voyage** de los dos hoteles base, si están dispuestos. Sería el primer producto del Camino con hoteles acreditados.
-18. **Registro interno de incidentes por tramo**, anónimo y agregado. En dos temporadas es un activo que nadie más tiene.
+17. **Certificación ISO 21101** (3–5 meses [V]): es el documento que abre Virtuoso y los seguros corporativos.
+18. **Acreditación Maiden Voyage** de los hoteles base. Sería el primer producto del Camino con hoteles acreditados.
+19. **Registro interno de incidentes por tramo**, anónimo y agregado.
 
 ---
 
-## 11. Lo que no he podido verificar (y no he inventado)
+## 14. Lo que no he podido verificar (y no he inventado)
 
-- **Precio de Butterfield & Robinson** para el Camino de Santiago, tanto en la salida femenina de 5 noches como en el bespoke privado. Tampoco de 57hours ni de walkthecamino.com. Todos los dominios bloqueados por el proxy.
-- **Mapas de cobertura móvil por tramo** del Camino en Galicia. No hay fuente pública localizable.
+- **Precio de Butterfield & Robinson** para el Camino de Santiago, ni en la salida femenina de 5 noches ni en el bespoke. Tampoco de 57hours ni de walkthecamino.com. Dominios bloqueados por el proxy de salida.
+- **Mapas de cobertura móvil por tramo** del Camino en Galicia. No hay fuente pública localizable para ninguna de las cuatro rutas.
 - **Estado de apertura 2026 y posibilidad de uso privado** de los balnearios Acuña y Dávila de Caldas de Reis.
-- **Qué bodegas de Rías Baixas admiten visita privada en exclusiva fuera de horario**, y su precio.
-- **Puntos de recarga eléctrica** en Portomarín, Palas de Rei, Arzúa, Tui, A Guarda y Oia, y en ninguno de los hoteles objetivo.
+- **Qué bodegas de Rías Baixas admiten visita privada en exclusiva fuera de horario**, y a qué precio.
+- **Puntos de recarga eléctrica** en Portomarín, Palas de Rei, Arzúa, Tui, A Guarda y Oia, y en ninguno de los hoteles objetivo. Solo están verificados Sarria (3 puntos públicos) y Caldas de Reis (Rúa Real y Hotel O Cruceiro).
 - **Existencia de servicio VTC con conductora garantizada** en Galicia.
-- **Talleres de azabache en Santiago** que ofrezcan visita privada o apertura fuera de horario.
-- **Todos los tiempos de trayecto** salvo Portomarín → Santiago (92,7 km / 1 h 29, ViaMichelin). Son estimaciones sobre red viaria y deben recalcularse.
-- **Todo el modelo de costes del §5.3, §6.7c y §8.4** es estimación de mercado. Requiere cotización real.
-- **Densidad de peregrinos por tramo y mes** con granularidad fina: solo hay datos agregados anuales y por punto de inicio.
-- **Nombres concretos de guías** habilitadas disponibles.
+- **Talleres de azabache en Santiago** que ofrezcan visita privada o apertura fuera de horario. Los comercios localizados (Azabache y Plata/Mayer, Joyería Regueira) no están confirmados como talleres visitables.
+- **Armador o proveedor concreto, y precio, para la llegada por mar** en el Camino Inglés. "El Camino a Vela" y su reconocimiento por la Catedral en 2016 sí están verificados; el proveedor operativo, no.
+- **Restaurantes con estrella o de alta cocina en Pontedeume y Betanzos**, y balnearios en Ferrol, Betanzos, Tui, A Guarda y Oia. Su ausencia en las búsquedas es indicio fuerte pero no prueba.
+- **La cifra de 3.850 peregrinos que salen de A Guarda** es aportada por el cliente; no la he podido verificar.
+- **Todos los tiempos de trayecto** salvo Portomarín → Santiago (92,7 km / 1 h 29, ViaMichelin). Son estimaciones sobre red viaria y **deben recalcularse uno a uno** — especialmente los marcados con ⚠, que deciden si un proveedor entra o sale del radio de 20 minutos.
+- **Todo el modelo de costes del §12** combina tarifas verificadas (i7, chófer, guía freelance, furgón, fisioterapia, traslados, hoteles "desde") con estimaciones explicadas en §11.1. **Requiere cotización real antes de fijar el precio definitivo.** En particular: el coste-empresa de guía, el alojamiento del equipo y los 260 €/noche de habitación individual.
+- **Densidad de peregrinos por tramo y mes** con granularidad fina. Solo hay datos agregados anuales y por punto de inicio.
+- **Nombres concretos de guías habilitadas** disponibles, y de fisioterapeutas con carné de manipulador de alimentos.
 - El **"fantástico pazo" citado en Portomarín** por una de las fuentes, sin nombre.
+- **Si el acoso documentado está concentrado en las rutas portuguesas**: el artículo de *The Irish Times* (11/11/2024) que se cita como fuente **no lo dice** — habla de España, Portugal y Francia (§8.5). Esa afirmación del informe estadounidense debe corregirse o respaldarse con otra fuente.
 
 ---
 
-## 12. Fuentes
+## 15. Fuentes
 
 **Operadores y precios**
 - Backroads, *A Taste of Camino de Santiago Women's Premiere*: https://www.backroads.com/trips/WSTIW/taste-camino-de-santiago-womens-walking-hiking-tour
@@ -834,3 +1371,58 @@ En España hay unos **850 hoteles con al menos un cargador** [V], pero ninguna d
 - RACE, mapa de electrolineras en Galicia: https://www.race.es/mapa-de-carreteras-espana/electrolineras-galicia
 - VTC Prime, transporte ejecutivo de lujo en Galicia: https://vtcprime.com/
 - SIXT ride, VTC Galicia: https://www.sixt.es/ride/galicia/
+
+**Camino Inglés — estadísticas, historia y Compostela**
+- Vivecamino, récord de más de 30.000 peregrinos en 2025: https://vivecamino.com/record-en-el-camino-ingles-con-mas-de-30000-peregrinos-en-2025-no-951/
+- COPE Ferrol, el Inglés se acerca al 6 % de todos los peregrinos: https://www.cope.es/emisoras/galicia/a-coruna-provincia/ferrol/noticias/camino-ingles-consolida-crecimiento-acerca-6-todos-peregrinos-santiago-compostela-20251204_3265327.html
+- COPE Ferrol, supera por primera vez las 30.000 Compostelas: https://www.cope.es/emisoras/galicia/a-coruna-provincia/ferrol/noticias/camino-ingles-historia-supera-primera-vez-30-000-compostelas-ano-20251230_3278926.html
+- COPE Ferrol, más de 5.000 peregrinos hasta abril de 2026 y presencia femenina: https://www.cope.es/emisoras/galicia/a-coruna-provincia/ferrol/noticias/camino-ingles-crece-2026-5-000-peregrinos-abril-destacada-presencia-femenina-20260503_3356663.html
+- COPE Ferrol, 22.900 peregrinos antes de cerrar el verano de 2026: https://www.cope.es/emisoras/galicia/a-coruna-provincia/ferrol/noticias/camino-ingles-bate-records-2026-supera-22-900-peregrinos-cerrar-verano-20260901_3428132.html
+- El Ideal Gallego, más de la mitad de los peregrinos del Inglés son mujeres: https://www.elidealgallego.com/articulo/a-coruna/asi-peregrina-hace-camino-ingles-mujer-espanola-entre-25-64-anos-4227362
+- El Español/Quincemil, los extranjeros ya son mayoría en el Inglés: https://www.elespanol.com/quincemil/economia/turismo/20251020/peregrinos-extranjeros-mayoria-variante-inglesa-camino-santiago/1003743977100_0.html
+- Diario de Ferrol, caída de peregrinos en julio de 2026 por las olas de calor: https://diariodeferrol.elidealgallego.com/ferrol/2026-08-09/las-olas-de-calor-en-ferrol-provocan-una-caida-de-peregrinos-durante-el-pasado-mes-de-julio-872430.html
+- Pilgrim.es, Compostela desde A Coruña y condiciones de la dispensa: https://www.pilgrim.es/camino-de-santiago-desde-a-coruna-conseguir-compostela/
+- Tee Travel, el Camino Inglés desde A Coruña: https://www.tee-travel.com/blog/camino-santiago-ingles-a-coruna/
+- Xacopedia, Camino Inglés: https://xacopedia.com/Ingl%C3%A9s_Camino
+- Gronze, Camino Inglés — información: https://www.gronze.com/camino-ingles/informacion
+- caminoingles.gal, historia e información do Camiño Inglés: https://www.caminoingles.gal/en/historia-e-informacion-do-camino-ingles
+- Fundación Hispano Británica, El Camino Inglés: https://fundacionhispanobritanica.org/camino-ingles/
+- Gronze, etapa Betanzos – Hospital de Bruma: https://www.gronze.com/etapa/betanzos/hospital-bruma
+- Gronze, etapa Hospital de Bruma – Sigüeiro: https://www.gronze.com/etapa/hospital-bruma/sigueiro
+- caminoingles.gal, alojamientos Pontedeume–Betanzos: https://www.caminoingles.gal/en/aloxamentos-pontedeume-betanzos
+- La Rectoral de Cines, hotel en el Camino Inglés: https://larectoraldecines.com/hotel-en-el-camino-ingles/
+- Pensión Boutique Río Mandeo, Betanzos: https://pensionriomandeo.es/camino-ingles-betanzos/
+- El Camino a Vela (reconocimiento de la Catedral, 2016; 100 millas náuticas): https://elcaminoavela.com/en/
+- Clúster Marítimo, los peregrinos del mar ponen proa a la Costa da Morte: https://clustermaritimo.es/los-peregrinos-del-mar-ponen-proa-a-la-costa-da-morte/
+
+**Michelin en A Coruña y cocineras**
+- Guía Michelin, Retiro da Costiña (2★, Santa Comba): https://guide.michelin.com/en/galicia/santa-comba/restaurant/retiro-da-costina
+- Guía Michelin, As Garzas (1★, Barizo): https://guide.michelin.com/hr/en/galicia/barizo/restaurant/as-garzas
+- El Español/Quincemil, A Coruña lleva ocho años sin sumar estrella: https://www.elespanol.com/quincemil/vivir/gastrocoruna/20251126/coruna-lleva-anos-sin-sumar-nueva-estrella-michelin-deseosos/1003744031172_0.html
+- Gastroeconomy, lista completa de estrellas Michelin en España 2026: https://www.gastroeconomy.com/2025/11/lista-completa-de-los-restaurantes-con-estrella-michelin-en-espana-en-2026/
+
+**Seguridad — acoso documentado**
+- The Irish Times, 11/11/2024, "Women walking Camino de Santiago speak of 'terrifying' sexual harassment": https://www.irishtimes.com/world/europe/2024/11/11/women-walking-camino-de-santiago-speak-of-terrifying-sexual-harassment/
+- Premier Christian News, sobre el mismo informe: https://premierchristian.news/en/news/article/pilgrims-report-sexual-harassment-camino
+
+**Accesos aéreos**
+- El Correo Gallego, United inaugura la conexión directa Santiago–Nueva York: https://www.elcorreogallego.es/santiago/2026/05/28/united-airlines-inaugura-conexion-directa-santiago-nueva-york-aeropuerto-lavacolla-130741187.html
+- El Correo Gallego, las nuevas rutas del aeropuerto de Santiago: https://www.elcorreogallego.es/santiago/2026/07/07/nuevas-rutas-aeropuerto-santiago-destinos-132222732.html
+- Galicia Press, cómo se ha rehecho el mapa aéreo gallego (Vigo sin vuelos internacionales): https://www.galiciapress.es/articulo/economia/2026-08-02/5972263-wizz-air-united-klm-aterrizan-donde-despego-ryanair-asi-rehecho-mapa-aereo-gallego
+
+**Tarifas de proveedores (modelo de costes)**
+- RentLuxeCar, alquiler de BMW i7 en España (desde 750 €/día): https://es.rentluxecar.com/country/espana/bmw-i7-3
+- RentLuxeCar, alquiler de BMW X7 en España (desde 450 €/día): https://es.rentluxecar.com/country/espana/bmw-x7-3
+- Chófer Madrid Plus, chófer privado por horas desde 50 €/h: https://chofermadridplus.com/servicios-coche-con-chofer/chofer-privado-por-horas/
+- Chófer Madrid, cuánto cuesta alquilar un coche con conductor: https://www.chofermadrid.com/cuanto-cuesta-alquilar-un-coche-con-conductor/
+- Cronoshare, cuánto cobra un guía turístico en España 2026: https://www.cronoshare.com/cuanto-cuesta/guia-turistico
+- Cronoshare, cuánto cuesta alquilar un coche con conductor: https://www.cronoshare.com/cuanto-cuesta/alquilar-coche-conductor
+- TarifaAutónomo, tarifa hora de guía turístico freelance en España 2026: https://tarifaautonomo.com/blog/tarifa-hora-guia-turistico-espana
+- Our Guide in Barcelona, tarifas de guía privado: https://ourguideinbarcelona.com/rates/
+- Covey, alquiler de vehículos frigoríficos (desde 29,95 €/día): https://www.covey.es/alquiler-vehiculos-frigorificos
+- Central de Reservas, A Quinta da Auga (desde 163,69 €): https://www.centraldereservas.com/hoteles/espana/galicia/la-coruna/santiago-de-compostela/a-quinta-da-auga-hotel-spa-relais-chateaux
+- Central de Reservas, Parador de Baiona (desde 80,21 €): https://www.centraldereservas.com/hoteles/espana/galicia/pontevedra/bayona/parador-de-baiona
+- The World of Hotels, A Quinta da Auga (desde 199 €): https://santiagodecompostela.theworldofhotels.com/es/a-quinta-da-auga-hotel-spa-relais-and-chateaux-santiago-de-compostela/
+- NH Collection A Coruña Finisterre (5★): https://www.nh-collection.com/en/hotel/nh-collection-a-coruna-finisterre
+- Escapada Rural, casas rurales en Ordes (alquiler de casa completa): https://www.escapadarural.com/casas-rurales/ordes
+- Casa Grande de Rosende (pazo del s. XVI, Sober): https://pazo.casagrandederosende.com/reservas
