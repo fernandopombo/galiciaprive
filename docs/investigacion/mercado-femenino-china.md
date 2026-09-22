@@ -4,6 +4,34 @@
 Fecha: 22 de septiembre de 2026
 Ámbito: viabilidad y forma exacta de un producto "female-friendly" / solo mujeres de lujo para el mercado de China continental.
 
+---
+
+> ## ⚠ AVISO DE REENCUADRE — LEER ANTES QUE NADA
+>
+> **Este documento tiene dos partes escritas con dos supuestos distintos sobre quién es la clienta.**
+>
+> **Partes 1 a 9** analizan el **mercado chino del Camino** (la viajera de clase alta urbana que hoy camina a Santiago). El precio se fijó contra el ancla mental de 13.000–25.000 RMB que circula en Xiaohongshu y contra Benchmark, un operador de gama media.
+>
+> **Ese encuadre era erróneo para el público objetivo real, que son las ULTRARRICAS chinas.** Una clienta de patrimonio muy alto no compara con Benchmark: compara con Aman, con una villa en la Toscana, con un crucero a la Antártida y con lo que le propone su banca privada. El ancla de 13.000–25.000 RMB no le aplica en absoluto.
+>
+> **La PARTE II (sección 10) rehace precio, volumen, canal y valoración de servicios para el segmento UHNW y sustituye a los apartados que se indican.** Donde haya contradicción, **manda la Parte II**.
+>
+> | Apartado original | Estado | Sustituido por |
+> |---|---|---|
+> | 1.3 Perfil de la viajera | **Sustituido** | 10.2 |
+> | 2.3 Rango de precio | **Sustituido** | 10.3 |
+> | 4.4 Referencias de precio | **Complementado** | 10.3 |
+> | 5. Los seis servicios | **Sustituido** | 10.5 |
+> | 6.4 / 6.5 Canal WeChat y KOL | **Sustituido** | 10.4 |
+> | 7.1 Decisión y volumen | **Sustituido** | 10.1 y 10.6 |
+> | 7.2 Precio y tamaño de grupo | **Sustituido** | 10.6 |
+> | 7.3 Qué incluir | **Revisado** | 10.5 y 10.6 |
+> | 7.4 Mensajes de venta | **Sustituido** | 10.7 |
+>
+> **Qué sigue siendo válido de las partes 1 a 9, y es mucho:** toda la sección 1.1–1.2 (volumen y feminización del mercado chino del Camino, 65–67% mujeres); la sección 3 entera (lo que se dice en plataformas chinas, las siete preocupaciones, el vocabulario 自我对话/治愈/仪式感); la sección 4 entera (la competencia, y sobre todo **la ausencia total de 女子团 al Camino en lengua china**); el dato de seguridad de Galicia (2ª comunidad más segura, 35,3 vs 50,5); y las barreras de visado y conexiones aéreas (6.1–6.2). **La conclusión estructural —hueco competitivo total en el cruce femenino + chino + lujo— no solo se mantiene: se refuerza**, porque en el segmento UHNW el vacío es todavía más absoluto.
+
+---
+
 > **Nota de método y honestidad de fuentes.** El proxy de salida bloqueó por completo el acceso directo (`EGRESS_BLOCKED`) a Xiaohongshu, Zhihu, Douban, benchmark.vip, uparis.org, youxiake.com, caminoways.com, elcaminopeople.com, tourspain.es, oficinadelperegrino.com, traveldaily.cn y liontravel. Todo lo que sigue procede de **fragmentos de resultados de búsqueda**, no de la página completa. Por eso:
 > - Los datos marcados **[V]** aparecen en dos o más fuentes independientes o en una fuente oficial.
 > - Los marcados **[1F]** provienen de una sola fuente secundaria.
@@ -62,6 +90,8 @@ Una fuente china secundaria atribuida también a Turespaña da, para la cohorte 
 Esto significa que **en 2025 caminaron hacia Santiago aproximadamente 2.700–3.000 mujeres chinas** [EST, derivado de 4.200–4.500 × 65–67%]. Ese es el tamaño real del mercado natural. Un producto de lujo aspira a una fracción pequeña de él.
 
 ### 1.3 Perfil de la viajera china de alta gama que haría esto
+
+> **[SUSTITUIDO POR 10.2]** — Este perfil describe a la viajera de clase alta urbana, no a la ultrarrica. Se conserva porque sigue siendo el perfil correcto para un eventual segundo producto de gama inferior.
 
 Aquí hay que ser claro: **no existe un estudio publicado sobre "la peregrina china de lujo".** Lo que sigue es la intersección de tres conjuntos de datos verificados, y por tanto un perfil **construido [EST]**, no medido.
 
@@ -125,6 +155,8 @@ Hay una tensión aparente: las chinas viajan más por libre que los chinos (**71
 **Resolución:** el producto no compite contra el viaje por libre. Compite contra *no hacer el Camino*. La mujer que tiene 40 años, un cargo, doce días de vacaciones y ninguna gana de resolver ella misma el alojamiento en Padrón **no es una clienta FIT perdida; es una clienta que no viaja**. El grupo pequeño guiado es el formato que convierte intención en compra para este segmento concreto.
 
 ### 2.3 Rango de precio que aguanta
+
+> **[SUSTITUIDO POR 10.3]** — El cálculo que sigue usa como anclas el gasto medio del turista chino ordinario en España (2.872 €) y el catálogo de Benchmark. **Ambas anclas son del segmento equivocado.** La banda de 48.000–58.000 RMB que se deriva aquí queda anulada.
 
 Combinando tres anclas verificadas:
 
@@ -272,6 +304,8 @@ Datos operativos útiles de 57hours: **ratio cliente/guía 15:1, que es también
 
 ## 5. Comprobación de los seis servicios propuestos
 
+> **[SUSTITUIDO POR 10.5]** — La valoración que sigue es correcta para la viajera de clase alta. **Para la ultrarrica, dos veredictos cambian de signo**, en particular el de las compras privadas. Se conserva íntegra porque el contraste entre ambas tablas es en sí mismo informativo: muestra que estos dos públicos no compran lo mismo.
+
 Valoración de los seis servicios que el cliente quiere incluir, específicamente para la viajera china de alto poder adquisitivo.
 
 ### 5.1 El peso real de las compras: perdiendo fuerza, pero no muerto
@@ -395,6 +429,8 @@ De mayor a menor capacidad de cerrar una venta en el mercado chino:
 
 ### 6.4 Comunicación: WeChat como canal de venta y atención
 
+> **[SUSTITUIDO POR 10.4]** — La infraestructura WeChat descrita abajo sigue siendo necesaria, pero **es higiene, no canal de captación**. A una ultrarrica no se llega publicando en un 服务号. Ver 10.4.
+
 **WeChat no es un canal. Es el único canal.** Requisitos mínimos, en orden:
 
 1. **Cuenta oficial (服务号) verificada** con nombre chino, no una traducción literal de "Galicia Privé".
@@ -406,6 +442,8 @@ De mayor a menor capacidad de cerrar una venta en el mercado chino:
 Dato de contexto: el coste de captación en el ecosistema WeChat **se ha disparado** (en educación pasó de 80 RMB en 2020 a 210 RMB en 2025) [1F]. **La captación pagada en China es cara e ineficiente para un producto de ticket alto y volumen bajo.** El camino correcto es el dominio privado (私域): contenido, comunidad, prescripción.
 
 ### 6.5 Reseñas, prueba social, KOL y 达人
+
+> **[COMPLEMENTADO POR 10.4]** — Válido, pero incompleto para UHNW: faltan banca privada, family office, clubes de concierge y diseñadores de viaje a medida, que son los canales que de verdad importan en este segmento.
 
 - **Xiaohongshu es el paso obligatorio antes de viajar.** Más de **230 millones de usuarios activos mensuales con interés en viajes**, de los cuales **más del 80% usa la plataforma para buscar guías de viaje**, con **2,1 millones de notas nuevas al mes** en la categoría de viajes (datos ene–dic 2025) [1F] ([环球旅讯](https://m.traveldaily.cn/article/189197), [中国网](http://hs.china.com.cn/2026-01/27/content_43343467.html)).
   - *Precisión honesta: algunas reproducciones de este informe citan "2.300 millones de usuarios" y "24.000 millones de búsquedas", cifras implausibles que parecen un error de conversión de 2,3亿 y 240亿. Uso la lectura conservadora y lo señalo.*
@@ -422,6 +460,8 @@ Dato de contexto: el coste de captación en el ecosistema WeChat **se ha dispara
 ---
 
 ## 7. Recomendación
+
+> **[SUSTITUIDA POR 10.6 y 10.7]** — Precio, tamaño de grupo, volumen objetivo y mensajes de venta quedan rehechos para el segmento UHNW. **Se mantienen sin cambios**: la elección de ruta (A Guarda / Portugués da Costa), el argumento de seguridad de Galicia, las etapas de 12–18 km y la lista de innegociables operativos del 7.3.
 
 ### 7.1 La decisión
 
